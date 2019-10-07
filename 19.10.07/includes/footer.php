@@ -1,13 +1,13 @@
 <?php include('includes/floating-icons.php') ?>
 
 <script>
-	$(document).ready(function() {
-		appController.init({
-			assets: {
-				headerType: '<?=$headerType;?>'
-			}
-		});
-	});
+  $(document).ready(function() {
+    appController.init({
+      assets: {
+        headerType: '<?=$headerType;?>'
+      }
+    });
+  });
 </script>
 
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900" rel="stylesheet">
@@ -22,28 +22,28 @@
 
 <script>
 
-	// Essa função é o evento que é acionado quando a página é carregada, use-o para abrir automaticamente o popup
-	$(document).ready(function(){
-		openWaitingDialog()
-	})
+  // Essa função é o evento que é acionado quando a página é carregada, use-o para abrir automaticamente o popup
+  $(document).ready(function(){
+    openWaitingDialog()
+  })
 
-	// Você pode colocar dentro de uma funciona simples como no exemplo abaixo, para ficar mais bonito e poder usar em outros lugares, seja no onclick ou quando carre a página
-	function openWaitingDialog() {
-		waitingDialog.show(
-			'Calculando valores nos Correios',
-			{
-				dialogSize: 'md',
-				progressType: 'warning'
-			}
-		);
-		// Fecha o diálogo, coloquei num timeout para ilustrar
-		// setTimeout(function () {waitingDialog.hide();}, 3000);
-	}
+  // Você pode colocar dentro de uma funciona simples como no exemplo abaixo, para ficar mais bonito e poder usar em outros lugares, seja no onclick ou quando carre a página
+  function openWaitingDialog() {
+    waitingDialog.show(
+      'Calculando valores nos Correios',
+      {
+        dialogSize: 'md',
+        progressType: 'warning'
+      }
+    );
+    // Fecha o diálogo, coloquei num timeout para ilustrar
+    // setTimeout(function () {waitingDialog.hide();}, 3000);
+  }
 
 </script>
 
 <button
-	onclick="openWaitingDialog()"
+  onclick="openWaitingDialog()"
 ></button>
 
 <script><?php include('includes/js/custom.js'); ?></script>
