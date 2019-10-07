@@ -1,3 +1,46 @@
-body {
-  background: #000 !important;
+.p-0 {
+  padding: 0 !important;
+}
+
+
+.pr-0 {
+  padding-right: 0 !important;
+}
+
+.pl-0 {
+  padding-left: 0 !important;
+}
+
+.m-0 {
+  margin: 0 !important;
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+
+.px-30 {
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+}
+
+.category-modal-link {
+  float: left;
+  width: 100%;
+  border-bottom: 3px solid rgba(0,0,0,0);
+  transition: all 300ms;
+  box-sizing: border-box !important;
+}
+
+
+
+.category-modal-link:hover {
+  border-bottom: 3px solid rgba(0, 132, 255, 1);
+}
+
+
+.category-modal .logo img {
+  height: 160px;
+  padding: 15px 0;
 }

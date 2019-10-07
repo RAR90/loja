@@ -1,5 +1,15 @@
 <?php if ($floatingIcons) { ?>
 <ul id="floating-icons" class="floating-icons <?=$floatingIcons;?>">
+
+	<li class="tab">
+		<div class="tab-content contact">
+			<i class="fa fa-file-pdf-o fa-3x icon" style="border:none"></i>
+			<a href="contato.php" class="title">
+				<small>Recebemos sua planilha!</small>
+				<span>Envie seu pedido!</span>
+			</a>
+		</div>
+	</li>
 	<li class="tab">
 		<div class="tab-content whatsapp">
 			<i class="fa fa-whatsapp fa-4x icon"></i>

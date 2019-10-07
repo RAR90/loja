@@ -1,8 +1,8 @@
 <?php
 	include('includes/header.php');
 	include('includes/full-banner.php');
-	include('includes/providers-carousel.php');
 	include('includes/category-carousel.php');
+	include('includes/providers-carousel.php');
 ?>
 
 <div class="index">
@@ -12,6 +12,7 @@
 		include('includes/offers-carousel.php');
 		include('includes/user-opinion.php');
 		include('includes/category-calls.php');
+		include('includes/category-modal.php');
 	?>
 </div>
 

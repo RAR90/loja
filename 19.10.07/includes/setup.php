@@ -23,7 +23,7 @@
 	// on scroll floating menu
 	$onScrollBar = 'alternative'; // default, default-fixed, alternative
 
-	$categoryType = 'horizontal-bar'; // side-bar, horizontal-bar, both
+	$categoryType = 'side-bar'; // side-bar, horizontal-bar, both
 
 	// Default Components Configuration
 	$preloader = false; // true, false
