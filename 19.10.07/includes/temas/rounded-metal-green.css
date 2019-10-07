@@ -1,0 +1,122 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.rounded-metal-green .header-buttons .btn-image
+{background-color:#E8F9BD !important;}
+/*1.1.2 - Claro*/
+.rounded-metal-green .user-opinion .icon-circle,.rounded-metal-green .on-scroll-bar .main-menu .form .form-control:focus,.rounded-metal-green .header-no-address .search-form,.rounded-metal-green .header-address .search-form,.rounded-metal-green .form-control:focus
+{border-color:#8CA60B !important;}
+.rounded-metal-green .mobile-bar .btn.rounded-metal-green .mobile-bar .btn:hover,.rounded-metal-green .mobile-bar,.rounded-metal-green .paymants-bar .flags .box .divider,.rounded-metal-green .showcase-item-add.hvr-bounce-to-right:before,.rounded-metal-green .horizontal-bar,.rounded-metal-green .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.rounded-metal-green .on-scroll-bar .main-menu .form .btn.btn-primary,.rounded-metal-green .on-scroll-bar .content,.rounded-metal-green .header-no-address .search-enviar button,.rounded-metal-green .header-address .search-enviar button,.rounded-metal-green .btn.btn-primary,.rounded-metal-green .btn.btn-default
+{background-color:#8CA60B !important;}
+/*1.1.3 - Medio*/
+.rounded-metal-green .contato .title,.rounded-metal-green .contato-info-title,.rounded-metal-green .contato-infos,.rounded-metal-green .product-sizes-title,.rounded-metal-green .product-colors-sizes-title,.rounded-metal-green .product-info-title,.rounded-metal-green .article .text a,.rounded-metal-green .inner-wrapper-content .text .title span,.rounded-metal-green .sobre-full-text h3,.rounded-metal-green .footer-list-title,.rounded-metal-green .paymants-bar .banks .frame h3,.rounded-metal-green .related-carousel-item-details-link,.rounded-metal-green .icon-title i,.rounded-metal-green .offers-carousel-item-details-link,.rounded-metal-green .icon-title i,.rounded-metal-green .user-opinion .icon-circle i,.rounded-metal-green .side-bar-menu-title,.rounded-metal-green .navbar-default .dropdown-header,.rounded-metal-green .main-menu .social .icon:hover i,.rounded-metal-green .header-buttons .btn-image,.rounded-metal-green .cart-bar .cart .icon,.rounded-metal-green .cart-bar .cart .text-top,.rounded-metal-green .cart-bar .logged i,.rounded-metal-green .cart-bar .logged .text-top,.rounded-metal-green .cart-bar .logout-link,.rounded-metal-green .cart-bar .sign .text-bot,.rounded-metal-green .cart-bar .login:hover *,.rounded-metal-green .cart-bar .login,.rounded-metal-green a
+{color:#5A8327 !important;}
+.rounded-metal-green .cart-bar .logged:hover,.rounded-metal-green .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.rounded-metal-green .on-scroll-bar .main-menu .form .btn.btn-primary,.rounded-metal-green .cart-bar .login-menu .button input:hover,.rounded-metal-green .btn.btn-primary:hover,.rounded-metal-green .btn.btn-primary,.rounded-metal-green .btn.btn-default:hover,.rounded-metal-green .btn.btn-default,.rounded-metal-green .cart-bar .login:hover
+{border-color:#5A8327 !important;}
+.rounded-metal-green .main-menu li.curr a,.rounded-metal-green .main-menu li a:hover,.rounded-metal-green .on-scroll-bar .cart .icon .number,.rounded-metal-green .header-buttons .btn-image:hover,.rounded-metal-green .cart-bar .login-menu .button input:hover,.rounded-metal-green .cart-bar .login-menu .button input,.rounded-metal-green .btn.btn-primary:hover,.rounded-metal-green .btn.btn-default:hover
+{background-color:#5A8327 !important;}
+/*1.1.4 - Escuro*/
+.rounded-metal-green .on-scroll-bar .middle-left .button:hover i,.rounded-metal-green .cart-bar .logged:hover i,.rounded-metal-green .cart-bar .logged:hover
+{color:#3C4C22 !important;}
+.rounded-metal-green .on-scroll-bar .middle-left .button:hover,.rounded-metal-green .cart-bar .cart:hover
+{border-color:#3C4C22 !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.rounded-metal-green .header-address .address-ico i,.rounded-metal-green .header-address .address-link
+{color:#4C8ABF !important;}
+.rounded-metal-green .slider-theme .rsBullet.rsNavSelected span,.rounded-metal-green .full-banner .details .actions .btn
+{background-color:#4C8ABF !important;}
+/*1.2.2 - Escuro*/
+.rounded-metal-green .full-banner .details .actions .btn
+{border-color:#38658C !important;}
+.rounded-metal-green .full-banner .details .actions .btn:hover
+{background-color:#335C80 !important;}
+
+/*1.3 - Padrões*/
+.rounded-metal-green .mobile-bar .btn.rounded-metal-green .mobile-bar .btn:hover,.rounded-metal-green .mobile-bar a,.rounded-metal-green .carrinho-pay-btn-continuar:hover *,.rounded-metal-green .carrinho-btn-comprar:hover *,.rounded-metal-green .paymants-bar .flags .box .divider span,.rounded-metal-green .full-banner .details .actions .btn,.rounded-metal-green .navbar-default .navbar-nav>li>a,.rounded-metal-green .main-menu li.curr a,.rounded-metal-green .main-menu li a:hover,.rounded-metal-green .on-scroll-bar .middle-left .button i,.rounded-metal-green .on-scroll-bar .cart .icon .number,.rounded-metal-green .on-scroll-bar .cart:hover *,.rounded-metal-green .on-scroll-bar .cart,.rounded-metal-green .header-buttons .btn-image:hover,.rounded-metal-green .header-no-address .search-enviar button,.rounded-metal-green .header-address .search-enviar button,.rounded-metal-green .cart-bar .login-menu .button input:hover,.rounded-metal-green .cart-bar .login-menu .button input,.rounded-metal-green .btn.btn-primary,.rounded-metal-green .btn.btn-default
+{color:#FFF !important;}
+.rounded-metal-green .article .text h3 small,.rounded-metal-green .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.rounded-metal-green .footer-list li a,.rounded-metal-green .paymants-bar .pagseguro h3,.rounded-metal-green .paymants-bar .pagseguro-link p,.rounded-metal-green .showcase-item-title h3,.rounded-metal-green .border-table tr th
+{color:#111 !important;}
+.rounded-metal-green .panel-default>.panel-heading,.rounded-metal-green #mobile-user-menu .modal-body .modal-list li a,.rounded-metal-green .carrinho-quantidade-input,.rounded-metal-green .product-info-por,.rounded-metal-green .product-colorpicker .lb,.rounded-metal-green .product-info-text,.rounded-metal-green .article .text p,.rounded-metal-green .related-carousel-item-title h3,.rounded-metal-green .offers-carousel-item-title h3,.rounded-metal-green .related-carousel-item-price-por,.rounded-metal-green .offers-carousel-item-price-por,.rounded-metal-green .showcase-item-price-por,.rounded-metal-green .logged-menu li a:hover,.rounded-metal-green .cart-bar .logged .text-bot
+{color:#222 !important;}
+.rounded-metal-green .inner-wrapper-content .text p,.rounded-metal-green .icon-title h2,.rounded-metal-green .showcase-title,.rounded-metal-green .side-bar-menu-item a,.rounded-metal-green .side-bar,.rounded-metal-green .full-banner .details p,.rounded-metal-green .full-banner .details h3,.rounded-metal-green .dropdown-menu-large>li>ul>li>a,.rounded-metal-green .navbar-default .navbar-nav>.open>a,.rounded-metal-green .navbar-default .navbar-nav>.open>a:focus,.rounded-metal-green .navbar-default .navbar-nav>li>a:hover,.rounded-metal-green .main-menu li a,.rounded-metal-green .on-scroll-bar .main-menu li.curr a,.rounded-metal-green .on-scroll-bar .main-menu li a:hover,.rounded-metal-green .on-scroll-bar .main-menu li a,.rounded-metal-green .on-scroll-bar .search-txt input,.rounded-metal-green .main-menu .social .icon i,.rounded-metal-green .logged-menu li a,.rounded-metal-green .cart-bar .cart .icon .number,.rounded-metal-green .cart-bar .cart,.rounded-metal-green .cart-bar .logged,.rounded-metal-green .back-button .btn.btn-default,.rounded-metal-green .border-table tr td
+{color:#444 !important;}
+.rounded-metal-green .carrinho-pay-btn-continuar *,.rounded-metal-green .carrinho-btn-comprar *,.rounded-metal-green .carrinho-valor-total h4,.rounded-metal-green .carrinho-valor-total div,.rounded-metal-green .product-info-de,.rounded-metal-green .article .text h4,.rounded-metal-green .inner-wrapper-content .text .title small,.rounded-metal-green .footer-list li,.rounded-metal-green .related-carousel-item-price-de,.rounded-metal-green .offers-carousel-item-price-de,.rounded-metal-green .showcase-item-price-de,.rounded-metal-green .full-banner .details h3 small,.rounded-metal-green .full-banner .details .price
+{color:#777 !important;}
+.rounded-metal-green .border-table tr td
+{border-color:#000 !important;}
+.rounded-metal-green .full-banner .details hr
+{border-color:#777 !important;}
+.rounded-metal-green .footer-google-maps,.rounded-metal-green .footer-credits,.rounded-metal-green .paymants-bar .banks .frame,.rounded-metal-green .paymants-bar .flags .box,.rounded-metal-green .related-carousel-item-wrapper,.rounded-metal-green .showcase-item-img,.rounded-metal-green .logged-menu li a,.rounded-metal-green .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.rounded-metal-green .header-address .address.hvr-ripple-out:before
+{border-color:#FAFAFA !important;}
+.rounded-metal-green #mobile-user-menu .modal-body .modal-list li a,.rounded-metal-green .panel-default>.panel-heading,.rounded-metal-green .modal-footer,.rounded-metal-green .modal-header,.rounded-metal-green .product-colorpicker .icon,.rounded-metal-green .inner-wrapper-content .text .title,.rounded-metal-green .sobre-full-text h3,.rounded-metal-green .footer,.rounded-metal-green .paymants-bar,.rounded-metal-green .user-opinion,.rounded-metal-green .user-access,.rounded-metal-green .category-carousel,.rounded-metal-green .category-calls,.rounded-metal-green .side-bar-menu-item a,.rounded-metal-green .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.rounded-metal-green .pagination li:not([class*="current"]) a:hover,.rounded-metal-green .pagination li.current a,.rounded-metal-green .pagination > li > a,.rounded-metal-green .pagination > li > span,.rounded-metal-green .paymants-bar .line,.rounded-metal-green .on-scroll-bar .middle-left .button,.rounded-metal-green .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.rounded-metal-green .modal-header,.rounded-metal-green .modal-content,.rounded-metal-green .carrinho-btn-comprar,.rounded-metal-green .carrinho-frete,.rounded-metal-green .pagination li:not([class*="current"]) a:hover,.rounded-metal-green .pagination li.current a,.rounded-metal-green .pagination > li > a,.rounded-metal-green .pagination > li > span,.rounded-metal-green .paymants-bar,.rounded-metal-green .related-carousel-item-wrapper,.rounded-metal-green .offers-carousel-item-wrapper,.rounded-metal-green .side-bar-menu-item a,.rounded-metal-green .slider-theme .rsBullet span,.rounded-metal-green .dropdown-menu,.rounded-metal-green .on-scroll-bar .main-menu,.rounded-metal-green .on-scroll-bar .search-txt input,.rounded-metal-green .header-no-address .search-form,.rounded-metal-green .header-address .search-form,.rounded-metal-green .logged-menu li a,.rounded-metal-green .logged-menu,.rounded-metal-green .cart-bar .cart .icon .number,.rounded-metal-green .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.rounded-metal-green .side-bar-menu-title,.rounded-metal-green .side-bar,.rounded-metal-green .navbar-default .navbar-nav>.open>a,.rounded-metal-green .navbar-default .navbar-nav>.open>a:focus,.rounded-metal-green .navbar-default .navbar-nav>li>a,.rounded-metal-green .navbar-default .navbar-nav>li>a:hover,.rounded-metal-green .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.rounded-metal-green .footer,.rounded-metal-green .category-carousel,.rounded-metal-green .category-calls,.rounded-metal-green .header-no-address,.rounded-metal-green .header-address,.rounded-metal-green
+{background-color:#FAFAFA !important;}
+.rounded-metal-green .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.rounded-metal-green .user-opinion,.rounded-metal-green .user-access .content,.rounded-metal-green .user-access,.rounded-metal-green .logged-menu li a:hover,.rounded-metal-green .cart-bar,.rounded-metal-green .striped-table tbody tr:nth-child(odd)
+{background-color:#F0F0F0 !important;}
+.rounded-metal-green .panel-default>.panel-heading,.rounded-metal-green .carrinho-pay-btn-continuar,.rounded-metal-green .carrinho-valor-total,.rounded-metal-green .product-color-size,.rounded-metal-green .inner-wrapper-title,.rounded-metal-green .side-bar-menu-item a:hover,.rounded-metal-green .main-menu,.rounded-metal-green .on-scroll-bar .main-menu li.curr a,.rounded-metal-green .on-scroll-bar .main-menu li a:hover,.rounded-metal-green .header-address .address:hover,.rounded-metal-green .back-button .btn.btn-default:hover
+{background-color:#EEE !important;}
+.rounded-metal-green .dropdown-menu .divider,.rounded-metal-green .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.rounded-metal-green .pagination li:not([class*="current"]) a:hover,.rounded-metal-green .full-banner .details .actions .btn:hover,.rounded-metal-green .full-banner .details .actions .btn,.rounded-metal-green .navbar-default .navbar-nav>li>a:hover,.rounded-metal-green .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.rounded-metal-green .on-scroll-bar .main-menu .form .btn.btn-primary,.rounded-metal-green .on-scroll-bar .middle-left .button:hover,.rounded-metal-green .main-menu .social .icon:hover i,.rounded-metal-green .header-buttons .btn-image:hover,.rounded-metal-green .header-no-address .search-enviar button:hover,.rounded-metal-green .header-address .search-enviar button:hover,.rounded-metal-green .cart-bar .logged i,.rounded-metal-green .cart-bar .logged,.rounded-metal-green .cart-bar .login,.rounded-metal-green .cart-bar .login-menu .button input,.rounded-metal-green .cart-bar .login-menu .button input:hover,.rounded-metal-green .back-button .btn.btn-default,.rounded-metal-green .back-button .btn.btn-default:hover,.rounded-metal-green .striped-table tbody tr:hover,.rounded-metal-green .striped-table tbody tr:nth-child(odd),.rounded-metal-green .btn.btn-primary,.rounded-metal-green .btn.btn-primary:hover,.rounded-metal-green .btn.btn-default,.rounded-metal-green .btn.btn-default:hover {transition:all 300ms !important;}
+.rounded-metal-green .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.rounded-metal-green .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.rounded-metal-green .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.rounded-metal-green .logged-menu li a:hover {text-decoration:none;}
+.rounded-metal-green .on-scroll-bar #search-form-float.focus,
+.rounded-metal-green .header-no-address #search-form.focus,
+.rounded-metal-green .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.rounded-metal-green .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.rounded-metal-green .on-scroll-bar .search-form {border:none;}
+.rounded-metal-green .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.rounded-metal-green .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.rounded-metal-green .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.rounded-metal-green .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.rounded-metal-green .slider-theme .rsBullet span {border:none;}
+.rounded-metal-green .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.rounded-metal-green .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.rounded-metal-green .side-bar-menu-item a:hover {text-decoration:none;}
+.rounded-metal-green .showcase-item-wrapper {border:none;}
+.rounded-metal-green .offers-carousel-item-wrapper {border:none;}
+.rounded-metal-green .paymants-bar {border-bottom:none;}
+.rounded-metal-green .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.rounded-metal-green .footer {border-bottom:none;}
+.rounded-metal-green .footer-google-maps,
+.rounded-metal-green .footer-credits {border-bottom:none;}
+.rounded-metal-green .pagination > li > a,
+.rounded-metal-green .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.rounded-metal-green .pagination li.current a {box-shadow:none;}
+.rounded-metal-green .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.rounded-metal-green .product-color-size-color {border-left-color: #EEE;}
+.rounded-metal-green .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.rounded-metal-green .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}

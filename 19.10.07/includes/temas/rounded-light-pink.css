@@ -1,0 +1,135 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.rounded-light-pink .header-buttons .btn-image
+{background-color:#F8E4D3 !important;}
+/*1.1.2 - Claro*/
+.rounded-light-pink .user-opinion .icon-circle,.rounded-light-pink .on-scroll-bar .main-menu .form .form-control:focus,.rounded-light-pink .header-no-address .search-form,.rounded-light-pink .header-address .search-form,.rounded-light-pink .form-control:focus
+{border-color:#FFA8A6 !important;}
+.rounded-light-pink .navbar-default .navbar-nav>li>a,.rounded-light-pink .mobile-bar .btn.rounded-light-pink .mobile-bar .btn:hover,.rounded-light-pink .mobile-bar,.rounded-light-pink .paymants-bar .flags .box .divider,.rounded-light-pink .showcase-item-add.hvr-bounce-to-right:before,.rounded-light-pink .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.rounded-light-pink .on-scroll-bar .main-menu .form .btn.btn-primary,.rounded-light-pink .on-scroll-bar .content,.rounded-light-pink .header-no-address .search-enviar button,.rounded-light-pink .header-address .search-enviar button,.rounded-light-pink .btn.btn-primary,.rounded-light-pink .btn.btn-default
+{background-color:#FFA8A6 !important;}
+/*1.1.3 - Medio 0095CC*/
+.rounded-light-pink a,.rounded-light-pink .navbar-default .dropdown-header,.rounded-light-pink .navbar-default .navbar-nav>li>a:hover,.rounded-light-pink .contato .title,.rounded-light-pink .contato-info-title,.rounded-light-pink .contato-infos,.rounded-light-pink .product-sizes-title,.rounded-light-pink .product-colors-sizes-title,.rounded-light-pink .product-info-title,.rounded-light-pink .article .text a,.rounded-light-pink .inner-wrapper-content .text .title span,.rounded-light-pink .sobre-full-text h3,.rounded-light-pink .footer-list-title,.rounded-light-pink .paymants-bar .banks .frame h3,.rounded-light-pink .related-carousel-item-details-link,.rounded-light-pink .icon-title i,.rounded-light-pink .offers-carousel-item-details-link,.rounded-light-pink .icon-title i,.rounded-light-pink .user-opinion .icon-circle i,.rounded-light-pink .side-bar-menu-title,.rounded-light-pink .navbar-default .dropdown-header,.rounded-light-pink .main-menu .social .icon:hover i,.rounded-light-pink .header-buttons .btn-image
+{color:#FF9C99 !important;}
+.rounded-light-pink .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.rounded-light-pink .on-scroll-bar .main-menu .form .btn.btn-primary,.rounded-light-pink .btn.btn-primary:hover,.rounded-light-pink .btn.btn-primary,.rounded-light-pink .btn.btn-default:hover,.rounded-light-pink .btn.btn-default
+{border-color:#FF9C99 !important;}
+.rounded-light-pink .cart-bar, .rounded-light-pink .cart-bar .login-menu .button input,.rounded-light-pink .main-menu li.curr a,.rounded-light-pink .main-menu li a:hover,.rounded-light-pink .on-scroll-bar .cart .icon .number,.rounded-light-pink .header-buttons .btn-image:hover,.rounded-light-pink .btn.btn-primary:hover,.rounded-light-pink .btn.btn-default:hover
+{background-color:#FF9C99 !important;}
+/*1.1.4 - Escuro*/
+.rounded-light-pink .on-scroll-bar .middle-left .button:hover i,
+{color:#FCA48A !important;}
+.rounded-light-pink .cart-bar .login-menu .button input:hover,.rounded-light-pink .cart-bar .login-menu .button input,.rounded-light-pink .on-scroll-bar .middle-left .button:hover
+{border-color:#FCA48A !important;}
+.rounded-light-pink .navbar-default .navbar-nav>.open>a:focus,.rounded-light-pink .navbar-default .navbar-nav>.open>a,.rounded-light-pink .navbar-default .navbar-nav>li>a:hover,.rounded-light-pink .cart-bar .login-menu .button input:hover
+{background-color:#FCA48A !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.rounded-light-pink .header-address .address-ico i,.rounded-light-pink .header-address .address-link
+{color:#FCA48A !important;}
+.rounded-light-pink .cart-bar .cart .icon .number,.rounded-light-pink .slider-theme .rsBullet.rsNavSelected span,.rounded-light-pink .full-banner .details .actions .btn
+{background-color:#FCA48A !important;}
+/*1.2.2 - Escuro*/
+.rounded-light-pink .full-banner .details .actions .btn-primary
+{border-color:#D98D77 !important;}
+.rounded-light-pink .full-banner .details .actions .btn:hover
+{background-color:#D98D77 !important;}
+
+/*1.3 - Padrões*/
+.rounded-light-pink .navbar-default .navbar-nav>.open>a:focus,.rounded-light-pink .navbar-default .navbar-nav>.open>a,.rounded-light-pink .navbar-default .navbar-nav>li>a:hover,.rounded-light-pink .navbar-default .navbar-nav>li>a:hover,.rounded-light-pink .navbar-default .navbar-nav>li>a,.rounded-light-pink .cart-bar .cart .icon .number,.rounded-light-pink .cart-bar .cart .icon,.rounded-light-pink .cart-bar .cart .text-top,.rounded-light-pink .cart-bar .cart,.rounded-light-pink .cart-bar .logged:hover,.rounded-light-pink .cart-bar .logged:hover i,.rounded-light-pink .cart-bar .logged i,.rounded-light-pink .cart-bar .logged .text-bot,.rounded-light-pink .cart-bar .logged .text-top,.rounded-light-pink .cart-bar .logged,.rounded-light-pink .cart-bar .logout-link,.rounded-light-pink .cart-bar .sign .text-top,.rounded-light-pink .cart-bar .sign .text-bot,.rounded-light-pink .cart-bar .login:hover *,.rounded-light-pink .cart-bar .login,.rounded-light-pink .cart-bar .login-menu .button input:hover,.rounded-light-pink .mobile-bar .btn.rounded-light-pink .mobile-bar .btn:hover,.rounded-light-pink .mobile-bar a,.rounded-light-pink .carrinho-pay-btn-continuar:hover *,.rounded-light-pink .carrinho-btn-comprar:hover *,.rounded-light-pink .paymants-bar .flags .box .divider span,.rounded-light-pink .full-banner .details .actions .btn,.rounded-light-pink .main-menu li.curr a,.rounded-light-pink .main-menu li a:hover,.rounded-light-pink .on-scroll-bar .middle-left .button i,.rounded-light-pink .on-scroll-bar .cart .icon .number,.rounded-light-pink .on-scroll-bar .cart:hover *,.rounded-light-pink .on-scroll-bar .cart,.rounded-light-pink .header-buttons .btn-image:hover,.rounded-light-pink .header-no-address .search-enviar button,.rounded-light-pink .header-address .search-enviar button,.rounded-light-pink .btn.btn-primary,.rounded-light-pink .btn.btn-default
+{color:#FFF !important;}
+.rounded-light-pink .cart-bar .login-menu .button input,.rounded-light-pink .article .text h3 small,.rounded-light-pink .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.rounded-light-pink .footer-list li a,.rounded-light-pink .paymants-bar .pagseguro h3,.rounded-light-pink .paymants-bar .pagseguro-link p,.rounded-light-pink .showcase-item-title h3,.rounded-light-pink .border-table tr th
+{color:#111 !important;}
+.rounded-light-pink .logged-menu li a:hover,.rounded-light-pink .logged-menu li a,.rounded-light-pink .panel-default>.panel-heading,.rounded-light-pink #mobile-user-menu .modal-body .modal-list li a,.rounded-light-pink .carrinho-quantidade-input,.rounded-light-pink .product-info-por,.rounded-light-pink .product-colorpicker .lb,.rounded-light-pink .product-info-text,.rounded-light-pink .article .text p,.rounded-light-pink .related-carousel-item-title h3,.rounded-light-pink .offers-carousel-item-title h3,.rounded-light-pink .related-carousel-item-price-por,.rounded-light-pink .offers-carousel-item-price-por,.rounded-light-pink .showcase-item-price-por,.rounded-light-pink .logged-menu li a:hover
+{color:#222 !important;}
+.rounded-light-pink .dropdown-menu-large>li>ul>li>a,.rounded-light-pink .inner-wrapper-content .text p,.rounded-light-pink .icon-title h2,.rounded-light-pink .showcase-title,.rounded-light-pink .side-bar-menu-item a,.rounded-light-pink .side-bar,.rounded-light-pink .full-banner .details p,.rounded-light-pink .full-banner .details h3,.rounded-light-pink .dropdown-menu-large>li>ul>li>a,.rounded-light-pink .main-menu li a,.rounded-light-pink .on-scroll-bar .main-menu li.curr a,.rounded-light-pink .on-scroll-bar .main-menu li a:hover,.rounded-light-pink .on-scroll-bar .main-menu li a,.rounded-light-pink .on-scroll-bar .search-txt input,.rounded-light-pink .main-menu .social .icon i,.rounded-light-pink .logged-menu li a,.rounded-light-pink .back-button .btn.btn-default,.rounded-light-pink .border-table tr td
+{color:#444 !important;}
+.rounded-light-pink .carrinho-pay-btn-continuar *,.rounded-light-pink .carrinho-btn-comprar *,.rounded-light-pink .carrinho-valor-total h4,.rounded-light-pink .carrinho-valor-total div,.rounded-light-pink .product-info-de,.rounded-light-pink .article .text h4,.rounded-light-pink .inner-wrapper-content .text .title small,.rounded-light-pink .footer-list li,.rounded-light-pink .related-carousel-item-price-de,.rounded-light-pink .offers-carousel-item-price-de,.rounded-light-pink .showcase-item-price-de,.rounded-light-pink .full-banner .details h3 small,.rounded-light-pink .full-banner .details .price
+{color:#777 !important;}
+.rounded-light-pink .border-table tr td
+{border-color:#000 !important;}
+.rounded-light-pink .full-banner .details hr
+{border-color:#777 !important;}
+.rounded-light-pink .footer-google-maps,.rounded-light-pink .footer-credits,.rounded-light-pink .paymants-bar .banks .frame,.rounded-light-pink .paymants-bar .flags .box,.rounded-light-pink .related-carousel-item-wrapper,.rounded-light-pink .showcase-item-img,.rounded-light-pink .logged-menu li a,.rounded-light-pink .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.rounded-light-pink .header-address .address.hvr-ripple-out:before
+{border-color:#FFF8F3 !important;}
+.rounded-light-pink .logged-menu li a,.rounded-light-pink #mobile-user-menu .modal-body .modal-list li a,.rounded-light-pink .panel-default>.panel-heading,.rounded-light-pink .modal-footer,.rounded-light-pink .modal-header,.rounded-light-pink .product-colorpicker .icon,.rounded-light-pink .inner-wrapper-content .text .title,.rounded-light-pink .sobre-full-text h3,.rounded-light-pink .footer,.rounded-light-pink .paymants-bar,.rounded-light-pink .user-opinion,.rounded-light-pink .user-access,.rounded-light-pink .category-carousel,.rounded-light-pink .category-calls,.rounded-light-pink .side-bar-menu-item a,.rounded-light-pink .header-address .address.hvr-ripple-out:hover:before
+{border-color:#FFEFE3 !important;}
+.rounded-light-pink .cart-bar .logged:hover,.rounded-light-pink .cart-bar .cart:hover,.rounded-light-pink .cart-bar .login:hover,.rounded-light-pink .pagination li:not([class*="current"]) a:hover,.rounded-light-pink .pagination li.current a,.rounded-light-pink .pagination > li > a,.rounded-light-pink .pagination > li > span,.rounded-light-pink .paymants-bar .line,.rounded-light-pink .on-scroll-bar .middle-left .button,.rounded-light-pink .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.rounded-light-pink .dropdown-menu,.rounded-light-pink .horizontal-bar .content,.rounded-light-pink .horizontal-bar,.rounded-light-pink .logged-menu li a,.rounded-light-pink .logged-menu,.rounded-light-pink .modal-header,.rounded-light-pink .modal-content,.rounded-light-pink .carrinho-btn-comprar,.rounded-light-pink .carrinho-frete,.rounded-light-pink .pagination li:not([class*="current"]) a:hover,.rounded-light-pink .pagination li.current a,.rounded-light-pink .pagination > li > a,.rounded-light-pink .pagination > li > span,.rounded-light-pink .paymants-bar,.rounded-light-pink .related-carousel-item-wrapper,.rounded-light-pink .offers-carousel-item-wrapper,.rounded-light-pink .side-bar-menu-item a,.rounded-light-pink .slider-theme .rsBullet span,.rounded-light-pink .dropdown-menu,.rounded-light-pink .on-scroll-bar .main-menu,.rounded-light-pink .on-scroll-bar .search-txt input,.rounded-light-pink .header-no-address .search-form,.rounded-light-pink .header-address .search-form,.rounded-light-pink .logged-menu li a,.rounded-light-pink .logged-menu,.rounded-light-pink .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.rounded-light-pink .side-bar-menu-title,.rounded-light-pink .side-bar,.rounded-light-pink .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.rounded-light-pink .logged-menu li a:hover,.rounded-light-pink .footer,.rounded-light-pink .category-carousel,.rounded-light-pink .category-calls,.rounded-light-pink .header-no-address,.rounded-light-pink .header-address,.rounded-light-pink
+{background-color:#FFF8F3 !important;}
+.rounded-light-pink .inner-wrapper-content
+{background-color:#FFF !important;}
+.rounded-light-pink .user-opinion,.rounded-light-pink .user-access .content,.rounded-light-pink .user-access,.rounded-light-pink .logged-menu li a:hover,.rounded-light-pink .striped-table tbody tr:nth-child(odd)
+{background-color:#FFF !important;}
+.rounded-light-pink .panel-default>.panel-heading,.rounded-light-pink .carrinho-pay-btn-continuar,.rounded-light-pink .carrinho-valor-total,.rounded-light-pink .product-color-size,.rounded-light-pink .inner-wrapper-title,.rounded-light-pink .side-bar-menu-item a:hover,.rounded-light-pink .main-menu,.rounded-light-pink .on-scroll-bar .main-menu li.curr a,.rounded-light-pink .on-scroll-bar .main-menu li a:hover,.rounded-light-pink .header-address .address:hover,.rounded-light-pink .back-button .btn.btn-default:hover
+{background-color:#FFEFE3 !important;}
+.rounded-light-pink .dropdown-menu .divider,.rounded-light-pink .dropdown-menu .divider,.rounded-light-pink .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.rounded-light-pink .navbar-default .navbar-nav>li>a:hover,.rounded-light-pink .navbar-default .navbar-nav>li>a,.rounded-light-pink .navbar-default .navbar-nav>li>a:hover,.rounded-light-pink .cart-bar .logged:hover i,.rounded-light-pink .cart-bar .logged i,.rounded-light-pink .cart-bar .logged .text-bot,.rounded-light-pink .cart-bar .logged .text-top,.rounded-light-pink .cart-bar .logged,.rounded-light-pink .cart-bar .logout-link,.rounded-light-pink .cart-bar .sign .text-top,.rounded-light-pink .cart-bar .sign .text-bot,.rounded-light-pink .cart-bar .login:hover *,.rounded-light-pink .cart-bar .login,.rounded-light-pink .cart-bar .login-menu .button input:hover,.rounded-light-pink .mobile-bar .btn.rounded-light-pink .mobile-bar .btn:hover,.rounded-light-pink .mobile-bar a,.rounded-light-pink .carrinho-pay-btn-continuar:hover *,.rounded-light-pink .carrinho-btn-comprar:hover *,.rounded-light-pink .paymants-bar .flags .box .divider span,.rounded-light-pink .full-banner .details .actions .btn,.rounded-light-pink .main-menu li.curr a,.rounded-light-pink .main-menu li a:hover,.rounded-light-pink .on-scroll-bar .middle-left .button i,.rounded-light-pink .on-scroll-bar .cart .icon .number,.rounded-light-pink .on-scroll-bar .cart:hover *,.rounded-light-pink .on-scroll-bar .cart,.rounded-light-pink .header-buttons .btn-image:hover,.rounded-light-pink .header-no-address .search-enviar button,.rounded-light-pink .header-address .search-enviar button,.rounded-light-pink .btn.btn-primary,.rounded-light-pink .btn.btn-default,.rounded-light-pink .cart-bar .login-menu .button input:hover,.rounded-light-pink .pagination li:not([class*="current"]) a:hover,.rounded-light-pink .full-banner .details .actions .btn:hover,.rounded-light-pink .full-banner .details .actions .btn,.rounded-light-pink .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.rounded-light-pink .on-scroll-bar .main-menu .form .btn.btn-primary,.rounded-light-pink .on-scroll-bar .middle-left .button:hover,.rounded-light-pink .main-menu .social .icon:hover i,.rounded-light-pink .header-buttons .btn-image:hover,.rounded-light-pink .header-no-address .search-enviar button:hover,.rounded-light-pink .header-address .search-enviar button:hover,.rounded-light-pink .back-button .btn.btn-default,.rounded-light-pink .back-button .btn.btn-default:hover,.rounded-light-pink .striped-table tbody tr:hover,.rounded-light-pink .striped-table tbody tr:nth-child(odd),.rounded-light-pink .btn.btn-primary,.rounded-light-pink .btn.btn-primary:hover,.rounded-light-pink .btn.btn-default,.rounded-light-pink .btn.btn-default:hover
+{transition:all 300ms !important;}
+.rounded-light-pink .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.rounded-light-pink .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.rounded-light-pink .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.rounded-light-pink .logged-menu li a:hover {text-decoration:none;}
+.rounded-light-pink .on-scroll-bar #search-form-float.focus,
+.rounded-light-pink .header-no-address #search-form.focus,
+.rounded-light-pink .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.rounded-light-pink .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.rounded-light-pink .on-scroll-bar .search-form {border:none;}
+.rounded-light-pink .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.rounded-light-pink .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.rounded-light-pink .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.rounded-light-pink .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.rounded-light-pink .slider-theme .rsBullet span {border:none;}
+.rounded-light-pink .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.rounded-light-pink .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.rounded-light-pink .side-bar-menu-item a:hover {text-decoration:none;}
+.rounded-light-pink .showcase-item-wrapper {border:none;}
+.rounded-light-pink .offers-carousel-item-wrapper {border:none;}
+.rounded-light-pink .paymants-bar {border-bottom:none;}
+.rounded-light-pink .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.rounded-light-pink .footer {border-bottom:none;}
+.rounded-light-pink .footer-google-maps,
+.rounded-light-pink .footer-credits {border-bottom:none;}
+.rounded-light-pink .pagination > li > a,
+.rounded-light-pink .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.rounded-light-pink .pagination li.current a {box-shadow:none;}
+.rounded-light-pink .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.rounded-light-pink .product-color-size-color {border-left-color: #EEE;}
+.rounded-light-pink .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.rounded-light-pink .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}
+.rounded-light-pink .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.rounded-light-pink .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.rounded-light-pink .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.rounded-light-pink .logged-menu li a:hover {text-decoration:none;}
+.rounded-light-pink .horizontal-bar .content {margin-top:10px;margin-bottom:10px;}
+.rounded-light-pink .navbar-default .navbar-nav>li>a {margin-right:5px;border-radius:5px;}
+.rounded-light-pink .dropdown-menu {border-color:transparent;}
+.rounded-light-pink .navbar-default .navbar-nav>.open>a,
+.rounded-light-pink .navbar-default .navbar-nav>.open>a:focus {background-color:transparent;}
+

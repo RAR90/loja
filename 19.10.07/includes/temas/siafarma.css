@@ -1,0 +1,122 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.siafarma .header-buttons .btn-image
+{background-color:#E8F9BD !important;}
+/*1.1.2 - Claro*/
+.siafarma .user-opinion .icon-circle,.siafarma .on-scroll-bar .main-menu .form .form-control:focus,.siafarma .header-no-address .search-form,.siafarma .header-address .search-form,.siafarma .form-control:focus
+{border-color:#5f9b82 !important;}
+.siafarma .mobile-bar .btn.siafarma .mobile-bar .btn:hover,.siafarma .mobile-bar,.siafarma .paymants-bar .flags .box .divider,.siafarma .showcase-item-add.hvr-bounce-to-right:before,.siafarma .horizontal-bar,.siafarma .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.siafarma .on-scroll-bar .main-menu .form .btn.btn-primary,.siafarma .on-scroll-bar .content,.siafarma .header-no-address .search-enviar button,.siafarma .header-address .search-enviar button,.siafarma .btn.btn-primary,.siafarma .btn.btn-default
+{background-color:#5f9b82 !important;}
+/*1.1.3 - Medio*/
+.siafarma .contato .title,.siafarma .contato-info-title,.siafarma .contato-infos,.siafarma .product-sizes-title,.siafarma .product-colors-sizes-title,.siafarma .product-info-title,.siafarma .article .text a,.siafarma .inner-wrapper-content .text .title span,.siafarma .sobre-full-text h3,.siafarma .footer-list-title,.siafarma .paymants-bar .banks .frame h3,.siafarma .related-carousel-item-details-link,.siafarma .icon-title i,.siafarma .offers-carousel-item-details-link,.siafarma .icon-title i,.siafarma .user-opinion .icon-circle i,.siafarma .side-bar-menu-title,.siafarma .navbar-default .dropdown-header,.siafarma .main-menu .social .icon:hover i,.siafarma .header-buttons .btn-image,.siafarma .cart-bar .cart .icon,.siafarma .cart-bar .cart .text-top,.siafarma .cart-bar .logged i,.siafarma .cart-bar .logged .text-top,.siafarma .cart-bar .logout-link,.siafarma .cart-bar .sign .text-bot,.siafarma .cart-bar .login:hover *,.siafarma .cart-bar .login,.siafarma a
+{color:#178953 !important;}
+.siafarma .cart-bar .logged:hover,.siafarma .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.siafarma .on-scroll-bar .main-menu .form .btn.btn-primary,.siafarma .cart-bar .login-menu .button input:hover,.siafarma .btn.btn-primary:hover,.siafarma .btn.btn-primary,.siafarma .btn.btn-default:hover,.siafarma .btn.btn-default,.siafarma .cart-bar .login:hover
+{border-color:#178953 !important;}
+.siafarma .main-menu li.curr a,.siafarma .main-menu li a:hover,.siafarma .on-scroll-bar .cart .icon .number,.siafarma .header-buttons .btn-image:hover,.siafarma .cart-bar .login-menu .button input:hover,.siafarma .cart-bar .login-menu .button input,.siafarma .btn.btn-primary:hover,.siafarma .btn.btn-default:hover
+{background-color:#178953 !important;}
+/*1.1.4 - Escuro*/
+.siafarma .on-scroll-bar .middle-left .button:hover i,.siafarma .cart-bar .logged:hover i,.siafarma .cart-bar .logged:hover
+{color:#3C4C22 !important;}
+.siafarma .on-scroll-bar .middle-left .button:hover,.siafarma .cart-bar .cart:hover
+{border-color:#3C4C22 !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.siafarma .header-address .address-ico i,.siafarma .header-address .address-link
+{color:#264590 !important;}
+.siafarma .slider-theme .rsBullet.rsNavSelected span,.siafarma .full-banner .details .actions .btn
+{background-color:#264590 !important;}
+/*1.2.2 - Escuro*/
+.siafarma .full-banner .details .actions .btn
+{border-color:#38658C !important;}
+.siafarma .full-banner .details .actions .btn:hover
+{background-color:#335C80 !important;}
+
+/*1.3 - Padrões*/
+.siafarma .mobile-bar .btn.siafarma .mobile-bar .btn:hover,.siafarma .mobile-bar a,.siafarma .carrinho-pay-btn-continuar:hover *,.siafarma .carrinho-btn-comprar:hover *,.siafarma .paymants-bar .flags .box .divider span,.siafarma .full-banner .details .actions .btn,.siafarma .navbar-default .navbar-nav>li>a,.siafarma .main-menu li.curr a,.siafarma .main-menu li a:hover,.siafarma .on-scroll-bar .middle-left .button i,.siafarma .on-scroll-bar .cart .icon .number,.siafarma .on-scroll-bar .cart:hover *,.siafarma .on-scroll-bar .cart,.siafarma .header-buttons .btn-image:hover,.siafarma .header-no-address .search-enviar button,.siafarma .header-address .search-enviar button,.siafarma .cart-bar .login-menu .button input:hover,.siafarma .cart-bar .login-menu .button input,.siafarma .btn.btn-primary,.siafarma .btn.btn-default
+{color:#FFF !important;}
+.siafarma .article .text h3 small,.siafarma .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.siafarma .footer-list li a,.siafarma .paymants-bar .pagseguro h3,.siafarma .paymants-bar .pagseguro-link p,.siafarma .showcase-item-title h3,.siafarma .border-table tr th
+{color:#111 !important;}
+.siafarma .panel-default>.panel-heading,.siafarma #mobile-user-menu .modal-body .modal-list li a,.siafarma .carrinho-quantidade-input,.siafarma .product-info-por,.siafarma .product-colorpicker .lb,.siafarma .product-info-text,.siafarma .article .text p,.siafarma .related-carousel-item-title h3,.siafarma .offers-carousel-item-title h3,.siafarma .related-carousel-item-price-por,.siafarma .offers-carousel-item-price-por,.siafarma .showcase-item-price-por,.siafarma .logged-menu li a:hover,.siafarma .cart-bar .logged .text-bot
+{color:#222 !important;}
+.siafarma .inner-wrapper-content .text p,.siafarma .icon-title h2,.siafarma .showcase-title,.siafarma .side-bar-menu-item a,.siafarma .side-bar,.siafarma .full-banner .details p,.siafarma .full-banner .details h3,.siafarma .dropdown-menu-large>li>ul>li>a,.siafarma .navbar-default .navbar-nav>.open>a,.siafarma .navbar-default .navbar-nav>.open>a:focus,.siafarma .navbar-default .navbar-nav>li>a:hover,.siafarma .main-menu li a,.siafarma .on-scroll-bar .main-menu li.curr a,.siafarma .on-scroll-bar .main-menu li a:hover,.siafarma .on-scroll-bar .main-menu li a,.siafarma .on-scroll-bar .search-txt input,.siafarma .main-menu .social .icon i,.siafarma .logged-menu li a,.siafarma .cart-bar .cart .icon .number,.siafarma .cart-bar .cart,.siafarma .cart-bar .logged,.siafarma .back-button .btn.btn-default,.siafarma .border-table tr td
+{color:#444 !important;}
+.siafarma .carrinho-pay-btn-continuar *,.siafarma .carrinho-btn-comprar *,.siafarma .carrinho-valor-total h4,.siafarma .carrinho-valor-total div,.siafarma .product-info-de,.siafarma .article .text h4,.siafarma .inner-wrapper-content .text .title small,.siafarma .footer-list li,.siafarma .related-carousel-item-price-de,.siafarma .offers-carousel-item-price-de,.siafarma .showcase-item-price-de,.siafarma .full-banner .details h3 small,.siafarma .full-banner .details .price
+{color:#777 !important;}
+.siafarma .border-table tr td
+{border-color:#000 !important;}
+.siafarma .full-banner .details hr
+{border-color:#777 !important;}
+.siafarma .footer-google-maps,.siafarma .footer-credits,.siafarma .paymants-bar .banks .frame,.siafarma .paymants-bar .flags .box,.siafarma .related-carousel-item-wrapper,.siafarma .showcase-item-img,.siafarma .logged-menu li a,.siafarma .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.siafarma .header-address .address.hvr-ripple-out:before
+{border-color:#FAFAFA !important;}
+.siafarma #mobile-user-menu .modal-body .modal-list li a,.siafarma .panel-default>.panel-heading,.siafarma .modal-footer,.siafarma .modal-header,.siafarma .product-colorpicker .icon,.siafarma .inner-wrapper-content .text .title,.siafarma .sobre-full-text h3,.siafarma .footer,.siafarma .paymants-bar,.siafarma .user-opinion,.siafarma .user-access,.siafarma .category-carousel,.siafarma .category-calls,.siafarma .side-bar-menu-item a,.siafarma .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.siafarma .pagination li:not([class*="current"]) a:hover,.siafarma .pagination li.current a,.siafarma .pagination > li > a,.siafarma .pagination > li > span,.siafarma .paymants-bar .line,.siafarma .on-scroll-bar .middle-left .button,.siafarma .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.siafarma .modal-header,.siafarma .modal-content,.siafarma .carrinho-btn-comprar,.siafarma .carrinho-frete,.siafarma .pagination li:not([class*="current"]) a:hover,.siafarma .pagination li.current a,.siafarma .pagination > li > a,.siafarma .pagination > li > span,.siafarma .paymants-bar,.siafarma .related-carousel-item-wrapper,.siafarma .offers-carousel-item-wrapper,.siafarma .side-bar-menu-item a,.siafarma .slider-theme .rsBullet span,.siafarma .dropdown-menu,.siafarma .on-scroll-bar .main-menu,.siafarma .on-scroll-bar .search-txt input,.siafarma .header-no-address .search-form,.siafarma .header-address .search-form,.siafarma .logged-menu li a,.siafarma .logged-menu,.siafarma .cart-bar .cart .icon .number,.siafarma .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.siafarma .side-bar-menu-title,.siafarma .side-bar,.siafarma .navbar-default .navbar-nav>.open>a,.siafarma .navbar-default .navbar-nav>.open>a:focus,.siafarma .navbar-default .navbar-nav>li>a,.siafarma .navbar-default .navbar-nav>li>a:hover,.siafarma .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.siafarma .footer,.siafarma .category-carousel,.siafarma .category-calls,.siafarma .header-no-address,.siafarma .header-address,.siafarma
+{background-color:#FAFAFA !important;}
+.siafarma .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.siafarma .user-opinion,.siafarma .user-access .content,.siafarma .user-access,.siafarma .logged-menu li a:hover,.siafarma .cart-bar,.siafarma .striped-table tbody tr:nth-child(odd)
+{background-color:#F0F0F0 !important;}
+.siafarma .panel-default>.panel-heading,.siafarma .carrinho-pay-btn-continuar,.siafarma .carrinho-valor-total,.siafarma .product-color-size,.siafarma .inner-wrapper-title,.siafarma .side-bar-menu-item a:hover,.siafarma .main-menu,.siafarma .on-scroll-bar .main-menu li.curr a,.siafarma .on-scroll-bar .main-menu li a:hover,.siafarma .header-address .address:hover,.siafarma .back-button .btn.btn-default:hover
+{background-color:#EEE !important;}
+.siafarma .dropdown-menu .divider,.siafarma .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.siafarma .pagination li:not([class*="current"]) a:hover,.siafarma .full-banner .details .actions .btn:hover,.siafarma .full-banner .details .actions .btn,.siafarma .navbar-default .navbar-nav>li>a:hover,.siafarma .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.siafarma .on-scroll-bar .main-menu .form .btn.btn-primary,.siafarma .on-scroll-bar .middle-left .button:hover,.siafarma .main-menu .social .icon:hover i,.siafarma .header-buttons .btn-image:hover,.siafarma .header-no-address .search-enviar button:hover,.siafarma .header-address .search-enviar button:hover,.siafarma .cart-bar .logged i,.siafarma .cart-bar .logged,.siafarma .cart-bar .login,.siafarma .cart-bar .login-menu .button input,.siafarma .cart-bar .login-menu .button input:hover,.siafarma .back-button .btn.btn-default,.siafarma .back-button .btn.btn-default:hover,.siafarma .striped-table tbody tr:hover,.siafarma .striped-table tbody tr:nth-child(odd),.siafarma .btn.btn-primary,.siafarma .btn.btn-primary:hover,.siafarma .btn.btn-default,.siafarma .btn.btn-default:hover {transition:all 300ms !important;}
+.siafarma .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.siafarma .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.siafarma .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.siafarma .logged-menu li a:hover {text-decoration:none;}
+.siafarma .on-scroll-bar #search-form-float.focus,
+.siafarma .header-no-address #search-form.focus,
+.siafarma .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.siafarma .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.siafarma .on-scroll-bar .search-form {border:none;}
+.siafarma .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.siafarma .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.siafarma .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.siafarma .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.siafarma .slider-theme .rsBullet span {border:none;}
+.siafarma .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.siafarma .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.siafarma .side-bar-menu-item a:hover {text-decoration:none;}
+.siafarma .showcase-item-wrapper {border:none;}
+.siafarma .offers-carousel-item-wrapper {border:none;}
+.siafarma .paymants-bar {border-bottom:none;}
+.siafarma .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.siafarma .footer {border-bottom:none;}
+.siafarma .footer-google-maps,
+.siafarma .footer-credits {border-bottom:none;}
+.siafarma .pagination > li > a,
+.siafarma .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.siafarma .pagination li.current a {box-shadow:none;}
+.siafarma .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.siafarma .product-color-size-color {border-left-color: #EEE;}
+.siafarma .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.siafarma .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}

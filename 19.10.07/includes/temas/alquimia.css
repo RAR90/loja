@@ -1,0 +1,130 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.alquimia .header-buttons .btn-image
+{background-color:#EEE !important;}
+/*1.1.2 - Claro*/
+.alquimia .user-opinion .icon-circle,.alquimia .on-scroll-bar .main-menu .form .form-control:focus,.alquimia .header-no-address .search-form,.alquimia .header-address .search-form,.alquimia .form-control:focus
+{border-color:#333331 !important;}
+.alquimia .mobile-bar .btn.alquimia .mobile-bar .btn:hover,.alquimia .mobile-bar,.alquimia .paymants-bar .flags .box .divider,.alquimia .showcase-item-add.hvr-bounce-to-right:before,.alquimia .horizontal-bar,.alquimia .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.alquimia .on-scroll-bar .main-menu .form .btn.btn-primary,.alquimia .on-scroll-bar .content,.alquimia .header-no-address .search-enviar button,.alquimia .header-address .search-enviar button,.alquimia .btn.btn-primary,.alquimia .btn.btn-default
+{background-color:#333331 !important;}
+/*1.1.3 - Medio*/
+.alquimia .contato .title,.alquimia .contato-info-title,.alquimia .contato-infos,.alquimia .product-sizes-title,.alquimia .product-colors-sizes-title,.alquimia .product-info-title,.alquimia .article .text a,.alquimia .inner-wrapper-content .text .title span,.alquimia .sobre-full-text h3,.alquimia .footer-list-title,.alquimia .paymants-bar .banks .frame h3,.alquimia .related-carousel-item-details-link,.alquimia .icon-title i,.alquimia .offers-carousel-item-details-link,.alquimia .icon-title i,.alquimia .user-opinion .icon-circle i,.alquimia .side-bar-menu-title,.alquimia .navbar-default .dropdown-header,.alquimia .main-menu .social .icon:hover i,.alquimia .header-buttons .btn-image,.alquimia .cart-bar .cart .icon,.alquimia .cart-bar .cart .text-top,.alquimia .cart-bar .logged i,.alquimia .cart-bar .logged .text-top,.alquimia .cart-bar .logout-link,.alquimia .cart-bar .sign .text-bot,.alquimia .cart-bar .login:hover *,.alquimia .cart-bar .login,.alquimia a
+{color:#222221 !important;}
+.default-green .cart-bar .logged:hover,.alquimia .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.alquimia .on-scroll-bar .main-menu .form .btn.btn-primary,.alquimia .cart-bar .login-menu .button input:hover,.alquimia .btn.btn-primary:hover,.alquimia .btn.btn-primary,.alquimia .btn.btn-default:hover,.alquimia .btn.btn-default,.alquimia .cart-bar .login:hover
+{border-color:#222221 !important;}
+.alquimia .main-menu li.curr a,.alquimia .main-menu li a:hover,.alquimia .on-scroll-bar .cart .icon .number,.alquimia .header-buttons .btn-image:hover,.alquimia .cart-bar .login-menu .button input:hover,.alquimia .cart-bar .login-menu .button input,.alquimia .btn.btn-primary:hover,.alquimia .btn.btn-default:hover
+{background-color:#222221 !important;}
+/*1.1.4 - Escuro*/
+.alquimia .on-scroll-bar .middle-left .button:hover i,.alquimia .cart-bar .logged:hover i,.alquimia .cart-bar .logged:hover
+{color:#000 !important;}
+.alquimia .on-scroll-bar .middle-left .button:hover,.alquimia .cart-bar .cart:hover
+{border-color:#000 !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.alquimia .header-address .address-ico i,.alquimia .header-address .address-link
+{color:#333331 !important;}
+.alquimia .slider-theme .rsBullet.rsNavSelected span,.alquimia .full-banner .details .actions .btn
+{background-color:#333331 !important;}
+/*1.2.2 - Escuro*/
+.alquimia .full-banner .details .actions .btn
+{border-color:#222221 !important;}
+.alquimia .full-banner .details .actions .btn:hover
+{background-color:#222221 !important;}
+
+/*1.3 - Padrões*/
+.alquimia .mobile-bar .btn.alquimia .mobile-bar .btn:hover,.alquimia .mobile-bar a,.alquimia .carrinho-pay-btn-continuar:hover *,.alquimia .carrinho-btn-comprar:hover *,.alquimia .paymants-bar .flags .box .divider span,.alquimia .full-banner .details .actions .btn,.alquimia .navbar-default .navbar-nav>li>a,.alquimia .main-menu li.curr a,.alquimia .main-menu li a:hover,.alquimia .on-scroll-bar .middle-left .button i,.alquimia .on-scroll-bar .cart .icon .number,.alquimia .on-scroll-bar .cart:hover *,.alquimia .on-scroll-bar .cart,.alquimia .header-buttons .btn-image:hover,.alquimia .header-no-address .search-enviar button,.alquimia .header-address .search-enviar button,.alquimia .cart-bar .login-menu .button input:hover,.alquimia .cart-bar .login-menu .button input,.alquimia .btn.btn-primary,.alquimia .btn.btn-default
+{color:#FFF !important;}
+.alquimia .article .text h3 small,.alquimia .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.alquimia .footer-list li a,.alquimia .paymants-bar .pagseguro h3,.alquimia .paymants-bar .pagseguro-link p,.alquimia .showcase-item-title h3,.alquimia .border-table tr th
+{color:#111 !important;}
+.alquimia .panel-default>.panel-heading,.alquimia #mobile-user-menu .modal-body .modal-list li a,.alquimia .carrinho-quantidade-input,.alquimia .product-info-por,.alquimia .product-colorpicker .lb,.alquimia .product-info-text,.alquimia .article .text p,.alquimia .related-carousel-item-title h3,.alquimia .offers-carousel-item-title h3,.alquimia .related-carousel-item-price-por,.alquimia .offers-carousel-item-price-por,.alquimia .showcase-item-price-por,.alquimia .logged-menu li a:hover,.alquimia .cart-bar .logged .text-bot
+{color:#222 !important;}
+.alquimia .inner-wrapper-content .text p,.alquimia .icon-title h2,.alquimia .showcase-title,.alquimia .side-bar-menu-item a,.alquimia .side-bar,.alquimia .full-banner .details p,.alquimia .full-banner .details h3,.alquimia .dropdown-menu-large>li>ul>li>a,.alquimia .navbar-default .navbar-nav>.open>a,.alquimia .navbar-default .navbar-nav>.open>a:focus,.alquimia .navbar-default .navbar-nav>li>a:hover,.alquimia .main-menu li a,.alquimia .on-scroll-bar .main-menu li.curr a,.alquimia .on-scroll-bar .main-menu li a:hover,.alquimia .on-scroll-bar .main-menu li a,.alquimia .on-scroll-bar .search-txt input,.alquimia .main-menu .social .icon i,.alquimia .logged-menu li a,.alquimia .cart-bar .cart .icon .number,.alquimia .cart-bar .cart,.alquimia .cart-bar .logged,.alquimia .back-button .btn.btn-default,.alquimia .border-table tr td
+{color:#444 !important;}
+.alquimia .carrinho-pay-btn-continuar *,.alquimia .carrinho-btn-comprar *,.alquimia .carrinho-valor-total h4,.alquimia .carrinho-valor-total div,.alquimia .product-info-de,.alquimia .article .text h4,.alquimia .inner-wrapper-content .text .title small,.alquimia .footer-list li,.alquimia .related-carousel-item-price-de,.alquimia .offers-carousel-item-price-de,.alquimia .showcase-item-price-de,.alquimia .full-banner .details h3 small,.alquimia .full-banner .details .price
+{color:#777 !important;}
+.alquimia .border-table tr td
+{border-color:#000 !important;}
+.alquimia .full-banner .details hr
+{border-color:#777 !important;}
+.alquimia .footer-google-maps,.alquimia .footer-credits,.alquimia .paymants-bar .banks .frame,.alquimia .paymants-bar .flags .box,.alquimia .related-carousel-item-wrapper,.alquimia .showcase-item-img,.alquimia .logged-menu li a,.alquimia .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.alquimia .header-address .address.hvr-ripple-out:before
+{border-color:#FAFAFA !important;}
+.alquimia #mobile-user-menu .modal-body .modal-list li a,.alquimia .panel-default>.panel-heading,.alquimia .modal-footer,.alquimia .modal-header,.alquimia .product-colorpicker .icon,.alquimia .inner-wrapper-content .text .title,.alquimia .sobre-full-text h3,.alquimia .footer,.alquimia .paymants-bar,.alquimia .user-opinion,.alquimia .user-access,.alquimia .category-carousel,.alquimia .category-calls,.alquimia .side-bar-menu-item a,.alquimia .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.alquimia .pagination li:not([class*="current"]) a:hover,.alquimia .pagination li.current a,.alquimia .pagination > li > a,.alquimia .pagination > li > span,.alquimia .paymants-bar .line,.alquimia .on-scroll-bar .middle-left .button,.alquimia .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.alquimia .modal-header,.alquimia .modal-content,.alquimia .carrinho-btn-comprar,.alquimia .carrinho-frete,.alquimia .pagination li:not([class*="current"]) a:hover,.alquimia .pagination li.current a,.alquimia .pagination > li > a,.alquimia .pagination > li > span,.alquimia .paymants-bar,.alquimia .related-carousel-item-wrapper,.alquimia .offers-carousel-item-wrapper,.alquimia .side-bar-menu-item a,.alquimia .slider-theme .rsBullet span,.alquimia .dropdown-menu,.alquimia .on-scroll-bar .main-menu,.alquimia .on-scroll-bar .search-txt input,.alquimia .header-no-address .search-form,.alquimia .header-address .search-form,.alquimia .logged-menu li a,.alquimia .logged-menu,.alquimia .cart-bar .cart .icon .number,.alquimia .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.alquimia .side-bar-menu-title,.alquimia .side-bar,.alquimia .navbar-default .navbar-nav>.open>a,.alquimia .navbar-default .navbar-nav>.open>a:focus,.alquimia .navbar-default .navbar-nav>li>a,.alquimia .navbar-default .navbar-nav>li>a:hover,.alquimia .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.alquimia .footer,.alquimia .category-carousel,.alquimia .category-calls,.alquimia .header-no-address,.alquimia .header-address,.alquimia
+{background-color:#FAFAFA !important;}
+.alquimia .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.alquimia .user-opinion,.alquimia .user-access .content,.alquimia .user-access,.alquimia .logged-menu li a:hover,.alquimia .cart-bar,.alquimia .striped-table tbody tr:nth-child(odd)
+{background-color:#F0F0F0 !important;}
+.alquimia .panel-default>.panel-heading,.alquimia .carrinho-pay-btn-continuar,.alquimia .carrinho-valor-total,.alquimia .product-color-size,.alquimia .inner-wrapper-title,.alquimia .side-bar-menu-item a:hover,.alquimia .main-menu,.alquimia .on-scroll-bar .main-menu li.curr a,.alquimia .on-scroll-bar .main-menu li a:hover,.alquimia .header-address .address:hover,.alquimia .back-button .btn.btn-default:hover
+{background-color:#EEE !important;}
+.alquimia .dropdown-menu .divider,.alquimia .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.alquimia .pagination li:not([class*="current"]) a:hover,.alquimia .full-banner .details .actions .btn:hover,.alquimia .full-banner .details .actions .btn,.alquimia .navbar-default .navbar-nav>li>a:hover,.alquimia .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.alquimia .on-scroll-bar .main-menu .form .btn.btn-primary,.alquimia .on-scroll-bar .middle-left .button:hover,.alquimia .main-menu .social .icon:hover i,.alquimia .header-buttons .btn-image:hover,.alquimia .header-no-address .search-enviar button:hover,.alquimia .header-address .search-enviar button:hover,.alquimia .cart-bar .logged i,.alquimia .cart-bar .logged,.alquimia .cart-bar .login,.alquimia .cart-bar .login-menu .button input,.alquimia .cart-bar .login-menu .button input:hover,.alquimia .back-button .btn.btn-default,.alquimia .back-button .btn.btn-default:hover,.alquimia .striped-table tbody tr:hover,.alquimia .striped-table tbody tr:nth-child(odd),.alquimia .btn.btn-primary,.alquimia .btn.btn-primary:hover,.alquimia .btn.btn-default,.alquimia .btn.btn-default:hover {transition:all 300ms !important;}
+.alquimia .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.alquimia .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.alquimia .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.alquimia .logged-menu li a:hover {text-decoration:none;}
+.alquimia .on-scroll-bar #search-form-float.focus,
+.alquimia .header-no-address #search-form.focus,
+.alquimia .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.alquimia .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.alquimia .on-scroll-bar .search-form {border:none;}
+.alquimia .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.alquimia .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.alquimia .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.alquimia .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.alquimia .slider-theme .rsBullet span {border:none;}
+.alquimia .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.alquimia .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.alquimia .side-bar-menu-item a:hover {text-decoration:none;}
+.alquimia .showcase-item-wrapper {border:none;}
+.alquimia .offers-carousel-item-wrapper {border:none;}
+.alquimia .paymants-bar {border-bottom:none;}
+.alquimia .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.alquimia .footer {border-bottom:none;}
+.alquimia .footer-google-maps,
+.alquimia .footer-credits {border-bottom:none;}
+.alquimia .pagination > li > a,
+.alquimia .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.alquimia .pagination li.current a {box-shadow:none;}
+.alquimia .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.alquimia .product-color-size-color {border-left-color: #EEE;}
+.alquimia .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.alquimia .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}
+.alquimia a.btn-default:hover{color:#FFF!important;}
+
+.navbar-nav>.open>a,
+.alquimia .navbar-default .navbar-nav>.open>a:focus,
+.alquimia .navbar-default .navbar-nav>li>a:hover {
+    color:#FFF!important;
+    text-decoration: underline;
+}

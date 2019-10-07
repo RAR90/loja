@@ -1,0 +1,122 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.aessencia .header-buttons .btn-image
+{background-color:#CFE6D5 !important;}
+/*1.1.2 - Claro*/
+.aessencia .user-opinion .icon-circle,.aessencia .on-scroll-bar .main-menu .form .form-control:focus,.aessencia .header-no-address .search-form,.aessencia .header-address .search-form,.aessencia .form-control:focus
+{border-color:#7EC290 !important;}
+.aessencia .mobile-bar .btn.aessencia .mobile-bar .btn:hover,.aessencia .mobile-bar,.aessencia .paymants-bar .flags .box .divider,.aessencia .showcase-item-add.hvr-bounce-to-right:before,.aessencia .horizontal-bar,.aessencia .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.aessencia .on-scroll-bar .main-menu .form .btn.btn-primary,.aessencia .on-scroll-bar .content,.aessencia .header-no-address .search-enviar button,.aessencia .header-address .search-enviar button,.aessencia .btn.btn-primary,.aessencia .btn.btn-default
+{background-color:#7EC290 !important;}
+/*1.1.3 - Medio*/
+.aessencia .contato .title,.aessencia .contato-info-title,.aessencia .contato-infos,.aessencia .product-sizes-title,.aessencia .product-colors-sizes-title,.aessencia .product-info-title,.aessencia .article .text a,.aessencia .inner-wrapper-content .text .title span,.aessencia .sobre-full-text h3,.aessencia .footer-list-title,.aessencia .paymants-bar .banks .frame h3,.aessencia .related-carousel-item-details-link,.aessencia .icon-title i,.aessencia .offers-carousel-item-details-link,.aessencia .icon-title i,.aessencia .user-opinion .icon-circle i,.aessencia .side-bar-menu-title,.aessencia .navbar-default .dropdown-header,.aessencia .main-menu .social .icon:hover i,.aessencia .header-buttons .btn-image,.aessencia .cart-bar .cart .icon,.aessencia .cart-bar .cart .text-top,.aessencia .cart-bar .logged i,.aessencia .cart-bar .logged .text-top,.aessencia .cart-bar .logout-link,.aessencia .cart-bar .sign .text-bot,.aessencia .cart-bar .login:hover *,.aessencia .cart-bar .login,.aessencia a
+{color:#2C943B !important;}
+.aessencia .cart-bar .logged:hover,.aessencia .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.aessencia .on-scroll-bar .main-menu .form .btn.btn-primary,.aessencia .cart-bar .login-menu .button input:hover,.aessencia .btn.btn-primary:hover,.aessencia .btn.btn-primary,.aessencia .btn.btn-default:hover,.aessencia .btn.btn-default,.aessencia .cart-bar .login:hover
+{border-color:#2C943B !important;}
+.aessencia .main-menu li.curr a,.aessencia .main-menu li a:hover,.aessencia .on-scroll-bar .cart .icon .number,.aessencia .header-buttons .btn-image:hover,.aessencia .cart-bar .login-menu .button input:hover,.aessencia .cart-bar .login-menu .button input,.aessencia .btn.btn-primary:hover,.aessencia .btn.btn-default:hover
+{background-color:#2C943B !important;}
+/*1.1.4 - Escuro*/
+.aessencia .on-scroll-bar .middle-left .button:hover i,.aessencia .cart-bar .logged:hover i,.aessencia .cart-bar .logged:hover
+{color:#5D8716 !important;}
+.aessencia .on-scroll-bar .middle-left .button:hover,.aessencia .cart-bar .cart:hover
+{border-color:#5D8716 !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.aessencia .header-address .address-ico i,.aessencia .header-address .address-link
+{color:#E67237 !important;}
+.aessencia .slider-theme .rsBullet.rsNavSelected span,.aessencia .full-banner .details .actions .btn
+{background-color:#E67237 !important;}
+/*1.2.2 - Escuro*/
+.aessencia .full-banner .details .actions .btn
+{border-color:#AE5D34 !important;}
+.aessencia .full-banner .details .actions .btn:hover
+{background-color:#AE5D34 !important;}
+
+/*1.3 - Padrões*/
+.aessencia .mobile-bar .btn.aessencia .mobile-bar .btn:hover,.aessencia .mobile-bar a,.aessencia .carrinho-pay-btn-continuar:hover *,.aessencia .carrinho-btn-comprar:hover *,.aessencia .paymants-bar .flags .box .divider span,.aessencia .full-banner .details .actions .btn,.aessencia .navbar-default .navbar-nav>li>a,.aessencia .main-menu li.curr a,.aessencia .main-menu li a:hover,.aessencia .on-scroll-bar .middle-left .button i,.aessencia .on-scroll-bar .cart .icon .number,.aessencia .on-scroll-bar .cart:hover *,.aessencia .on-scroll-bar .cart,.aessencia .header-buttons .btn-image:hover,.aessencia .header-no-address .search-enviar button,.aessencia .header-address .search-enviar button,.aessencia .cart-bar .login-menu .button input:hover,.aessencia .cart-bar .login-menu .button input,.aessencia .btn.btn-primary,.aessencia .btn.btn-default
+{color:#FFF !important;}
+.aessencia .article .text h3 small,.aessencia .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.aessencia .footer-list li a,.aessencia .paymants-bar .pagseguro h3,.aessencia .paymants-bar .pagseguro-link p,.aessencia .showcase-item-title h3,.aessencia .border-table tr th
+{color:#111 !important;}
+.aessencia .panel-default>.panel-heading,.aessencia #mobile-user-menu .modal-body .modal-list li a,.aessencia .carrinho-quantidade-input,.aessencia .product-info-por,.aessencia .product-colorpicker .lb,.aessencia .product-info-text,.aessencia .article .text p,.aessencia .related-carousel-item-title h3,.aessencia .offers-carousel-item-title h3,.aessencia .related-carousel-item-price-por,.aessencia .offers-carousel-item-price-por,.aessencia .showcase-item-price-por,.aessencia .logged-menu li a:hover,.aessencia .cart-bar .logged .text-bot
+{color:#222 !important;}
+.aessencia .inner-wrapper-content .text p,.aessencia .icon-title h2,.aessencia .showcase-title,.aessencia .side-bar-menu-item a,.aessencia .side-bar,.aessencia .full-banner .details p,.aessencia .full-banner .details h3,.aessencia .dropdown-menu-large>li>ul>li>a,.aessencia .navbar-default .navbar-nav>.open>a,.aessencia .navbar-default .navbar-nav>.open>a:focus,.aessencia .navbar-default .navbar-nav>li>a:hover,.aessencia .main-menu li a,.aessencia .on-scroll-bar .main-menu li.curr a,.aessencia .on-scroll-bar .main-menu li a:hover,.aessencia .on-scroll-bar .main-menu li a,.aessencia .on-scroll-bar .search-txt input,.aessencia .main-menu .social .icon i,.aessencia .logged-menu li a,.aessencia .cart-bar .cart .icon .number,.aessencia .cart-bar .cart,.aessencia .cart-bar .logged,.aessencia .back-button .btn.btn-default,.aessencia .border-table tr td
+{color:#444 !important;}
+.aessencia .carrinho-pay-btn-continuar *,.aessencia .carrinho-btn-comprar *,.aessencia .carrinho-valor-total h4,.aessencia .carrinho-valor-total div,.aessencia .product-info-de,.aessencia .article .text h4,.aessencia .inner-wrapper-content .text .title small,.aessencia .footer-list li,.aessencia .related-carousel-item-price-de,.aessencia .offers-carousel-item-price-de,.aessencia .showcase-item-price-de,.aessencia .full-banner .details h3 small,.aessencia .full-banner .details .price
+{color:#777 !important;}
+.aessencia .border-table tr td
+{border-color:#000 !important;}
+.aessencia .full-banner .details hr
+{border-color:#777 !important;}
+.aessencia .footer-google-maps,.aessencia .footer-credits,.aessencia .paymants-bar .banks .frame,.aessencia .paymants-bar .flags .box,.aessencia .related-carousel-item-wrapper,.aessencia .showcase-item-img,.aessencia .logged-menu li a,.aessencia .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.aessencia .header-address .address.hvr-ripple-out:before
+{border-color:#FAFAFA !important;}
+.aessencia #mobile-user-menu .modal-body .modal-list li a,.aessencia .panel-default>.panel-heading,.aessencia .modal-footer,.aessencia .modal-header,.aessencia .product-colorpicker .icon,.aessencia .inner-wrapper-content .text .title,.aessencia .sobre-full-text h3,.aessencia .footer,.aessencia .paymants-bar,.aessencia .user-opinion,.aessencia .user-access,.aessencia .category-carousel,.aessencia .category-calls,.aessencia .side-bar-menu-item a,.aessencia .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.aessencia .pagination li:not([class*="current"]) a:hover,.aessencia .pagination li.current a,.aessencia .pagination > li > a,.aessencia .pagination > li > span,.aessencia .paymants-bar .line,.aessencia .on-scroll-bar .middle-left .button,.aessencia .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.aessencia .modal-header,.aessencia .modal-content,.aessencia .carrinho-btn-comprar,.aessencia .carrinho-frete,.aessencia .pagination li:not([class*="current"]) a:hover,.aessencia .pagination li.current a,.aessencia .pagination > li > a,.aessencia .pagination > li > span,.aessencia .paymants-bar,.aessencia .related-carousel-item-wrapper,.aessencia .offers-carousel-item-wrapper,.aessencia .side-bar-menu-item a,.aessencia .slider-theme .rsBullet span,.aessencia .dropdown-menu,.aessencia .on-scroll-bar .main-menu,.aessencia .on-scroll-bar .search-txt input,.aessencia .header-no-address .search-form,.aessencia .header-address .search-form,.aessencia .logged-menu li a,.aessencia .logged-menu,.aessencia .cart-bar .cart .icon .number,.aessencia .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.aessencia .side-bar-menu-title,.aessencia .side-bar,.aessencia .navbar-default .navbar-nav>.open>a,.aessencia .navbar-default .navbar-nav>.open>a:focus,.aessencia .navbar-default .navbar-nav>li>a,.aessencia .navbar-default .navbar-nav>li>a:hover,.aessencia .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.aessencia .footer,.aessencia .category-carousel,.aessencia .category-calls,.aessencia .header-no-address,.aessencia .header-address,.aessencia
+{background-color:#FAFAFA !important;}
+.aessencia .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.aessencia .user-opinion,.aessencia .user-access .content,.aessencia .user-access,.aessencia .logged-menu li a:hover,.aessencia .cart-bar,.aessencia .striped-table tbody tr:nth-child(odd)
+{background-color:#F0F0F0 !important;}
+.aessencia .panel-default>.panel-heading,.aessencia .carrinho-pay-btn-continuar,.aessencia .carrinho-valor-total,.aessencia .product-color-size,.aessencia .inner-wrapper-title,.aessencia .side-bar-menu-item a:hover,.aessencia .main-menu,.aessencia .on-scroll-bar .main-menu li.curr a,.aessencia .on-scroll-bar .main-menu li a:hover,.aessencia .header-address .address:hover,.aessencia .back-button .btn.btn-default:hover
+{background-color:#EEE !important;}
+.aessencia .dropdown-menu .divider,.aessencia .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.aessencia .pagination li:not([class*="current"]) a:hover,.aessencia .full-banner .details .actions .btn:hover,.aessencia .full-banner .details .actions .btn,.aessencia .navbar-default .navbar-nav>li>a:hover,.aessencia .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.aessencia .on-scroll-bar .main-menu .form .btn.btn-primary,.aessencia .on-scroll-bar .middle-left .button:hover,.aessencia .main-menu .social .icon:hover i,.aessencia .header-buttons .btn-image:hover,.aessencia .header-no-address .search-enviar button:hover,.aessencia .header-address .search-enviar button:hover,.aessencia .cart-bar .logged i,.aessencia .cart-bar .logged,.aessencia .cart-bar .login,.aessencia .cart-bar .login-menu .button input,.aessencia .cart-bar .login-menu .button input:hover,.aessencia .back-button .btn.btn-default,.aessencia .back-button .btn.btn-default:hover,.aessencia .striped-table tbody tr:hover,.aessencia .striped-table tbody tr:nth-child(odd),.aessencia .btn.btn-primary,.aessencia .btn.btn-primary:hover,.aessencia .btn.btn-default,.aessencia .btn.btn-default:hover {transition:all 300ms !important;}
+.aessencia .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.aessencia .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.aessencia .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.aessencia .logged-menu li a:hover {text-decoration:none;}
+.aessencia .on-scroll-bar #search-form-float.focus,
+.aessencia .header-no-address #search-form.focus,
+.aessencia .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.aessencia .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.aessencia .on-scroll-bar .search-form {border:none;}
+.aessencia .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.aessencia .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.aessencia .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.aessencia .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.aessencia .slider-theme .rsBullet span {border:none;}
+.aessencia .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.aessencia .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.aessencia .side-bar-menu-item a:hover {text-decoration:none;}
+.aessencia .showcase-item-wrapper {border:none;}
+.aessencia .offers-carousel-item-wrapper {border:none;}
+.aessencia .paymants-bar {border-bottom:none;}
+.aessencia .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.aessencia .footer {border-bottom:none;}
+.aessencia .footer-google-maps,
+.aessencia .footer-credits {border-bottom:none;}
+.aessencia .pagination > li > a,
+.aessencia .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.aessencia .pagination li.current a {box-shadow:none;}
+.aessencia .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.aessencia .product-color-size-color {border-left-color: #EEE;}
+.aessencia .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.aessencia .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}

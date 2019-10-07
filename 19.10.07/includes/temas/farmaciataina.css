@@ -1,0 +1,143 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.farmaciataina .header-buttons .btn-image
+{background-color:rgba(224, 248, 181, 0.767) !important;}
+/*1.1.2 - Claro*/
+.farmaciataina .user-opinion .icon-circle,.farmaciataina .on-scroll-bar .main-menu .form .form-control:focus,.farmaciataina .header-no-address .search-form,.farmaciataina .header-address .search-form,.farmaciataina .form-control:focus
+{border-color:#2f8536 !important;}
+.farmaciataina .mobile-bar .btn.farmaciataina .mobile-bar .btn:hover,.farmaciataina .mobile-bar,.farmaciataina .paymants-bar .flags .box .divider,.farmaciataina .showcase-item-add.hvr-bounce-to-right:before,.farmaciataina .horizontal-bar,.farmaciataina .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.farmaciataina .on-scroll-bar .main-menu .form .btn.btn-primary,.farmaciataina .on-scroll-bar .content,.farmaciataina .header-no-address .search-enviar button,.farmaciataina .header-address .search-enviar button,.farmaciataina .btn.btn-primary,.farmaciataina .btn.btn-default
+{background-color:#2f8536 !important;}
+/*1.1.3 - Medio*/
+.farmaciataina .contato .title,.farmaciataina .contato-info-title,.farmaciataina .contato-infos,.farmaciataina .product-sizes-title,.farmaciataina .product-colors-sizes-title,.farmaciataina .product-info-title,.farmaciataina .article .text a,.farmaciataina .inner-wrapper-content .text .title span,.farmaciataina .sobre-full-text h3,.farmaciataina .footer-list-title,.farmaciataina .paymants-bar .banks .frame h3,.farmaciataina .related-carousel-item-details-link,.farmaciataina .icon-title i,.farmaciataina .offers-carousel-item-details-link,.farmaciataina .icon-title i,.farmaciataina .user-opinion .icon-circle i,.farmaciataina .side-bar-menu-title,.farmaciataina .navbar-default .dropdown-header,.farmaciataina .main-menu .social .icon:hover i,.farmaciataina .header-buttons .btn-image,.farmaciataina .cart-bar .cart .icon,.farmaciataina .cart-bar .cart .text-top,.farmaciataina .cart-bar .logged i,.farmaciataina .cart-bar .logged .text-top,.farmaciataina .cart-bar .logout-link,.farmaciataina .cart-bar .sign .text-bot,.farmaciataina .cart-bar .login:hover *,.farmaciataina .cart-bar .login,.farmaciataina a
+{color:#8CB933 !important;}
+.farmaciataina .cart-bar .logged:hover,.farmaciataina .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.farmaciataina .on-scroll-bar .main-menu .form .btn.btn-primary,.farmaciataina .cart-bar .login-menu .button input:hover,.farmaciataina .btn.btn-primary:hover,.farmaciataina .btn.btn-primary,.farmaciataina .btn.btn-default:hover,.farmaciataina .btn.btn-default,.farmaciataina .cart-bar .login:hover
+{border-color:#8CB933 !important;}
+.farmaciataina .main-menu li.curr a,.farmaciataina .main-menu li a:hover,.farmaciataina .on-scroll-bar .cart .icon .number,.farmaciataina .header-buttons .btn-image:hover,.farmaciataina .cart-bar .login-menu .button input:hover,.farmaciataina .cart-bar .login-menu .button input,.farmaciataina .btn.btn-primary:hover,.farmaciataina .btn.btn-default:hover
+{background-color:#8CB933 !important;}
+/*1.1.4 - Escuro*/
+.farmaciataina .on-scroll-bar .middle-left .button:hover i,.farmaciataina .cart-bar .logged:hover i,.farmaciataina .cart-bar .logged:hover
+{color:rgb(44, 81, 27) !important;}
+.farmaciataina .on-scroll-bar .middle-left .button:hover,.farmaciataina .cart-bar .cart:hover
+{border-color:rgb(44, 81, 27) !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.farmaciataina .header-address .address-ico i,.farmaciataina .header-address .address-link
+{color:#5D8716 !important;}
+.farmaciataina .slider-theme .rsBullet.rsNavSelected span,.farmaciataina .full-banner .details .actions .btn
+{background-color:#5D8716 !important;}
+/*1.2.2 - Escuro*/
+.farmaciataina .full-banner .details .actions .btn
+{border-color:rgb(44, 81, 27) !important;}
+.farmaciataina .full-banner .details .actions .btn:hover
+{background-color:rgb(44, 81, 27) !important;}
+
+/*1.3 - Padrões*/
+.farmaciataina .mobile-bar .btn.farmaciataina .mobile-bar .btn:hover,.farmaciataina .mobile-bar a,.farmaciataina .carrinho-pay-btn-continuar:hover *,.farmaciataina .carrinho-btn-comprar:hover *,.farmaciataina .paymants-bar .flags .box .divider span,.farmaciataina .full-banner .details .actions .btn,.farmaciataina .navbar-default .navbar-nav>li>a,.farmaciataina .main-menu li.curr a,.farmaciataina .main-menu li a:hover,.farmaciataina .on-scroll-bar .middle-left .button i,.farmaciataina .on-scroll-bar .cart .icon .number,.farmaciataina .on-scroll-bar .cart:hover *,.farmaciataina .on-scroll-bar .cart,.farmaciataina .header-buttons .btn-image:hover,.farmaciataina .header-no-address .search-enviar button,.farmaciataina .header-address .search-enviar button,.farmaciataina .cart-bar .login-menu .button input:hover,.farmaciataina .cart-bar .login-menu .button input,.farmaciataina .btn.btn-primary,.farmaciataina .btn.btn-default
+{color:#FFF !important;}
+.farmaciataina .article .text h3 small,.farmaciataina .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.farmaciataina .footer-list li a,.farmaciataina .paymants-bar .pagseguro h3,.farmaciataina .paymants-bar .pagseguro-link p,.farmaciataina .showcase-item-title h3,.farmaciataina .border-table tr th
+{color:#111 !important;}
+.farmaciataina .panel-default>.panel-heading,.farmaciataina #mobile-user-menu .modal-body .modal-list li a,.farmaciataina .carrinho-quantidade-input,.farmaciataina .product-info-por,.farmaciataina .product-colorpicker .lb,.farmaciataina .product-info-text,.farmaciataina .article .text p,.farmaciataina .related-carousel-item-title h3,.farmaciataina .offers-carousel-item-title h3,.farmaciataina .related-carousel-item-price-por,.farmaciataina .offers-carousel-item-price-por,.farmaciataina .showcase-item-price-por,.farmaciataina .logged-menu li a:hover,.farmaciataina .cart-bar .logged .text-bot
+{color:#222 !important;}
+.farmaciataina .inner-wrapper-content .text p,.farmaciataina .icon-title h2,.farmaciataina .showcase-title,.farmaciataina .side-bar-menu-item a,.farmaciataina .side-bar,.farmaciataina .full-banner .details p,.farmaciataina .full-banner .details h3,.farmaciataina .dropdown-menu-large>li>ul>li>a,.farmaciataina .navbar-default .navbar-nav>.open>a,.farmaciataina .navbar-default .navbar-nav>.open>a:focus,.farmaciataina .navbar-default .navbar-nav>li>a:hover,.farmaciataina .main-menu li a,.farmaciataina .on-scroll-bar .main-menu li.curr a,.farmaciataina .on-scroll-bar .main-menu li a:hover,.farmaciataina .on-scroll-bar .main-menu li a,.farmaciataina .on-scroll-bar .search-txt input,.farmaciataina .main-menu .social .icon i,.farmaciataina .logged-menu li a,.farmaciataina .cart-bar .cart .icon .number,.farmaciataina .cart-bar .cart,.farmaciataina .cart-bar .logged,.farmaciataina .back-button .btn.btn-default,.farmaciataina .border-table tr td
+{color:#444 !important;}
+.farmaciataina .carrinho-pay-btn-continuar *,.farmaciataina .carrinho-btn-comprar *,.farmaciataina .carrinho-valor-total h4,.farmaciataina .carrinho-valor-total div,.farmaciataina .product-info-de,.farmaciataina .article .text h4,.farmaciataina .inner-wrapper-content .text .title small,.farmaciataina .footer-list li,.farmaciataina .related-carousel-item-price-de,.farmaciataina .offers-carousel-item-price-de,.farmaciataina .showcase-item-price-de,.farmaciataina .full-banner .details h3 small,.farmaciataina .full-banner .details .price
+{color:#777 !important;}
+.farmaciataina .border-table tr td
+{border-color:#000 !important;}
+.farmaciataina .full-banner .details hr
+{border-color:#777 !important;}
+.farmaciataina .footer-google-maps,.farmaciataina .footer-credits,.farmaciataina .paymants-bar .banks .frame,.farmaciataina .paymants-bar .flags .box,.farmaciataina .related-carousel-item-wrapper,.farmaciataina .showcase-item-img,.farmaciataina .logged-menu li a,.farmaciataina .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.farmaciataina .header-address .address.hvr-ripple-out:before
+{border-color:#FAFAFA !important;}
+.farmaciataina #mobile-user-menu .modal-body .modal-list li a,.farmaciataina .panel-default>.panel-heading,.farmaciataina .modal-footer,.farmaciataina .modal-header,.farmaciataina .product-colorpicker .icon,.farmaciataina .inner-wrapper-content .text .title,.farmaciataina .sobre-full-text h3,.farmaciataina .footer,.farmaciataina .paymants-bar,.farmaciataina .user-opinion,.farmaciataina .user-access,.farmaciataina .category-carousel,.farmaciataina .category-calls,.farmaciataina .side-bar-menu-item a,.farmaciataina .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.farmaciataina .pagination li:not([class*="current"]) a:hover,.farmaciataina .pagination li.current a,.farmaciataina .pagination > li > a,.farmaciataina .pagination > li > span,.farmaciataina .paymants-bar .line,.farmaciataina .on-scroll-bar .middle-left .button,.farmaciataina .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.farmaciataina .modal-header,.farmaciataina .modal-content,.farmaciataina .carrinho-btn-comprar,.farmaciataina .carrinho-frete,.farmaciataina .pagination li:not([class*="current"]) a:hover,.farmaciataina .pagination li.current a,.farmaciataina .pagination > li > a,.farmaciataina .pagination > li > span,.farmaciataina .paymants-bar,.farmaciataina .related-carousel-item-wrapper,.farmaciataina .offers-carousel-item-wrapper,.farmaciataina .side-bar-menu-item a,.farmaciataina .slider-theme .rsBullet span,.farmaciataina .dropdown-menu,.farmaciataina .on-scroll-bar .main-menu,.farmaciataina .on-scroll-bar .search-txt input,.farmaciataina .header-no-address .search-form,.farmaciataina .header-address .search-form,.farmaciataina .logged-menu li a,.farmaciataina .logged-menu,.farmaciataina .cart-bar .cart .icon .number,.farmaciataina .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.farmaciataina .side-bar-menu-title,.farmaciataina .side-bar,.farmaciataina .navbar-default .navbar-nav>.open>a,.farmaciataina .navbar-default .navbar-nav>.open>a:focus,.farmaciataina .navbar-default .navbar-nav>li>a,.farmaciataina .navbar-default .navbar-nav>li>a:hover,.farmaciataina .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.farmaciataina .footer,.farmaciataina .category-carousel,.farmaciataina .category-calls,.farmaciataina .header-no-address,.farmaciataina .header-address,.farmaciataina
+{background-color:#FAFAFA !important;}
+.farmaciataina .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.farmaciataina .user-opinion,.farmaciataina .user-access .content,.farmaciataina .user-access,.farmaciataina .logged-menu li a:hover,.farmaciataina .cart-bar,.farmaciataina .striped-table tbody tr:nth-child(odd)
+{background-color:rgba(224, 248, 181, 0.4) !important;}
+.farmaciataina .panel-default>.panel-heading,.farmaciataina .carrinho-pay-btn-continuar,.farmaciataina .carrinho-valor-total,.farmaciataina .product-color-size,.farmaciataina .inner-wrapper-title,.farmaciataina .side-bar-menu-item a:hover,.farmaciataina .main-menu,.farmaciataina .on-scroll-bar .main-menu li.curr a,.farmaciataina .on-scroll-bar .main-menu li a:hover,.farmaciataina .header-address .address:hover,.farmaciataina .back-button .btn.btn-default:hover
+{background-color:rgba(224, 248, 181, 0.7) !important;}
+.farmaciataina .dropdown-menu .divider,.farmaciataina .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.farmaciataina .pagination li:not([class*="current"]) a:hover,.farmaciataina .full-banner .details .actions .btn:hover,.farmaciataina .full-banner .details .actions .btn,.farmaciataina .navbar-default .navbar-nav>li>a:hover,.farmaciataina .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.farmaciataina .on-scroll-bar .main-menu .form .btn.btn-primary,.farmaciataina .on-scroll-bar .middle-left .button:hover,.farmaciataina .main-menu .social .icon:hover i,.farmaciataina .header-buttons .btn-image:hover,.farmaciataina .header-no-address .search-enviar button:hover,.farmaciataina .header-address .search-enviar button:hover,.farmaciataina .cart-bar .logged i,.farmaciataina .cart-bar .logged,.farmaciataina .cart-bar .login,.farmaciataina .cart-bar .login-menu .button input,.farmaciataina .cart-bar .login-menu .button input:hover,.farmaciataina .back-button .btn.btn-default,.farmaciataina .back-button .btn.btn-default:hover,.farmaciataina .striped-table tbody tr:hover,.farmaciataina .striped-table tbody tr:nth-child(odd),.farmaciataina .btn.btn-primary,.farmaciataina .btn.btn-primary:hover,.farmaciataina .btn.btn-default,.farmaciataina .btn.btn-default:hover {transition:all 300ms !important;}
+.farmaciataina .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.farmaciataina .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.farmaciataina .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.farmaciataina .logged-menu li a:hover {text-decoration:none;}
+.farmaciataina .on-scroll-bar #search-form-float.focus,
+.farmaciataina .header-no-address #search-form.focus,
+.farmaciataina .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.farmaciataina .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.farmaciataina .on-scroll-bar .search-form {border:none;}
+.farmaciataina .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.farmaciataina .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.farmaciataina .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.farmaciataina .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.farmaciataina .slider-theme .rsBullet span {border:none;}
+.farmaciataina .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.farmaciataina .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.farmaciataina .side-bar-menu-item a:hover {text-decoration:none;}
+.farmaciataina .showcase-item-wrapper {border:none;}
+.farmaciataina .offers-carousel-item-wrapper {border:none;}
+.farmaciataina .paymants-bar {border-bottom:none;}
+.farmaciataina .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.farmaciataina .footer {border-bottom:none;}
+.farmaciataina .footer-google-maps,
+.farmaciataina .footer-credits {border-bottom:none;}
+.farmaciataina .pagination > li > a,
+.farmaciataina .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.farmaciataina .pagination li.current a {box-shadow:none;}
+.farmaciataina .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.farmaciataina .product-color-size-color {border-left-color: #EEE;}
+.farmaciataina .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.farmaciataina .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:rgba(224, 248, 181, 0.7);}
+
+.farmaciataina .header-address,
+.farmaciataina .header-no-address {
+    background-color: rgba(224, 248, 181, 0.2) !important;
+}
+
+.farmaciataina .header-address .address.hvr-ripple-out:before {
+    border-color: transparent !important;
+}
+
+.farmaciataina .header-address .address.hvr-ripple-out:hover:before {
+    border-color: #E4F9C1 !important;
+}
+
+.farmaciataina .user-opinion .icon-circle {
+    border-color: #8BB736 !important;
+}
+
+.farmaciataina .user-access .content {
+    background-color: transparent !important;
+}

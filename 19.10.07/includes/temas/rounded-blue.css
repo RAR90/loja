@@ -1,0 +1,135 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.rounded-blue .header-buttons .btn-image
+{background-color:#BEECFD !important;}
+/*1.1.2 - Claro*/
+.rounded-blue .user-opinion .icon-circle,.rounded-blue .on-scroll-bar .main-menu .form .form-control:focus,.rounded-blue .header-no-address .search-form,.rounded-blue .header-address .search-form,.rounded-blue .form-control:focus
+{border-color:#00AEEF !important;}
+.rounded-blue .navbar-default .navbar-nav>li>a,.rounded-blue .mobile-bar .btn.rounded-blue .mobile-bar .btn:hover,.rounded-blue .mobile-bar,.rounded-blue .paymants-bar .flags .box .divider,.rounded-blue .showcase-item-add.hvr-bounce-to-right:before,.rounded-blue .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.rounded-blue .on-scroll-bar .main-menu .form .btn.btn-primary,.rounded-blue .on-scroll-bar .content,.rounded-blue .header-no-address .search-enviar button,.rounded-blue .header-address .search-enviar button,.rounded-blue .btn.btn-primary,.rounded-blue .btn.btn-default
+{background-color:#00AEEF !important;}
+/*1.1.3 - Medio 0095CC*/
+.rounded-blue .navbar-default .dropdown-header,.rounded-blue .navbar-default .navbar-nav>li>a:hover,.rounded-blue .contato .title,.rounded-blue .contato-info-title,.rounded-blue .contato-infos,.rounded-blue .product-sizes-title,.rounded-blue .product-colors-sizes-title,.rounded-blue .product-info-title,.rounded-blue .article .text a,.rounded-blue .inner-wrapper-content .text .title span,.rounded-blue .sobre-full-text h3,.rounded-blue .footer-list-title,.rounded-blue .paymants-bar .banks .frame h3,.rounded-blue .related-carousel-item-details-link,.rounded-blue .icon-title i,.rounded-blue .offers-carousel-item-details-link,.rounded-blue .icon-title i,.rounded-blue .user-opinion .icon-circle i,.rounded-blue .side-bar-menu-title,.rounded-blue .navbar-default .dropdown-header,.rounded-blue .main-menu .social .icon:hover i,.rounded-blue .header-buttons .btn-image
+{color:#0095CC !important;}
+.rounded-blue .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.rounded-blue .on-scroll-bar .main-menu .form .btn.btn-primary,.rounded-blue .btn.btn-primary:hover,.rounded-blue .btn.btn-primary,.rounded-blue .btn.btn-default:hover,.rounded-blue .btn.btn-default
+{border-color:#0095CC !important;}
+.rounded-blue .cart-bar, .rounded-blue .cart-bar .login-menu .button input,.rounded-blue .main-menu li.curr a,.rounded-blue .main-menu li a:hover,.rounded-blue .on-scroll-bar .cart .icon .number,.rounded-blue .header-buttons .btn-image:hover,.rounded-blue .btn.btn-primary:hover,.rounded-blue .btn.btn-default:hover
+{background-color:#0095CC !important;}
+/*1.1.4 - Escuro*/
+.rounded-blue .on-scroll-bar .middle-left .button:hover i,
+{color:#006BB3 !important;}
+.rounded-blue .cart-bar .login-menu .button input:hover,.rounded-blue .cart-bar .login-menu .button input,.rounded-blue .on-scroll-bar .middle-left .button:hover
+{border-color:#006BB3 !important;}
+.rounded-blue .navbar-default .navbar-nav>.open>a:focus,.rounded-blue .navbar-default .navbar-nav>.open>a,.rounded-blue .navbar-default .navbar-nav>li>a:hover,.rounded-blue .cart-bar .login-menu .button input:hover
+{background-color:#006BB3 !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.rounded-blue .header-address .address-ico i,.rounded-blue .header-address .address-link
+{color:#4C8ABF !important;}
+.rounded-blue .cart-bar .cart .icon .number,.rounded-blue .slider-theme .rsBullet.rsNavSelected span,.rounded-blue .full-banner .details .actions .btn
+{background-color:#4C8ABF !important;}
+/*1.2.2 - Escuro*/
+.rounded-blue .full-banner .details .actions .btn-primary
+{border-color:#38658C !important;}
+.rounded-blue .full-banner .details .actions .btn:hover
+{background-color:#335C80 !important;}
+
+/*1.3 - Padrões*/
+.rounded-blue .navbar-default .navbar-nav>.open>a:focus,.rounded-blue .navbar-default .navbar-nav>.open>a,.rounded-blue .navbar-default .navbar-nav>li>a:hover,.rounded-blue .navbar-default .navbar-nav>li>a:hover,.rounded-blue .navbar-default .navbar-nav>li>a,.rounded-blue .cart-bar .cart .icon .number,.rounded-blue .cart-bar .cart .icon,.rounded-blue .cart-bar .cart .text-top,.rounded-blue .cart-bar .cart,.rounded-blue .cart-bar .logged:hover,.rounded-blue .cart-bar .logged:hover i,.rounded-blue .cart-bar .logged i,.rounded-blue .cart-bar .logged .text-bot,.rounded-blue .cart-bar .logged .text-top,.rounded-blue .cart-bar .logged,.rounded-blue .cart-bar .logout-link,.rounded-blue .cart-bar .sign .text-top,.rounded-blue .cart-bar .sign .text-bot,.rounded-blue .cart-bar .login:hover *,.rounded-blue .cart-bar .login,.rounded-blue .cart-bar .login-menu .button input:hover,.rounded-blue .mobile-bar .btn.rounded-blue .mobile-bar .btn:hover,.rounded-blue .mobile-bar a,.rounded-blue .carrinho-pay-btn-continuar:hover *,.rounded-blue .carrinho-btn-comprar:hover *,.rounded-blue .paymants-bar .flags .box .divider span,.rounded-blue .full-banner .details .actions .btn,.rounded-blue .main-menu li.curr a,.rounded-blue .main-menu li a:hover,.rounded-blue .on-scroll-bar .middle-left .button i,.rounded-blue .on-scroll-bar .cart .icon .number,.rounded-blue .on-scroll-bar .cart:hover *,.rounded-blue .on-scroll-bar .cart,.rounded-blue .header-buttons .btn-image:hover,.rounded-blue .header-no-address .search-enviar button,.rounded-blue .header-address .search-enviar button,.rounded-blue .btn.btn-primary,.rounded-blue .btn.btn-default
+{color:#FFF !important;}
+.rounded-blue .cart-bar .login-menu .button input,.rounded-blue .article .text h3 small,.rounded-blue .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.rounded-blue .footer-list li a,.rounded-blue .paymants-bar .pagseguro h3,.rounded-blue .paymants-bar .pagseguro-link p,.rounded-blue .showcase-item-title h3,.rounded-blue .border-table tr th
+{color:#111 !important;}
+.rounded-blue .logged-menu li a:hover,.rounded-blue .logged-menu li a,.rounded-blue .panel-default>.panel-heading,.rounded-blue #mobile-user-menu .modal-body .modal-list li a,.rounded-blue .carrinho-quantidade-input,.rounded-blue .product-info-por,.rounded-blue .product-colorpicker .lb,.rounded-blue .product-info-text,.rounded-blue .article .text p,.rounded-blue .related-carousel-item-title h3,.rounded-blue .offers-carousel-item-title h3,.rounded-blue .related-carousel-item-price-por,.rounded-blue .offers-carousel-item-price-por,.rounded-blue .showcase-item-price-por,.rounded-blue .logged-menu li a:hover
+{color:#222 !important;}
+.rounded-blue .dropdown-menu-large>li>ul>li>a,.rounded-blue .inner-wrapper-content .text p,.rounded-blue .icon-title h2,.rounded-blue .showcase-title,.rounded-blue .side-bar-menu-item a,.rounded-blue .side-bar,.rounded-blue .full-banner .details p,.rounded-blue .full-banner .details h3,.rounded-blue .dropdown-menu-large>li>ul>li>a,.rounded-blue .main-menu li a,.rounded-blue .on-scroll-bar .main-menu li.curr a,.rounded-blue .on-scroll-bar .main-menu li a:hover,.rounded-blue .on-scroll-bar .main-menu li a,.rounded-blue .on-scroll-bar .search-txt input,.rounded-blue .main-menu .social .icon i,.rounded-blue .logged-menu li a,.rounded-blue .back-button .btn.btn-default,.rounded-blue .border-table tr td
+{color:#444 !important;}
+.rounded-blue .carrinho-pay-btn-continuar *,.rounded-blue .carrinho-btn-comprar *,.rounded-blue .carrinho-valor-total h4,.rounded-blue .carrinho-valor-total div,.rounded-blue .product-info-de,.rounded-blue .article .text h4,.rounded-blue .inner-wrapper-content .text .title small,.rounded-blue .footer-list li,.rounded-blue .related-carousel-item-price-de,.rounded-blue .offers-carousel-item-price-de,.rounded-blue .showcase-item-price-de,.rounded-blue .full-banner .details h3 small,.rounded-blue .full-banner .details .price
+{color:#777 !important;}
+.rounded-blue .border-table tr td
+{border-color:#000 !important;}
+.rounded-blue .full-banner .details hr
+{border-color:#777 !important;}
+.rounded-blue .footer-google-maps,.rounded-blue .footer-credits,.rounded-blue .paymants-bar .banks .frame,.rounded-blue .paymants-bar .flags .box,.rounded-blue .related-carousel-item-wrapper,.rounded-blue .showcase-item-img,.rounded-blue .logged-menu li a,.rounded-blue .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.rounded-blue .header-address .address.hvr-ripple-out:before
+{border-color:#FAFAFA !important;}
+.rounded-blue .logged-menu li a,.rounded-blue #mobile-user-menu .modal-body .modal-list li a,.rounded-blue .panel-default>.panel-heading,.rounded-blue .modal-footer,.rounded-blue .modal-header,.rounded-blue .product-colorpicker .icon,.rounded-blue .inner-wrapper-content .text .title,.rounded-blue .sobre-full-text h3,.rounded-blue .footer,.rounded-blue .paymants-bar,.rounded-blue .user-opinion,.rounded-blue .user-access,.rounded-blue .category-carousel,.rounded-blue .category-calls,.rounded-blue .side-bar-menu-item a,.rounded-blue .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.rounded-blue .cart-bar .logged:hover,.rounded-blue .cart-bar .cart:hover,.rounded-blue .cart-bar .login:hover,.rounded-blue .pagination li:not([class*="current"]) a:hover,.rounded-blue .pagination li.current a,.rounded-blue .pagination > li > a,.rounded-blue .pagination > li > span,.rounded-blue .paymants-bar .line,.rounded-blue .on-scroll-bar .middle-left .button,.rounded-blue .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.rounded-blue .dropdown-menu,.rounded-blue .horizontal-bar .content,.rounded-blue .horizontal-bar,.rounded-blue .logged-menu li a,.rounded-blue .logged-menu,.rounded-blue .modal-header,.rounded-blue .modal-content,.rounded-blue .carrinho-btn-comprar,.rounded-blue .carrinho-frete,.rounded-blue .pagination li:not([class*="current"]) a:hover,.rounded-blue .pagination li.current a,.rounded-blue .pagination > li > a,.rounded-blue .pagination > li > span,.rounded-blue .paymants-bar,.rounded-blue .related-carousel-item-wrapper,.rounded-blue .offers-carousel-item-wrapper,.rounded-blue .side-bar-menu-item a,.rounded-blue .slider-theme .rsBullet span,.rounded-blue .dropdown-menu,.rounded-blue .on-scroll-bar .main-menu,.rounded-blue .on-scroll-bar .search-txt input,.rounded-blue .header-no-address .search-form,.rounded-blue .header-address .search-form,.rounded-blue .logged-menu li a,.rounded-blue .logged-menu,.rounded-blue .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.rounded-blue .side-bar-menu-title,.rounded-blue .side-bar,.rounded-blue .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.rounded-blue .logged-menu li a:hover,.rounded-blue .footer,.rounded-blue .category-carousel,.rounded-blue .category-calls,.rounded-blue .header-no-address,.rounded-blue .header-address,.rounded-blue
+{background-color:#FAFAFA !important;}
+.rounded-blue .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.rounded-blue .user-opinion,.rounded-blue .user-access .content,.rounded-blue .user-access,.rounded-blue .logged-menu li a:hover,.rounded-blue .striped-table tbody tr:nth-child(odd)
+{background-color:#F0F0F0 !important;}
+.rounded-blue .panel-default>.panel-heading,.rounded-blue .carrinho-pay-btn-continuar,.rounded-blue .carrinho-valor-total,.rounded-blue .product-color-size,.rounded-blue .inner-wrapper-title,.rounded-blue .side-bar-menu-item a:hover,.rounded-blue .main-menu,.rounded-blue .on-scroll-bar .main-menu li.curr a,.rounded-blue .on-scroll-bar .main-menu li a:hover,.rounded-blue .header-address .address:hover,.rounded-blue .back-button .btn.btn-default:hover
+{background-color:#EEE !important;}
+.rounded-blue .dropdown-menu .divider,.rounded-blue .dropdown-menu .divider,.rounded-blue .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.rounded-blue .navbar-default .navbar-nav>li>a:hover,.rounded-blue .navbar-default .navbar-nav>li>a,.rounded-blue .navbar-default .navbar-nav>li>a:hover,.rounded-blue .cart-bar .logged:hover i,.rounded-blue .cart-bar .logged i,.rounded-blue .cart-bar .logged .text-bot,.rounded-blue .cart-bar .logged .text-top,.rounded-blue .cart-bar .logged,.rounded-blue .cart-bar .logout-link,.rounded-blue .cart-bar .sign .text-top,.rounded-blue .cart-bar .sign .text-bot,.rounded-blue .cart-bar .login:hover *,.rounded-blue .cart-bar .login,.rounded-blue .cart-bar .login-menu .button input:hover,.rounded-blue .mobile-bar .btn.rounded-blue .mobile-bar .btn:hover,.rounded-blue .mobile-bar a,.rounded-blue .carrinho-pay-btn-continuar:hover *,.rounded-blue .carrinho-btn-comprar:hover *,.rounded-blue .paymants-bar .flags .box .divider span,.rounded-blue .full-banner .details .actions .btn,.rounded-blue .main-menu li.curr a,.rounded-blue .main-menu li a:hover,.rounded-blue .on-scroll-bar .middle-left .button i,.rounded-blue .on-scroll-bar .cart .icon .number,.rounded-blue .on-scroll-bar .cart:hover *,.rounded-blue .on-scroll-bar .cart,.rounded-blue .header-buttons .btn-image:hover,.rounded-blue .header-no-address .search-enviar button,.rounded-blue .header-address .search-enviar button,.rounded-blue .btn.btn-primary,.rounded-blue .btn.btn-default,.rounded-blue .cart-bar .login-menu .button input:hover,.rounded-blue .pagination li:not([class*="current"]) a:hover,.rounded-blue .full-banner .details .actions .btn:hover,.rounded-blue .full-banner .details .actions .btn,.rounded-blue .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.rounded-blue .on-scroll-bar .main-menu .form .btn.btn-primary,.rounded-blue .on-scroll-bar .middle-left .button:hover,.rounded-blue .main-menu .social .icon:hover i,.rounded-blue .header-buttons .btn-image:hover,.rounded-blue .header-no-address .search-enviar button:hover,.rounded-blue .header-address .search-enviar button:hover,.rounded-blue .back-button .btn.btn-default,.rounded-blue .back-button .btn.btn-default:hover,.rounded-blue .striped-table tbody tr:hover,.rounded-blue .striped-table tbody tr:nth-child(odd),.rounded-blue .btn.btn-primary,.rounded-blue .btn.btn-primary:hover,.rounded-blue .btn.btn-default,.rounded-blue .btn.btn-default:hover
+{transition:all 300ms !important;}
+.rounded-blue .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.rounded-blue .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.rounded-blue .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.rounded-blue .logged-menu li a:hover {text-decoration:none;}
+.rounded-blue .on-scroll-bar #search-form-float.focus,
+.rounded-blue .header-no-address #search-form.focus,
+.rounded-blue .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.rounded-blue .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.rounded-blue .on-scroll-bar .search-form {border:none;}
+.rounded-blue .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.rounded-blue .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.rounded-blue .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.rounded-blue .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.rounded-blue .slider-theme .rsBullet span {border:none;}
+.rounded-blue .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.rounded-blue .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.rounded-blue .side-bar-menu-item a:hover {text-decoration:none;}
+.rounded-blue .showcase-item-wrapper {border:none;}
+.rounded-blue .offers-carousel-item-wrapper {border:none;}
+.rounded-blue .paymants-bar {border-bottom:none;}
+.rounded-blue .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.rounded-blue .footer {border-bottom:none;}
+.rounded-blue .footer-google-maps,
+.rounded-blue .footer-credits {border-bottom:none;}
+.rounded-blue .pagination > li > a,
+.rounded-blue .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.rounded-blue .pagination li.current a {box-shadow:none;}
+.rounded-blue .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.rounded-blue .product-color-size-color {border-left-color: #EEE;}
+.rounded-blue .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.rounded-blue .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}
+.rounded-blue .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.rounded-blue .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.rounded-blue .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.rounded-blue .logged-menu li a:hover {text-decoration:none;}
+.rounded-blue .horizontal-bar .content {margin-top:10px;margin-bottom:10px;}
+.rounded-blue .navbar-default .navbar-nav>li>a {margin-right:5px;border-radius:5px;}
+.rounded-blue .dropdown-menu {border-color:transparent;}
+.rounded-blue .navbar-default .navbar-nav>.open>a,
+.rounded-blue .navbar-default .navbar-nav>.open>a:focus {background-color:transparent;}
+

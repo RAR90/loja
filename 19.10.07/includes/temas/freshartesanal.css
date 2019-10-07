@@ -1,0 +1,129 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.freshartesanal .header-buttons .btn-image
+{background-color:#E6F3CF !important;}
+/*1.1.2 - Claro*/
+.freshartesanal .user-opinion .icon-circle,.freshartesanal .on-scroll-bar .main-menu .form .form-control:focus,.freshartesanal .header-no-address .search-form,.freshartesanal .header-address .search-form,.freshartesanal .form-control:focus
+{border-color:#444 !important;}
+.freshartesanal .mobile-bar .btn.freshartesanal .mobile-bar .btn:hover,.freshartesanal .mobile-bar,.freshartesanal .paymants-bar .flags .box .divider,.freshartesanal .showcase-item-add.hvr-bounce-to-right:before,.freshartesanal .horizontal-bar,.freshartesanal .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.freshartesanal .on-scroll-bar .main-menu .form .btn.btn-primary,.freshartesanal .on-scroll-bar .content,.freshartesanal .header-no-address .search-enviar button,.freshartesanal .header-address .search-enviar button,.freshartesanal .btn.btn-primary,.freshartesanal .btn.btn-default
+{background-color:#444 !important;}
+/*1.1.3 - Medio*/
+.freshartesanal .contato .title,.freshartesanal .contato-info-title,.freshartesanal .contato-infos,.freshartesanal .product-sizes-title,.freshartesanal .product-colors-sizes-title,.freshartesanal .product-info-title,.freshartesanal .article .text a,.freshartesanal .inner-wrapper-content .text .title span,.freshartesanal .sobre-full-text h3,.freshartesanal .footer-list-title,.freshartesanal .paymants-bar .banks .frame h3,.freshartesanal .related-carousel-item-details-link,.freshartesanal .icon-title i,.freshartesanal .offers-carousel-item-details-link,.freshartesanal .icon-title i,.freshartesanal .user-opinion .icon-circle i,.freshartesanal .side-bar-menu-title,.freshartesanal .navbar-default .dropdown-header,.freshartesanal .main-menu .social .icon:hover i,.freshartesanal .header-buttons .btn-image,.freshartesanal .cart-bar .cart .icon,.freshartesanal .cart-bar .cart .text-top,.freshartesanal .cart-bar .logged i,.freshartesanal .cart-bar .logged .text-top,.freshartesanal .cart-bar .logout-link,.freshartesanal .cart-bar .sign .text-bot,.freshartesanal .cart-bar .login:hover *,.freshartesanal .cart-bar .login,.freshartesanal a
+{color:#222 !important;}
+.default-green .cart-bar .logged:hover,.freshartesanal .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.freshartesanal .on-scroll-bar .main-menu .form .btn.btn-primary,.freshartesanal .cart-bar .login-menu .button input:hover,.freshartesanal .btn.btn-primary:hover,.freshartesanal .btn.btn-primary,.freshartesanal .btn.btn-default:hover,.freshartesanal .btn.btn-default,.freshartesanal .cart-bar .login:hover
+{border-color:#222 !important;}
+.freshartesanal .main-menu li.curr a,.freshartesanal .main-menu li a:hover,.freshartesanal .on-scroll-bar .cart .icon .number,.freshartesanal .header-buttons .btn-image:hover,.freshartesanal .cart-bar .login-menu .button input:hover,.freshartesanal .cart-bar .login-menu .button input,.freshartesanal .btn.btn-primary:hover,.freshartesanal .btn.btn-default:hover
+{background-color:#222 !important;}
+/*1.1.4 - Escuro*/
+.freshartesanal .on-scroll-bar .middle-left .button:hover i,.freshartesanal .cart-bar .logged:hover i,.freshartesanal .cart-bar .logged:hover
+{color:#003829 !important;}
+.freshartesanal .on-scroll-bar .middle-left .button:hover,.freshartesanal .cart-bar .cart:hover
+{border-color:#003829 !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.freshartesanal .header-address .address-ico i,.freshartesanal .header-address .address-link
+{color:#444 !important;}
+.freshartesanal .slider-theme .rsBullet.rsNavSelected span,.freshartesanal .full-banner .details .actions .btn
+{background-color:#444 !important;}
+/*1.2.2 - Escuro*/
+.freshartesanal .full-banner .details .actions .btn
+{border-color:#417D20 !important;}
+.freshartesanal .full-banner .details .actions .btn:hover
+{background-color:#417D20 !important;}
+
+/*1.3 - Padrões*/
+.freshartesanal .mobile-bar .btn.freshartesanal .mobile-bar .btn:hover,.freshartesanal .mobile-bar a,.freshartesanal .carrinho-pay-btn-continuar:hover *,.freshartesanal .carrinho-btn-comprar:hover *,.freshartesanal .paymants-bar .flags .box .divider span,.freshartesanal .full-banner .details .actions .btn,.freshartesanal .navbar-default .navbar-nav>li>a,.freshartesanal .main-menu li.curr a,.freshartesanal .main-menu li a:hover,.freshartesanal .on-scroll-bar .middle-left .button i,.freshartesanal .on-scroll-bar .cart .icon .number,.freshartesanal .on-scroll-bar .cart:hover *,.freshartesanal .on-scroll-bar .cart,.freshartesanal .header-buttons .btn-image:hover,.freshartesanal .header-no-address .search-enviar button,.freshartesanal .header-address .search-enviar button,.freshartesanal .cart-bar .login-menu .button input:hover,.freshartesanal .cart-bar .login-menu .button input,.freshartesanal .btn.btn-primary,.freshartesanal .btn.btn-default
+{color:#FFF !important;}
+.freshartesanal .article .text h3 small,.freshartesanal .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.freshartesanal .footer-list li a,.freshartesanal .paymants-bar .pagseguro h3,.freshartesanal .paymants-bar .pagseguro-link p,.freshartesanal .showcase-item-title h3,.freshartesanal .border-table tr th
+{color:#111 !important;}
+.freshartesanal .panel-default>.panel-heading,.freshartesanal #mobile-user-menu .modal-body .modal-list li a,.freshartesanal .carrinho-quantidade-input,.freshartesanal .product-info-por,.freshartesanal .product-colorpicker .lb,.freshartesanal .product-info-text,.freshartesanal .article .text p,.freshartesanal .related-carousel-item-title h3,.freshartesanal .offers-carousel-item-title h3,.freshartesanal .related-carousel-item-price-por,.freshartesanal .offers-carousel-item-price-por,.freshartesanal .showcase-item-price-por,.freshartesanal .logged-menu li a:hover,.freshartesanal .cart-bar .logged .text-bot
+{color:#222 !important;}
+.freshartesanal .inner-wrapper-content .text p,.freshartesanal .icon-title h2,.freshartesanal .showcase-title,.freshartesanal .side-bar-menu-item a,.freshartesanal .side-bar,.freshartesanal .full-banner .details p,.freshartesanal .full-banner .details h3,.freshartesanal .dropdown-menu-large>li>ul>li>a,.freshartesanal .navbar-default .navbar-nav>.open>a,.freshartesanal .navbar-default .navbar-nav>.open>a:focus,.freshartesanal .navbar-default .navbar-nav>li>a:hover,.freshartesanal .main-menu li a,.freshartesanal .on-scroll-bar .main-menu li.curr a,.freshartesanal .on-scroll-bar .main-menu li a:hover,.freshartesanal .on-scroll-bar .main-menu li a,.freshartesanal .on-scroll-bar .search-txt input,.freshartesanal .main-menu .social .icon i,.freshartesanal .logged-menu li a,.freshartesanal .cart-bar .cart .icon .number,.freshartesanal .cart-bar .cart,.freshartesanal .cart-bar .logged,.freshartesanal .back-button .btn.btn-default,.freshartesanal .border-table tr td
+{color:#444 !important;}
+.freshartesanal .carrinho-pay-btn-continuar *,.freshartesanal .carrinho-btn-comprar *,.freshartesanal .carrinho-valor-total h4,.freshartesanal .carrinho-valor-total div,.freshartesanal .product-info-de,.freshartesanal .article .text h4,.freshartesanal .inner-wrapper-content .text .title small,.freshartesanal .footer-list li,.freshartesanal .related-carousel-item-price-de,.freshartesanal .offers-carousel-item-price-de,.freshartesanal .showcase-item-price-de,.freshartesanal .full-banner .details h3 small,.freshartesanal .full-banner .details .price
+{color:#777 !important;}
+.freshartesanal .border-table tr td
+{border-color:#000 !important;}
+.freshartesanal .full-banner .details hr
+{border-color:#777 !important;}
+.freshartesanal .footer-google-maps,.freshartesanal .footer-credits,.freshartesanal .paymants-bar .banks .frame,.freshartesanal .paymants-bar .flags .box,.freshartesanal .related-carousel-item-wrapper,.freshartesanal .showcase-item-img,.freshartesanal .logged-menu li a,.freshartesanal .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.freshartesanal .header-address .address.hvr-ripple-out:before
+{border-color:#FAFAFA !important;}
+.freshartesanal #mobile-user-menu .modal-body .modal-list li a,.freshartesanal .panel-default>.panel-heading,.freshartesanal .modal-footer,.freshartesanal .modal-header,.freshartesanal .product-colorpicker .icon,.freshartesanal .inner-wrapper-content .text .title,.freshartesanal .sobre-full-text h3,.freshartesanal .footer,.freshartesanal .paymants-bar,.freshartesanal .user-opinion,.freshartesanal .user-access,.freshartesanal .category-carousel,.freshartesanal .category-calls,.freshartesanal .side-bar-menu-item a,.freshartesanal .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.freshartesanal .pagination li:not([class*="current"]) a:hover,.freshartesanal .pagination li.current a,.freshartesanal .pagination > li > a,.freshartesanal .pagination > li > span,.freshartesanal .paymants-bar .line,.freshartesanal .on-scroll-bar .middle-left .button,.freshartesanal .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.freshartesanal .modal-header,.freshartesanal .modal-content,.freshartesanal .carrinho-btn-comprar,.freshartesanal .carrinho-frete,.freshartesanal .pagination li:not([class*="current"]) a:hover,.freshartesanal .pagination li.current a,.freshartesanal .pagination > li > a,.freshartesanal .pagination > li > span,.freshartesanal .paymants-bar,.freshartesanal .related-carousel-item-wrapper,.freshartesanal .offers-carousel-item-wrapper,.freshartesanal .side-bar-menu-item a,.freshartesanal .slider-theme .rsBullet span,.freshartesanal .dropdown-menu,.freshartesanal .on-scroll-bar .main-menu,.freshartesanal .on-scroll-bar .search-txt input,.freshartesanal .header-no-address .search-form,.freshartesanal .header-address .search-form,.freshartesanal .logged-menu li a,.freshartesanal .logged-menu,.freshartesanal .cart-bar .cart .icon .number,.freshartesanal .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.freshartesanal .side-bar-menu-title,.freshartesanal .side-bar,.freshartesanal .navbar-default .navbar-nav>.open>a,.freshartesanal .navbar-default .navbar-nav>.open>a:focus,.freshartesanal .navbar-default .navbar-nav>li>a,.freshartesanal .navbar-default .navbar-nav>li>a:hover,.freshartesanal .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.freshartesanal .footer,.freshartesanal .category-carousel,.freshartesanal .category-calls,.freshartesanal .header-no-address,.freshartesanal .header-address,.freshartesanal
+{background-color:#FAFAFA !important;}
+.freshartesanal .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.freshartesanal .user-opinion,.freshartesanal .user-access .content,.freshartesanal .user-access,.freshartesanal .logged-menu li a:hover,.freshartesanal .cart-bar,.freshartesanal .striped-table tbody tr:nth-child(odd)
+{background-color:#F0F0F0 !important;}
+.freshartesanal .panel-default>.panel-heading,.freshartesanal .carrinho-pay-btn-continuar,.freshartesanal .carrinho-valor-total,.freshartesanal .product-color-size,.freshartesanal .inner-wrapper-title,.freshartesanal .side-bar-menu-item a:hover,.freshartesanal .main-menu,.freshartesanal .on-scroll-bar .main-menu li.curr a,.freshartesanal .on-scroll-bar .main-menu li a:hover,.freshartesanal .header-address .address:hover,.freshartesanal .back-button .btn.btn-default:hover
+{background-color:#EEE !important;}
+.freshartesanal .dropdown-menu .divider,.freshartesanal .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.freshartesanal .pagination li:not([class*="current"]) a:hover,.freshartesanal .full-banner .details .actions .btn:hover,.freshartesanal .full-banner .details .actions .btn,.freshartesanal .navbar-default .navbar-nav>li>a:hover,.freshartesanal .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.freshartesanal .on-scroll-bar .main-menu .form .btn.btn-primary,.freshartesanal .on-scroll-bar .middle-left .button:hover,.freshartesanal .main-menu .social .icon:hover i,.freshartesanal .header-buttons .btn-image:hover,.freshartesanal .header-no-address .search-enviar button:hover,.freshartesanal .header-address .search-enviar button:hover,.freshartesanal .cart-bar .logged i,.freshartesanal .cart-bar .logged,.freshartesanal .cart-bar .login,.freshartesanal .cart-bar .login-menu .button input,.freshartesanal .cart-bar .login-menu .button input:hover,.freshartesanal .back-button .btn.btn-default,.freshartesanal .back-button .btn.btn-default:hover,.freshartesanal .striped-table tbody tr:hover,.freshartesanal .striped-table tbody tr:nth-child(odd),.freshartesanal .btn.btn-primary,.freshartesanal .btn.btn-primary:hover,.freshartesanal .btn.btn-default,.freshartesanal .btn.btn-default:hover {transition:all 300ms !important;}
+.freshartesanal .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.freshartesanal .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.freshartesanal .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.freshartesanal .logged-menu li a:hover {text-decoration:none;}
+.freshartesanal .on-scroll-bar #search-form-float.focus,
+.freshartesanal .header-no-address #search-form.focus,
+.freshartesanal .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.freshartesanal .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.freshartesanal .on-scroll-bar .search-form {border:none;}
+.freshartesanal .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.freshartesanal .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.freshartesanal .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.freshartesanal .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.freshartesanal .slider-theme .rsBullet span {border:none;}
+.freshartesanal .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.freshartesanal .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.freshartesanal .side-bar-menu-item a:hover {text-decoration:none;}
+.freshartesanal .showcase-item-wrapper {border:none;}
+.freshartesanal .offers-carousel-item-wrapper {border:none;}
+.freshartesanal .paymants-bar {border-bottom:none;}
+.freshartesanal .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.freshartesanal .footer {border-bottom:none;}
+.freshartesanal .footer-google-maps,
+.freshartesanal .footer-credits {border-bottom:none;}
+.freshartesanal .pagination > li > a,
+.freshartesanal .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.freshartesanal .pagination li.current a {box-shadow:none;}
+.freshartesanal .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.freshartesanal .product-color-size-color {border-left-color: #EEE;}
+.freshartesanal .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.freshartesanal .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}
+.freshartesanal a.btn-default:hover{color:#FFF!important;}
+
+.freshartesanal .header-address {background-color:#FFF !important;}
+
+.freshartesanal .navbar-default .navbar-nav>.open>a:focus,
+.freshartesanal .navbar-default .navbar-nav>.open>a,
+.freshartesanal .navbar-default .navbar-nav>li>a:hover { color: #FFF !important; text-decoration: underline; }

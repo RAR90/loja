@@ -1,0 +1,135 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.phytoterapica .header-buttons .btn-image
+{background-color:#eafdf1 !important;}
+/*1.1.2 - Claro*/
+.phytoterapica .user-opinion .icon-circle,.phytoterapica .on-scroll-bar .main-menu .form .form-control:focus,.phytoterapica .header-no-address .search-form,.phytoterapica .header-address .search-form,.phytoterapica .form-control:focus
+{border-color:#008F38 !important;}
+.phytoterapica .navbar-default .navbar-nav>li>a,.phytoterapica .mobile-bar .btn.phytoterapica .mobile-bar .btn:hover,.phytoterapica .mobile-bar,.phytoterapica .paymants-bar .flags .box .divider,.phytoterapica .showcase-item-add.hvr-bounce-to-right:before,.phytoterapica .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.phytoterapica .on-scroll-bar .main-menu .form .btn.btn-primary,.phytoterapica .on-scroll-bar .content,.phytoterapica .header-no-address .search-enviar button,.phytoterapica .header-address .search-enviar button,.phytoterapica .btn.btn-primary,.phytoterapica .btn.btn-default
+{background-color:#008F38 !important;}
+/*1.1.3 - Medio 00732E*/
+.phytoterapica .navbar-default .dropdown-header,.phytoterapica .navbar-default .navbar-nav>li>a:hover,.phytoterapica .contato .title,.phytoterapica .contato-info-title,.phytoterapica .contato-infos,.phytoterapica .product-sizes-title,.phytoterapica .product-colors-sizes-title,.phytoterapica .product-info-title,.phytoterapica .article .text a,.phytoterapica .inner-wrapper-content .text .title span,.phytoterapica .sobre-full-text h3,.phytoterapica .footer-list-title,.phytoterapica .paymants-bar .banks .frame h3,.phytoterapica .related-carousel-item-details-link,.phytoterapica .icon-title i,.phytoterapica .offers-carousel-item-details-link,.phytoterapica .icon-title i,.phytoterapica .user-opinion .icon-circle i,.phytoterapica .side-bar-menu-title,.phytoterapica .navbar-default .dropdown-header,.phytoterapica .main-menu .social .icon:hover i,.phytoterapica .header-buttons .btn-image
+{color:#00732E !important;}
+.phytoterapica .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.phytoterapica .on-scroll-bar .main-menu .form .btn.btn-primary,.phytoterapica .btn.btn-primary:hover,.phytoterapica .btn.btn-primary,.phytoterapica .btn.btn-default:hover,.phytoterapica .btn.btn-default
+{border-color:#00732E !important;}
+.phytoterapica .cart-bar, .phytoterapica .cart-bar .login-menu .button input,.phytoterapica .main-menu li.curr a,.phytoterapica .main-menu li a:hover,.phytoterapica .on-scroll-bar .cart .icon .number,.phytoterapica .header-buttons .btn-image:hover,.phytoterapica .btn.btn-primary:hover,.phytoterapica .btn.btn-default:hover
+{background-color:#00732E !important;}
+/*1.1.4 - Escuro*/
+.phytoterapica .on-scroll-bar .middle-left .button:hover i,
+{color:#121814 !important;}
+.phytoterapica .cart-bar .login-menu .button input:hover,.phytoterapica .cart-bar .login-menu .button input,.phytoterapica .on-scroll-bar .middle-left .button:hover
+{border-color:#121814 !important;}
+.phytoterapica .navbar-default .navbar-nav>.open>a:focus,.phytoterapica .navbar-default .navbar-nav>.open>a,.phytoterapica .navbar-default .navbar-nav>li>a:hover,.phytoterapica .cart-bar .login-menu .button input:hover
+{background-color:#121814 !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.phytoterapica .header-address .address-ico i,.phytoterapica .header-address .address-link
+{color:#222 !important;}
+.phytoterapica .cart-bar .cart .icon .number,.phytoterapica .slider-theme .rsBullet.rsNavSelected span,.phytoterapica .full-banner .details .actions .btn
+{background-color:#222 !important;}
+/*1.2.2 - Escuro*/
+.phytoterapica .full-banner .details .actions .btn-primary
+{border-color:#000 !important;}
+.phytoterapica .full-banner .details .actions .btn:hover
+{background-color:#000 !important;}
+
+/*1.3 - Padrões*/
+.phytoterapica .navbar-default .navbar-nav>.open>a:focus,.phytoterapica .navbar-default .navbar-nav>.open>a,.phytoterapica .navbar-default .navbar-nav>li>a:hover,.phytoterapica .navbar-default .navbar-nav>li>a:hover,.phytoterapica .navbar-default .navbar-nav>li>a,.phytoterapica .cart-bar .cart .icon .number,.phytoterapica .cart-bar .cart .icon,.phytoterapica .cart-bar .cart .text-top,.phytoterapica .cart-bar .cart,.phytoterapica .cart-bar .logged:hover,.phytoterapica .cart-bar .logged:hover i,.phytoterapica .cart-bar .logged i,.phytoterapica .cart-bar .logged .text-bot,.phytoterapica .cart-bar .logged .text-top,.phytoterapica .cart-bar .logged,.phytoterapica .cart-bar .logout-link,.phytoterapica .cart-bar .sign .text-top,.phytoterapica .cart-bar .sign .text-bot,.phytoterapica .cart-bar .login:hover *,.phytoterapica .cart-bar .login,.phytoterapica .cart-bar .login-menu .button input:hover,.phytoterapica .mobile-bar .btn.phytoterapica .mobile-bar .btn:hover,.phytoterapica .mobile-bar a,.phytoterapica .carrinho-pay-btn-continuar:hover *,.phytoterapica .carrinho-btn-comprar:hover *,.phytoterapica .paymants-bar .flags .box .divider span,.phytoterapica .full-banner .details .actions .btn,.phytoterapica .main-menu li.curr a,.phytoterapica .main-menu li a:hover,.phytoterapica .on-scroll-bar .middle-left .button i,.phytoterapica .on-scroll-bar .cart .icon .number,.phytoterapica .on-scroll-bar .cart:hover *,.phytoterapica .on-scroll-bar .cart,.phytoterapica .header-buttons .btn-image:hover,.phytoterapica .header-no-address .search-enviar button,.phytoterapica .header-address .search-enviar button,.phytoterapica .btn.btn-primary,.phytoterapica .btn.btn-default
+{color:#FFF !important;}
+.phytoterapica .cart-bar .login-menu .button input,.phytoterapica .article .text h3 small,.phytoterapica .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.phytoterapica .footer-list li a,.phytoterapica .paymants-bar .pagseguro h3,.phytoterapica .paymants-bar .pagseguro-link p,.phytoterapica .showcase-item-title h3,.phytoterapica .border-table tr th
+{color:#111 !important;}
+.phytoterapica .logged-menu li a:hover,.phytoterapica .logged-menu li a,.phytoterapica .panel-default>.panel-heading,.phytoterapica #mobile-user-menu .modal-body .modal-list li a,.phytoterapica .carrinho-quantidade-input,.phytoterapica .product-info-por,.phytoterapica .product-colorpicker .lb,.phytoterapica .product-info-text,.phytoterapica .article .text p,.phytoterapica .related-carousel-item-title h3,.phytoterapica .offers-carousel-item-title h3,.phytoterapica .related-carousel-item-price-por,.phytoterapica .offers-carousel-item-price-por,.phytoterapica .showcase-item-price-por,.phytoterapica .logged-menu li a:hover
+{color:#222 !important;}
+.phytoterapica .dropdown-menu-large>li>ul>li>a,.phytoterapica .inner-wrapper-content .text p,.phytoterapica .icon-title h2,.phytoterapica .showcase-title,.phytoterapica .side-bar-menu-item a,.phytoterapica .side-bar,.phytoterapica .full-banner .details p,.phytoterapica .full-banner .details h3,.phytoterapica .dropdown-menu-large>li>ul>li>a,.phytoterapica .main-menu li a,.phytoterapica .on-scroll-bar .main-menu li.curr a,.phytoterapica .on-scroll-bar .main-menu li a:hover,.phytoterapica .on-scroll-bar .main-menu li a,.phytoterapica .on-scroll-bar .search-txt input,.phytoterapica .main-menu .social .icon i,.phytoterapica .logged-menu li a,.phytoterapica .back-button .btn.btn-default,.phytoterapica .border-table tr td
+{color:#444 !important;}
+.phytoterapica .carrinho-pay-btn-continuar *,.phytoterapica .carrinho-btn-comprar *,.phytoterapica .carrinho-valor-total h4,.phytoterapica .carrinho-valor-total div,.phytoterapica .product-info-de,.phytoterapica .article .text h4,.phytoterapica .inner-wrapper-content .text .title small,.phytoterapica .footer-list li,.phytoterapica .related-carousel-item-price-de,.phytoterapica .offers-carousel-item-price-de,.phytoterapica .showcase-item-price-de,.phytoterapica .full-banner .details h3 small,.phytoterapica .full-banner .details .price
+{color:#777 !important;}
+.phytoterapica .border-table tr td
+{border-color:#000 !important;}
+.phytoterapica .full-banner .details hr
+{border-color:#777 !important;}
+.phytoterapica .footer-google-maps,.phytoterapica .footer-credits,.phytoterapica .paymants-bar .banks .frame,.phytoterapica .paymants-bar .flags .box,.phytoterapica .related-carousel-item-wrapper,.phytoterapica .showcase-item-img,.phytoterapica .logged-menu li a,.phytoterapica .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.phytoterapica .header-address .address.hvr-ripple-out:before
+{border-color:#FAFAFA !important;}
+.phytoterapica .logged-menu li a,.phytoterapica #mobile-user-menu .modal-body .modal-list li a,.phytoterapica .panel-default>.panel-heading,.phytoterapica .modal-footer,.phytoterapica .modal-header,.phytoterapica .product-colorpicker .icon,.phytoterapica .inner-wrapper-content .text .title,.phytoterapica .sobre-full-text h3,.phytoterapica .footer,.phytoterapica .paymants-bar,.phytoterapica .user-opinion,.phytoterapica .user-access,.phytoterapica .category-carousel,.phytoterapica .category-calls,.phytoterapica .side-bar-menu-item a,.phytoterapica .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.phytoterapica .cart-bar .logged:hover,.phytoterapica .cart-bar .cart:hover,.phytoterapica .cart-bar .login:hover,.phytoterapica .pagination li:not([class*="current"]) a:hover,.phytoterapica .pagination li.current a,.phytoterapica .pagination > li > a,.phytoterapica .pagination > li > span,.phytoterapica .paymants-bar .line,.phytoterapica .on-scroll-bar .middle-left .button,.phytoterapica .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.phytoterapica .dropdown-menu,.phytoterapica .horizontal-bar .content,.phytoterapica .horizontal-bar,.phytoterapica .logged-menu li a,.phytoterapica .logged-menu,.phytoterapica .modal-header,.phytoterapica .modal-content,.phytoterapica .carrinho-btn-comprar,.phytoterapica .carrinho-frete,.phytoterapica .pagination li:not([class*="current"]) a:hover,.phytoterapica .pagination li.current a,.phytoterapica .pagination > li > a,.phytoterapica .pagination > li > span,.phytoterapica .paymants-bar,.phytoterapica .related-carousel-item-wrapper,.phytoterapica .offers-carousel-item-wrapper,.phytoterapica .side-bar-menu-item a,.phytoterapica .slider-theme .rsBullet span,.phytoterapica .dropdown-menu,.phytoterapica .on-scroll-bar .main-menu,.phytoterapica .on-scroll-bar .search-txt input,.phytoterapica .header-no-address .search-form,.phytoterapica .header-address .search-form,.phytoterapica .logged-menu li a,.phytoterapica .logged-menu,.phytoterapica .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.phytoterapica .side-bar-menu-title,.phytoterapica .side-bar,.phytoterapica .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.phytoterapica .logged-menu li a:hover,.phytoterapica .footer,.phytoterapica .category-carousel,.phytoterapica .category-calls,.phytoterapica .header-no-address,.phytoterapica .header-address,.phytoterapica
+{background-color:#FAFAFA !important;}
+.phytoterapica .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.phytoterapica .user-opinion,.phytoterapica .user-access .content,.phytoterapica .user-access,.phytoterapica .logged-menu li a:hover,.phytoterapica .striped-table tbody tr:nth-child(odd)
+{background-color:#F0F0F0 !important;}
+.phytoterapica .panel-default>.panel-heading,.phytoterapica .carrinho-pay-btn-continuar,.phytoterapica .carrinho-valor-total,.phytoterapica .product-color-size,.phytoterapica .inner-wrapper-title,.phytoterapica .side-bar-menu-item a:hover,.phytoterapica .main-menu,.phytoterapica .on-scroll-bar .main-menu li.curr a,.phytoterapica .on-scroll-bar .main-menu li a:hover,.phytoterapica .header-address .address:hover,.phytoterapica .back-button .btn.btn-default:hover
+{background-color:#EEE !important;}
+.phytoterapica .dropdown-menu .divider,.phytoterapica .dropdown-menu .divider,.phytoterapica .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.phytoterapica .navbar-default .navbar-nav>li>a:hover,.phytoterapica .navbar-default .navbar-nav>li>a,.phytoterapica .navbar-default .navbar-nav>li>a:hover,.phytoterapica .cart-bar .logged:hover i,.phytoterapica .cart-bar .logged i,.phytoterapica .cart-bar .logged .text-bot,.phytoterapica .cart-bar .logged .text-top,.phytoterapica .cart-bar .logged,.phytoterapica .cart-bar .logout-link,.phytoterapica .cart-bar .sign .text-top,.phytoterapica .cart-bar .sign .text-bot,.phytoterapica .cart-bar .login:hover *,.phytoterapica .cart-bar .login,.phytoterapica .cart-bar .login-menu .button input:hover,.phytoterapica .mobile-bar .btn.phytoterapica .mobile-bar .btn:hover,.phytoterapica .mobile-bar a,.phytoterapica .carrinho-pay-btn-continuar:hover *,.phytoterapica .carrinho-btn-comprar:hover *,.phytoterapica .paymants-bar .flags .box .divider span,.phytoterapica .full-banner .details .actions .btn,.phytoterapica .main-menu li.curr a,.phytoterapica .main-menu li a:hover,.phytoterapica .on-scroll-bar .middle-left .button i,.phytoterapica .on-scroll-bar .cart .icon .number,.phytoterapica .on-scroll-bar .cart:hover *,.phytoterapica .on-scroll-bar .cart,.phytoterapica .header-buttons .btn-image:hover,.phytoterapica .header-no-address .search-enviar button,.phytoterapica .header-address .search-enviar button,.phytoterapica .btn.btn-primary,.phytoterapica .btn.btn-default,.phytoterapica .cart-bar .login-menu .button input:hover,.phytoterapica .pagination li:not([class*="current"]) a:hover,.phytoterapica .full-banner .details .actions .btn:hover,.phytoterapica .full-banner .details .actions .btn,.phytoterapica .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.phytoterapica .on-scroll-bar .main-menu .form .btn.btn-primary,.phytoterapica .on-scroll-bar .middle-left .button:hover,.phytoterapica .main-menu .social .icon:hover i,.phytoterapica .header-buttons .btn-image:hover,.phytoterapica .header-no-address .search-enviar button:hover,.phytoterapica .header-address .search-enviar button:hover,.phytoterapica .back-button .btn.btn-default,.phytoterapica .back-button .btn.btn-default:hover,.phytoterapica .striped-table tbody tr:hover,.phytoterapica .striped-table tbody tr:nth-child(odd),.phytoterapica .btn.btn-primary,.phytoterapica .btn.btn-primary:hover,.phytoterapica .btn.btn-default,.phytoterapica .btn.btn-default:hover
+{transition:all 300ms !important;}
+.phytoterapica .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.phytoterapica .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.phytoterapica .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.phytoterapica .logged-menu li a:hover {text-decoration:none;}
+.phytoterapica .on-scroll-bar #search-form-float.focus,
+.phytoterapica .header-no-address #search-form.focus,
+.phytoterapica .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.phytoterapica .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.phytoterapica .on-scroll-bar .search-form {border:none;}
+.phytoterapica .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.phytoterapica .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.phytoterapica .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.phytoterapica .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.phytoterapica .slider-theme .rsBullet span {border:none;}
+.phytoterapica .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.phytoterapica .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.phytoterapica .side-bar-menu-item a:hover {text-decoration:none;}
+.phytoterapica .showcase-item-wrapper {border:none;}
+.phytoterapica .offers-carousel-item-wrapper {border:none;}
+.phytoterapica .paymants-bar {border-bottom:none;}
+.phytoterapica .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.phytoterapica .footer {border-bottom:none;}
+.phytoterapica .footer-google-maps,
+.phytoterapica .footer-credits {border-bottom:none;}
+.phytoterapica .pagination > li > a,
+.phytoterapica .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.phytoterapica .pagination li.current a {box-shadow:none;}
+.phytoterapica .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.phytoterapica .product-color-size-color {border-left-color: #EEE;}
+.phytoterapica .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.phytoterapica .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}
+.phytoterapica .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.phytoterapica .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.phytoterapica .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.phytoterapica .logged-menu li a:hover {text-decoration:none;}
+.phytoterapica .horizontal-bar .content {margin-top:10px;margin-bottom:10px;}
+.phytoterapica .navbar-default .navbar-nav>li>a {margin-right:5px;border-radius:5px;}
+.phytoterapica .dropdown-menu {border-color:transparent;}
+.phytoterapica .navbar-default .navbar-nav>.open>a,
+.phytoterapica .navbar-default .navbar-nav>.open>a:focus {background-color:transparent;}
+

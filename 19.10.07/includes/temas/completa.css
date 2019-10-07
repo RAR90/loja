@@ -1,0 +1,175 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.completa .header-buttons .btn-image
+{background-color:#EF8E00 !important;}
+/*1.1.2 - Claro*/
+.completa .user-opinion .icon-circle,.completa .on-scroll-bar .main-menu .form .form-control:focus,.completa .header-no-address .search-form,.completa .header-address .search-form,.completa .form-control:focus
+{border-color:#fffaef !important;}
+.completa .mobile-bar .btn.completa .mobile-bar .btn:hover,.completa .mobile-bar,.completa .paymants-bar .flags .box .divider,.completa .showcase-item-add.hvr-bounce-to-right:before,.completa .horizontal-bar,.completa .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.completa .on-scroll-bar .main-menu .form .btn.btn-primary,.completa .on-scroll-bar .content,.completa .header-no-address .search-enviar button,.completa .header-address .search-enviar button,.completa .btn.btn-primary,.completa .btn.btn-default
+{background-color:#fffaef !important;}
+/*1.1.3 - Medio*/
+.completa .contato .title,.completa .contato-info-title,.completa .contato-infos,.completa .product-sizes-title,.completa .product-colors-sizes-title,.completa .product-info-title,.completa .article .text a,.completa .inner-wrapper-content .text .title span,.completa .sobre-full-text h3,.completa .footer-list-title,.completa .paymants-bar .banks .frame h3,.completa .related-carousel-item-details-link,.completa .icon-title i,.completa .offers-carousel-item-details-link,.completa .icon-title i,.completa .user-opinion .icon-circle i,.completa .side-bar-menu-title,.completa .navbar-default .dropdown-header,.completa .main-menu .social .icon:hover i,.completa .header-buttons .btn-image,.completa .cart-bar .cart .icon,.completa .cart-bar .cart .text-top,.completa .cart-bar .logged i,.completa .cart-bar .logged .text-top,.completa .cart-bar .logout-link,.completa .cart-bar .sign .text-bot,.completa .cart-bar .login:hover *,.completa .cart-bar .login,.completa a
+{color:#EF8E00 !important;}
+.completa .cart-bar .logged:hover,.completa .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.completa .on-scroll-bar .main-menu .form .btn.btn-primary,.completa .cart-bar .login-menu .button input:hover,.completa .btn.btn-primary:hover,.completa .btn.btn-primary,.completa .btn.btn-default:hover,.completa .btn.btn-default,.completa .cart-bar .login:hover
+{border-color:#EF8E00 !important;}
+.completa .main-menu li.curr a,.completa .main-menu li a:hover,.completa .on-scroll-bar .cart .icon .number,.completa .header-buttons .btn-image:hover,.completa .cart-bar .login-menu .button input:hover,.completa .cart-bar .login-menu .button input,.completa .btn.btn-primary:hover,.completa .btn.btn-default:hover
+{background-color:#EF8E00 !important;}
+/*1.1.4 - Escuro*/
+.completa .on-scroll-bar .middle-left .button:hover i,.completa .cart-bar .logged:hover i,.completa .cart-bar .logged:hover
+{color:#01122E !important;}
+.completa .on-scroll-bar .middle-left .button:hover,.completa .cart-bar .cart:hover
+{border-color:#01122E !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.completa .header-address .address-ico i,.completa .header-address .address-link
+{color:#E67237 !important;}
+.completa .slider-theme .rsBullet.rsNavSelected span,.completa .full-banner .details .actions .btn
+{background-color:#E67237 !important;}
+/*1.2.2 - Escuro*/
+.completa .full-banner .details .actions .btn
+{border-color:#AE5D34 !important;}
+.completa .full-banner .details .actions .btn:hover
+{background-color:#AE5D34 !important;}
+
+/*1.3 - Padrões*/
+.completa .mobile-bar .btn.completa .mobile-bar .btn:hover,.completa .mobile-bar a,.completa .carrinho-pay-btn-continuar:hover *,.completa .carrinho-btn-comprar:hover *,.completa .paymants-bar .flags .box .divider span,.completa .full-banner .details .actions .btn,.completa .navbar-default .navbar-nav>li>a,.completa .main-menu li.curr a,.completa .main-menu li a:hover,.completa .on-scroll-bar .middle-left .button i,.completa .on-scroll-bar .cart .icon .number,.completa .on-scroll-bar .cart:hover *,.completa .on-scroll-bar .cart,.completa .header-buttons .btn-image:hover,.completa .header-no-address .search-enviar button,.completa .header-address .search-enviar button,.completa .cart-bar .login-menu .button input:hover,.completa .cart-bar .login-menu .button input,.completa .btn.btn-primary,.completa .btn.btn-default
+{color:#FFF !important;}
+.completa .article .text h3 small,.completa .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.completa .footer-list li a,.completa .paymants-bar .pagseguro h3,.completa .paymants-bar .pagseguro-link p,.completa .showcase-item-title h3,.completa .border-table tr th
+{color:#01122E !important;}
+.completa .panel-default>.panel-heading,.completa #mobile-user-menu .modal-body .modal-list li a,.completa .carrinho-quantidade-input,.completa .product-info-por,.completa .product-colorpicker .lb,.completa .product-info-text,.completa .article .text p,.completa .related-carousel-item-title h3,.completa .offers-carousel-item-title h3,.completa .related-carousel-item-price-por,.completa .offers-carousel-item-price-por,.completa .showcase-item-price-por,.completa .logged-menu li a:hover,.completa .cart-bar .logged .text-bot
+{color:#01122E !important;}
+.completa .inner-wrapper-content .text p,.completa .icon-title h2,.completa .showcase-title,.completa .side-bar-menu-item a,.completa .side-bar,.completa .full-banner .details p,.completa .full-banner .details h3,.completa .dropdown-menu-large>li>ul>li>a,.completa .navbar-default .navbar-nav>.open>a,.completa .navbar-default .navbar-nav>.open>a:focus,.completa .navbar-default .navbar-nav>li>a:hover,.completa .main-menu li a,.completa .on-scroll-bar .main-menu li.curr a,.completa .on-scroll-bar .main-menu li a:hover,.completa .on-scroll-bar .main-menu li a,.completa .on-scroll-bar .search-txt input,.completa .main-menu .social .icon i,.completa .logged-menu li a,.completa .cart-bar .cart .icon .number,.completa .cart-bar .cart,.completa .cart-bar .logged,.completa .back-button .btn.btn-default,.completa .border-table tr td
+{color:#01122E !important;}
+.completa .carrinho-pay-btn-continuar *,.completa .carrinho-btn-comprar *,.completa .carrinho-valor-total h4,.completa .carrinho-valor-total div,.completa .product-info-de,.completa .article .text h4,.completa .inner-wrapper-content .text .title small,.completa .footer-list li,.completa .related-carousel-item-price-de,.completa .offers-carousel-item-price-de,.completa .showcase-item-price-de,.completa .full-banner .details h3 small,.completa .full-banner .details .price
+{color:#777 !important;}
+.completa .border-table tr td
+{border-color:#000 !important;}
+.completa .full-banner .details hr
+{border-color:#777 !important;}
+.completa .footer-google-maps,.completa .footer-credits,.completa .paymants-bar .banks .frame,.completa .paymants-bar .flags .box,.completa .related-carousel-item-wrapper,.completa .showcase-item-img,.completa .logged-menu li a,.completa .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.completa .header-address .address.hvr-ripple-out:before
+{border-color:#FFF !important;}
+.completa #mobile-user-menu .modal-body .modal-list li a,.completa .panel-default>.panel-heading,.completa .modal-footer,.completa .modal-header,.completa .product-colorpicker .icon,.completa .inner-wrapper-content .text .title,.completa .sobre-full-text h3,.completa .footer,.completa .paymants-bar,.completa .user-opinion,.completa .user-access,.completa .category-carousel,.completa .category-calls,.completa .side-bar-menu-item a,.completa .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.completa .pagination li:not([class*="current"]) a:hover,.completa .pagination li.current a,.completa .pagination > li > a,.completa .pagination > li > span,.completa .paymants-bar .line,.completa .on-scroll-bar .middle-left .button,.completa .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.completa .modal-header,.completa .modal-content,.completa .carrinho-btn-comprar,.completa .carrinho-frete,.completa .pagination li:not([class*="current"]) a:hover,.completa .pagination li.current a,.completa .pagination > li > a,.completa .pagination > li > span,.completa .paymants-bar,.completa .related-carousel-item-wrapper,.completa .offers-carousel-item-wrapper,.completa .side-bar-menu-item a,.completa .slider-theme .rsBullet span,.completa .dropdown-menu,.completa .on-scroll-bar .main-menu,.completa .on-scroll-bar .search-txt input,.completa .header-no-address .search-form,.completa .header-address .search-form,.completa .logged-menu li a,.completa .logged-menu,.completa .cart-bar .cart .icon .number,.completa .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.completa .side-bar-menu-title,.completa .side-bar,.completa .navbar-default .navbar-nav>.open>a,.completa .navbar-default .navbar-nav>.open>a:focus,.completa .navbar-default .navbar-nav>li>a,.completa .navbar-default .navbar-nav>li>a:hover,.completa .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.completa .footer,.completa .category-carousel,.completa .category-calls,.completa .header-no-address,.completa .header-address,.completa
+{background-color:#FFF !important;}
+.completa .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.completa .user-opinion,.completa .user-access .content,.completa .user-access,.completa .logged-menu li a:hover,.completa .cart-bar,.completa .striped-table tbody tr:nth-child(odd)
+{background-color:#f3f3f3 !important;}
+.completa .panel-default>.panel-heading,.completa .carrinho-pay-btn-continuar,.completa .carrinho-valor-total,.completa .product-color-size,.completa .inner-wrapper-title,.completa .side-bar-menu-item a:hover,.completa .main-menu,.completa .on-scroll-bar .main-menu li.curr a,.completa .on-scroll-bar .main-menu li a:hover,.completa .header-address .address:hover,.completa .back-button .btn.btn-default:hover
+{background-color:#EEE !important;}
+.completa .dropdown-menu .divider,.completa .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.completa .pagination li:not([class*="current"]) a:hover,.completa .full-banner .details .actions .btn:hover,.completa .full-banner .details .actions .btn,.completa .navbar-default .navbar-nav>li>a:hover,.completa .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.completa .on-scroll-bar .main-menu .form .btn.btn-primary,.completa .on-scroll-bar .middle-left .button:hover,.completa .main-menu .social .icon:hover i,.completa .header-buttons .btn-image:hover,.completa .header-no-address .search-enviar button:hover,.completa .header-address .search-enviar button:hover,.completa .cart-bar .logged i,.completa .cart-bar .logged,.completa .cart-bar .login,.completa .cart-bar .login-menu .button input,.completa .cart-bar .login-menu .button input:hover,.completa .back-button .btn.btn-default,.completa .back-button .btn.btn-default:hover,.completa .striped-table tbody tr:hover,.completa .striped-table tbody tr:nth-child(odd),.completa .btn.btn-primary,.completa .btn.btn-primary:hover,.completa .btn.btn-default,.completa .btn.btn-default:hover {transition:all 300ms !important;}
+.completa .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.completa .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.completa .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.completa .logged-menu li a:hover {text-decoration:none;}
+.completa .on-scroll-bar #search-form-float.focus,
+.completa .header-no-address #search-form.focus,
+.completa .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.completa .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.completa .on-scroll-bar .search-form {border:none;}
+.completa .on-scroll-bar .search-enviar button{transition:all 300ms;color:#01122E;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.completa .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.completa .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.completa .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.completa .slider-theme .rsBullet span {border:none;}
+.completa .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.completa .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.completa .side-bar-menu-item a:hover {text-decoration:none;}
+.completa .showcase-item-wrapper {border:none;}
+.completa .offers-carousel-item-wrapper {border:none;}
+.completa .paymants-bar {border-bottom:none;}
+.completa .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.completa .footer {border-bottom:none;}
+.completa .footer-google-maps,
+.completa .footer-credits {border-bottom:none;}
+.completa .pagination > li > a,
+.completa .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.completa .pagination li.current a {box-shadow:none;}
+.completa .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.completa .product-color-size-color {border-left-color: #EEE;}
+.completa .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.completa .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}
+
+.completa .cart-bar {
+    background-color: #fffaef !important;
+}
+
+.completa .navbar-default .navbar-nav>li>a {
+    color: #01122E !important;
+}
+
+.completa .main-menu {
+    background-color: #e6e3dc !important;
+}
+
+.completa .on-scroll-bar .middle-left .button {
+    border-color: #EF8E00 !important;
+}
+
+.completa .on-scroll-bar .cart,
+.completa .on-scroll-bar .middle-left .button i {
+    color: #EF8E00 !important;
+}
+
+.completa .on-scroll-bar .cart:hover * {
+    color: #6b4101 !important;
+}
+
+.completa .on-scroll-bar .middle-left .button:hover {
+    background-color: #EF8E00 !important;
+    border-color: #EF8E00 !important;
+}
+
+.completa .on-scroll-bar .middle-left .button:hover i {
+    color: #FFF !important;
+}
+
+.completa .header-address .search-enviar button,
+.completa .btn.btn-default {background-color:#EF8E00 !important;}
+.completa .header-address .search-enviar button:hover,
+.completa .btn.btn-default:hover {background-color:#AE5D34 !important;}
+
+.completa .user-opinion .icon-circle,
+.completa .header-address .search-form {
+    border-color: #EF8E00 !important;
+}
+
+.completa .showcase-item-add {
+    color: #01122E !important;
+}
+
+.completa .showcase-item-add.hvr-bounce-to-right:before,
+.completa .showcase-item-add:hover .hvr-bounce-to-right:before {
+    background: #EF8E00 !important;
+}

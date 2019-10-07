@@ -1,0 +1,122 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.default-soft-blue .header-buttons .btn-image
+{background-color:#B0DDFF !important;}
+/*1.1.2 - Claro*/
+.default-soft-blue .user-opinion .icon-circle,.default-soft-blue .on-scroll-bar .main-menu .form .form-control:focus,.default-soft-blue .header-no-address .search-form,.default-soft-blue .header-address .search-form,.default-soft-blue .form-control:focus
+{border-color:#2E8AD1 !important;}
+.default-soft-blue .mobile-bar .btn.default-soft-blue .mobile-bar .btn:hover,.default-soft-blue .mobile-bar,.default-soft-blue .paymants-bar .flags .box .divider,.default-soft-blue .showcase-item-add.hvr-bounce-to-right:before,.default-soft-blue .horizontal-bar,.default-soft-blue .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.default-soft-blue .on-scroll-bar .main-menu .form .btn.btn-primary,.default-soft-blue .on-scroll-bar .content,.default-soft-blue .header-no-address .search-enviar button,.default-soft-blue .header-address .search-enviar button,.default-soft-blue .btn.btn-primary,.default-soft-blue .btn.btn-default
+{background-color:#2E8AD1 !important;}
+/*1.1.3 - Medio*/
+.default-soft-blue .contato .title,.default-soft-blue .contato-info-title,.default-soft-blue .contato-infos,.default-soft-blue .product-sizes-title,.default-soft-blue .product-colors-sizes-title,.default-soft-blue .product-info-title,.default-soft-blue .article .text a,.default-soft-blue .inner-wrapper-content .text .title span,.default-soft-blue .sobre-full-text h3,.default-soft-blue .footer-list-title,.default-soft-blue .paymants-bar .banks .frame h3,.default-soft-blue .related-carousel-item-details-link,.default-soft-blue .icon-title i,.default-soft-blue .offers-carousel-item-details-link,.default-soft-blue .icon-title i,.default-soft-blue .user-opinion .icon-circle i,.default-soft-blue .side-bar-menu-title,.default-soft-blue .navbar-default .dropdown-header,.default-soft-blue .main-menu .social .icon:hover i,.default-soft-blue .header-buttons .btn-image,.default-soft-blue .cart-bar .cart .icon,.default-soft-blue .cart-bar .cart .text-top,.default-soft-blue .cart-bar .logged i,.default-soft-blue .cart-bar .logged .text-top,.default-soft-blue .cart-bar .logout-link,.default-soft-blue .cart-bar .sign .text-bot,.default-soft-blue .cart-bar .login:hover *,.default-soft-blue .cart-bar .login,.default-soft-blue a
+{color:#2E7BB6 !important;}
+.default-soft-blue .cart-bar .logged:hover,.default-soft-blue .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.default-soft-blue .on-scroll-bar .main-menu .form .btn.btn-primary,.default-soft-blue .cart-bar .login-menu .button input:hover,.default-soft-blue .btn.btn-primary:hover,.default-soft-blue .btn.btn-primary,.default-soft-blue .btn.btn-default:hover,.default-soft-blue .btn.btn-default,.default-soft-blue .cart-bar .login:hover
+{border-color:#2E7BB6 !important;}
+.default-soft-blue .main-menu li.curr a,.default-soft-blue .main-menu li a:hover,.default-soft-blue .on-scroll-bar .cart .icon .number,.default-soft-blue .header-buttons .btn-image:hover,.default-soft-blue .cart-bar .login-menu .button input:hover,.default-soft-blue .cart-bar .login-menu .button input,.default-soft-blue .btn.btn-primary:hover,.default-soft-blue .btn.btn-default:hover
+{background-color:#2E7BB6 !important;}
+/*1.1.4 - Escuro*/
+.default-soft-blue .on-scroll-bar .middle-left .button:hover i,.default-soft-blue .cart-bar .logged:hover i,.default-soft-blue .cart-bar .logged:hover
+{color:#26618D !important;}
+.default-soft-blue .on-scroll-bar .middle-left .button:hover,.default-soft-blue .cart-bar .cart:hover
+{border-color:#26618D !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.default-soft-blue .header-address .address-ico i,.default-soft-blue .header-address .address-link
+{color:#333 !important;}
+.default-soft-blue .slider-theme .rsBullet.rsNavSelected span,.default-soft-blue .full-banner .details .actions .btn
+{background-color:#444 !important;}
+/*1.2.2 - Escuro*/
+.default-soft-blue .full-banner .details .actions .btn
+{border-color:#222 !important;}
+.default-soft-blue .full-banner .details .actions .btn:hover
+{background-color:#222 !important;}
+
+/*1.3 - Padrões*/
+.default-soft-blue .mobile-bar .btn.default-soft-blue .mobile-bar .btn:hover,.default-soft-blue .mobile-bar a,.default-soft-blue .carrinho-pay-btn-continuar:hover *,.default-soft-blue .carrinho-btn-comprar:hover *,.default-soft-blue .paymants-bar .flags .box .divider span,.default-soft-blue .full-banner .details .actions .btn,.default-soft-blue .navbar-default .navbar-nav>li>a,.default-soft-blue .main-menu li.curr a,.default-soft-blue .main-menu li a:hover,.default-soft-blue .on-scroll-bar .middle-left .button i,.default-soft-blue .on-scroll-bar .cart .icon .number,.default-soft-blue .on-scroll-bar .cart:hover *,.default-soft-blue .on-scroll-bar .cart,.default-soft-blue .header-buttons .btn-image:hover,.default-soft-blue .header-no-address .search-enviar button,.default-soft-blue .header-address .search-enviar button,.default-soft-blue .cart-bar .login-menu .button input:hover,.default-soft-blue .cart-bar .login-menu .button input,.default-soft-blue .btn.btn-primary,.default-soft-blue .btn.btn-default
+{color:#FFF !important;}
+.default-soft-blue .article .text h3 small,.default-soft-blue .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.default-soft-blue .footer-list li a,.default-soft-blue .paymants-bar .pagseguro h3,.default-soft-blue .paymants-bar .pagseguro-link p,.default-soft-blue .showcase-item-title h3,.default-soft-blue .border-table tr th
+{color:#111 !important;}
+.default-soft-blue .panel-default>.panel-heading,.default-soft-blue #mobile-user-menu .modal-body .modal-list li a,.default-soft-blue .carrinho-quantidade-input,.default-soft-blue .product-info-por,.default-soft-blue .product-colorpicker .lb,.default-soft-blue .product-info-text,.default-soft-blue .article .text p,.default-soft-blue .related-carousel-item-title h3,.default-soft-blue .offers-carousel-item-title h3,.default-soft-blue .related-carousel-item-price-por,.default-soft-blue .offers-carousel-item-price-por,.default-soft-blue .showcase-item-price-por,.default-soft-blue .logged-menu li a:hover,.default-soft-blue .cart-bar .logged .text-bot
+{color:#222 !important;}
+.default-soft-blue .inner-wrapper-content .text p,.default-soft-blue .icon-title h2,.default-soft-blue .showcase-title,.default-soft-blue .side-bar-menu-item a,.default-soft-blue .side-bar,.default-soft-blue .full-banner .details p,.default-soft-blue .full-banner .details h3,.default-soft-blue .dropdown-menu-large>li>ul>li>a,.default-soft-blue .navbar-default .navbar-nav>.open>a,.default-soft-blue .navbar-default .navbar-nav>.open>a:focus,.default-soft-blue .navbar-default .navbar-nav>li>a:hover,.default-soft-blue .main-menu li a,.default-soft-blue .on-scroll-bar .main-menu li.curr a,.default-soft-blue .on-scroll-bar .main-menu li a:hover,.default-soft-blue .on-scroll-bar .main-menu li a,.default-soft-blue .on-scroll-bar .search-txt input,.default-soft-blue .main-menu .social .icon i,.default-soft-blue .logged-menu li a,.default-soft-blue .cart-bar .cart .icon .number,.default-soft-blue .cart-bar .cart,.default-soft-blue .cart-bar .logged,.default-soft-blue .back-button .btn.btn-default,.default-soft-blue .border-table tr td
+{color:#444 !important;}
+.default-soft-blue .carrinho-pay-btn-continuar *,.default-soft-blue .carrinho-btn-comprar *,.default-soft-blue .carrinho-valor-total h4,.default-soft-blue .carrinho-valor-total div,.default-soft-blue .product-info-de,.default-soft-blue .article .text h4,.default-soft-blue .inner-wrapper-content .text .title small,.default-soft-blue .footer-list li,.default-soft-blue .related-carousel-item-price-de,.default-soft-blue .offers-carousel-item-price-de,.default-soft-blue .showcase-item-price-de,.default-soft-blue .full-banner .details h3 small,.default-soft-blue .full-banner .details .price
+{color:#777 !important;}
+.default-soft-blue .border-table tr td
+{border-color:#000 !important;}
+.default-soft-blue .full-banner .details hr
+{border-color:#777 !important;}
+.default-soft-blue .footer-google-maps,.default-soft-blue .footer-credits,.default-soft-blue .paymants-bar .banks .frame,.default-soft-blue .paymants-bar .flags .box,.default-soft-blue .related-carousel-item-wrapper,.default-soft-blue .showcase-item-img,.default-soft-blue .logged-menu li a,.default-soft-blue .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.default-soft-blue .header-address .address.hvr-ripple-out:before
+{border-color:#F7F7F7 !important;}
+.default-soft-blue #mobile-user-menu .modal-body .modal-list li a,.default-soft-blue .panel-default>.panel-heading,.default-soft-blue .modal-footer,.default-soft-blue .modal-header,.default-soft-blue .product-colorpicker .icon,.default-soft-blue .inner-wrapper-content .text .title,.default-soft-blue .sobre-full-text h3,.default-soft-blue .footer,.default-soft-blue .paymants-bar,.default-soft-blue .user-opinion,.default-soft-blue .user-access,.default-soft-blue .category-carousel,.default-soft-blue .category-calls,.default-soft-blue .side-bar-menu-item a,.default-soft-blue .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.default-soft-blue .pagination li:not([class*="current"]) a:hover,.default-soft-blue .pagination li.current a,.default-soft-blue .pagination > li > a,.default-soft-blue .pagination > li > span,.default-soft-blue .paymants-bar .line,.default-soft-blue .on-scroll-bar .middle-left .button,.default-soft-blue .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.default-soft-blue .modal-header,.default-soft-blue .modal-content,.default-soft-blue .carrinho-btn-comprar,.default-soft-blue .carrinho-frete,.default-soft-blue .pagination li:not([class*="current"]) a:hover,.default-soft-blue .pagination li.current a,.default-soft-blue .pagination > li > a,.default-soft-blue .pagination > li > span,.default-soft-blue .paymants-bar,.default-soft-blue .related-carousel-item-wrapper,.default-soft-blue .offers-carousel-item-wrapper,.default-soft-blue .side-bar-menu-item a,.default-soft-blue .slider-theme .rsBullet span,.default-soft-blue .dropdown-menu,.default-soft-blue .on-scroll-bar .main-menu,.default-soft-blue .on-scroll-bar .search-txt input,.default-soft-blue .header-no-address .search-form,.default-soft-blue .header-address .search-form,.default-soft-blue .logged-menu li a,.default-soft-blue .logged-menu,.default-soft-blue .cart-bar .cart .icon .number,.default-soft-blue .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.default-soft-blue .side-bar-menu-title,.default-soft-blue .side-bar,.default-soft-blue .navbar-default .navbar-nav>.open>a,.default-soft-blue .navbar-default .navbar-nav>.open>a:focus,.default-soft-blue .navbar-default .navbar-nav>li>a,.default-soft-blue .navbar-default .navbar-nav>li>a:hover,.default-soft-blue .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.default-soft-blue .footer,.default-soft-blue .category-carousel,.default-soft-blue .category-calls,.default-soft-blue .header-no-address,.default-soft-blue .header-address,.default-soft-blue
+{background-color:#F7F7F7 !important;}
+.default-soft-blue .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.default-soft-blue .user-opinion,.default-soft-blue .user-access .content,.default-soft-blue .user-access,.default-soft-blue .logged-menu li a:hover,.default-soft-blue .cart-bar,.default-soft-blue .striped-table tbody tr:nth-child(odd)
+{background-color:#F0F0F0 !important;}
+.default-soft-blue .panel-default>.panel-heading,.default-soft-blue .carrinho-pay-btn-continuar,.default-soft-blue .carrinho-valor-total,.default-soft-blue .product-color-size,.default-soft-blue .inner-wrapper-title,.default-soft-blue .side-bar-menu-item a:hover,.default-soft-blue .main-menu,.default-soft-blue .on-scroll-bar .main-menu li.curr a,.default-soft-blue .on-scroll-bar .main-menu li a:hover,.default-soft-blue .header-address .address:hover,.default-soft-blue .back-button .btn.btn-default:hover
+{background-color:#EEE !important;}
+.default-soft-blue .dropdown-menu .divider,.default-soft-blue .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.default-soft-blue .pagination li:not([class*="current"]) a:hover,.default-soft-blue .full-banner .details .actions .btn:hover,.default-soft-blue .full-banner .details .actions .btn,.default-soft-blue .navbar-default .navbar-nav>li>a:hover,.default-soft-blue .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.default-soft-blue .on-scroll-bar .main-menu .form .btn.btn-primary,.default-soft-blue .on-scroll-bar .middle-left .button:hover,.default-soft-blue .main-menu .social .icon:hover i,.default-soft-blue .header-buttons .btn-image:hover,.default-soft-blue .header-no-address .search-enviar button:hover,.default-soft-blue .header-address .search-enviar button:hover,.default-soft-blue .cart-bar .logged i,.default-soft-blue .cart-bar .logged,.default-soft-blue .cart-bar .login,.default-soft-blue .cart-bar .login-menu .button input,.default-soft-blue .cart-bar .login-menu .button input:hover,.default-soft-blue .back-button .btn.btn-default,.default-soft-blue .back-button .btn.btn-default:hover,.default-soft-blue .striped-table tbody tr:hover,.default-soft-blue .striped-table tbody tr:nth-child(odd),.default-soft-blue .btn.btn-primary,.default-soft-blue .btn.btn-primary:hover,.default-soft-blue .btn.btn-default,.default-soft-blue .btn.btn-default:hover {transition:all 300ms !important;}
+.default-soft-blue .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.default-soft-blue .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.default-soft-blue .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.default-soft-blue .logged-menu li a:hover {text-decoration:none;}
+.default-soft-blue .on-scroll-bar #search-form-float.focus,
+.default-soft-blue .header-no-address #search-form.focus,
+.default-soft-blue .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.default-soft-blue .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.default-soft-blue .on-scroll-bar .search-form {border:none;}
+.default-soft-blue .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.default-soft-blue .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.default-soft-blue .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.default-soft-blue .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.default-soft-blue .slider-theme .rsBullet span {border:none;}
+.default-soft-blue .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.default-soft-blue .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.default-soft-blue .side-bar-menu-item a:hover {text-decoration:none;}
+.default-soft-blue .showcase-item-wrapper {border:none;}
+.default-soft-blue .offers-carousel-item-wrapper {border:none;}
+.default-soft-blue .paymants-bar {border-bottom:none;}
+.default-soft-blue .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.default-soft-blue .footer {border-bottom:none;}
+.default-soft-blue .footer-google-maps,
+.default-soft-blue .footer-credits {border-bottom:none;}
+.default-soft-blue .pagination > li > a,
+.default-soft-blue .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.default-soft-blue .pagination li.current a {box-shadow:none;}
+.default-soft-blue .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.default-soft-blue .product-color-size-color {border-left-color: #EEE;}
+.default-soft-blue .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.default-soft-blue .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}

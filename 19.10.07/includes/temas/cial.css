@@ -1,0 +1,145 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.cial .header-buttons .btn-image
+{background-color:#CFE6D5 !important;}
+/*1.1.2 - Claro*/
+.cial .user-opinion .icon-circle,.cial .on-scroll-bar .main-menu .form .form-control:focus,.cial .header-no-address .search-form,.cial .header-address .search-form,.cial .form-control:focus
+{border-color:#CC141C !important;}
+.cial .mobile-bar .btn.cial .mobile-bar .btn:hover,.cial .mobile-bar,.cial .paymants-bar .flags .box .divider,.cial .showcase-item-add.hvr-bounce-to-right:before,.cial .horizontal-bar,.cial .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.cial .on-scroll-bar .main-menu .form .btn.btn-primary,.cial .on-scroll-bar .content,.cial .header-no-address .search-enviar button,.cial .header-address .search-enviar button,.cial .btn.btn-primary,.cial .btn.btn-default
+{background-color:#CC141C !important;}
+/*1.1.3 - Medio*/
+.cial .contato .title,.cial .contato-info-title,.cial .contato-infos,.cial .product-sizes-title,.cial .product-colors-sizes-title,.cial .product-info-title,.cial .article .text a,.cial .inner-wrapper-content .text .title span,.cial .sobre-full-text h3,.cial .footer-list-title,.cial .paymants-bar .banks .frame h3,.cial .related-carousel-item-details-link,.cial .icon-title i,.cial .offers-carousel-item-details-link,.cial .icon-title i,.cial .user-opinion .icon-circle i,.cial .side-bar-menu-title,.cial .navbar-default .dropdown-header,.cial .main-menu .social .icon:hover i,.cial .header-buttons .btn-image,.cial .cart-bar .cart .icon,.cial .cart-bar .cart .text-top,.cial .cart-bar .logged i,.cial .cart-bar .logged .text-top,.cial .cart-bar .logout-link,.cial .cart-bar .sign .text-bot,.cial .cart-bar .login:hover *,.cial .cart-bar .login,.cial a
+{color:#333 !important;}
+.cial .cart-bar .logged:hover,.cial .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.cial .on-scroll-bar .main-menu .form .btn.btn-primary,.cial .cart-bar .login-menu .button input:hover,.cial .btn.btn-primary:hover,.cial .btn.btn-primary,.cial .btn.btn-default:hover,.cial .btn.btn-default,.cial .cart-bar .login:hover
+{border-color:#333 !important;}
+.cial .main-menu li.curr a,.cial .main-menu li a:hover,.cial .on-scroll-bar .cart .icon .number,.cial .header-buttons .btn-image:hover,.cial .cart-bar .login-menu .button input:hover,.cial .cart-bar .login-menu .button input,.cial .btn.btn-primary:hover,.cial .btn.btn-default:hover
+{background-color:#333 !important;}
+/*1.1.4 - Escuro*/
+.cial .on-scroll-bar .middle-left .button:hover i,.cial .cart-bar .logged:hover i,.cial .cart-bar .logged:hover
+{color:#222 !important;}
+.cial .on-scroll-bar .middle-left .button:hover,.cial .cart-bar .cart:hover
+{border-color:#222 !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.cial .header-address .address-ico i,.cial .header-address .address-link
+{color:#CC141C !important;}
+.cial .slider-theme .rsBullet.rsNavSelected span,.cial .full-banner .details .actions .btn
+{background-color:#CC141C !important;}
+/*1.2.2 - Escuro*/
+.cial .full-banner .details .actions .btn
+{border-color:#A3080E !important;}
+.cial .full-banner .details .actions .btn:hover
+{background-color:#A3080E !important;}
+
+/*1.3 - Padrões*/
+.cial .mobile-bar .btn.cial .mobile-bar .btn:hover,.cial .mobile-bar a,.cial .carrinho-pay-btn-continuar:hover *,.cial .carrinho-btn-comprar:hover *,.cial .paymants-bar .flags .box .divider span,.cial .full-banner .details .actions .btn,.cial .navbar-default .navbar-nav>li>a,.cial .main-menu li.curr a,.cial .main-menu li a:hover,.cial .on-scroll-bar .middle-left .button i,.cial .on-scroll-bar .cart .icon .number,.cial .on-scroll-bar .cart:hover *,.cial .on-scroll-bar .cart,.cial .header-buttons .btn-image:hover,.cial .header-no-address .search-enviar button,.cial .header-address .search-enviar button,.cial .cart-bar .login-menu .button input:hover,.cial .cart-bar .login-menu .button input,.cial .btn.btn-primary,.cial .btn.btn-default
+{color:#FFF !important;}
+.cial .article .text h3 small,.cial .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.cial .footer-list li a,.cial .paymants-bar .pagseguro h3,.cial .paymants-bar .pagseguro-link p,.cial .showcase-item-title h3,.cial .border-table tr th
+{color:#111 !important;}
+.cial .panel-default>.panel-heading,.cial #mobile-user-menu .modal-body .modal-list li a,.cial .carrinho-quantidade-input,.cial .product-info-por,.cial .product-colorpicker .lb,.cial .product-info-text,.cial .article .text p,.cial .related-carousel-item-title h3,.cial .offers-carousel-item-title h3,.cial .related-carousel-item-price-por,.cial .offers-carousel-item-price-por,.cial .showcase-item-price-por,.cial .logged-menu li a:hover,.cial .cart-bar .logged .text-bot
+{color:#222 !important;}
+.cial .inner-wrapper-content .text p,.cial .icon-title h2,.cial .showcase-title,.cial .side-bar-menu-item a,.cial .side-bar,.cial .full-banner .details p,.cial .full-banner .details h3,.cial .dropdown-menu-large>li>ul>li>a,.cial .navbar-default .navbar-nav>.open>a,.cial .navbar-default .navbar-nav>.open>a:focus,.cial .navbar-default .navbar-nav>li>a:hover,.cial .main-menu li a,.cial .on-scroll-bar .main-menu li.curr a,.cial .on-scroll-bar .main-menu li a:hover,.cial .on-scroll-bar .main-menu li a,.cial .on-scroll-bar .search-txt input,.cial .main-menu .social .icon i,.cial .logged-menu li a,.cial .cart-bar .cart .icon .number,.cial .cart-bar .cart,.cial .cart-bar .logged,.cial .back-button .btn.btn-default,.cial .border-table tr td
+{color:#444 !important;}
+.cial .carrinho-pay-btn-continuar *,.cial .carrinho-btn-comprar *,.cial .carrinho-valor-total h4,.cial .carrinho-valor-total div,.cial .product-info-de,.cial .article .text h4,.cial .inner-wrapper-content .text .title small,.cial .footer-list li,.cial .related-carousel-item-price-de,.cial .offers-carousel-item-price-de,.cial .showcase-item-price-de,.cial .full-banner .details h3 small,.cial .full-banner .details .price
+{color:#777 !important;}
+.cial .border-table tr td
+{border-color:#000 !important;}
+.cial .full-banner .details hr
+{border-color:#777 !important;}
+.cial .footer-google-maps,.cial .footer-credits,.cial .paymants-bar .banks .frame,.cial .paymants-bar .flags .box,.cial .related-carousel-item-wrapper,.cial .showcase-item-img,.cial .logged-menu li a,.cial .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.cial .header-address .address.hvr-ripple-out:before
+{border-color:#FAFAFA !important;}
+.cial #mobile-user-menu .modal-body .modal-list li a,.cial .panel-default>.panel-heading,.cial .modal-footer,.cial .modal-header,.cial .product-colorpicker .icon,.cial .inner-wrapper-content .text .title,.cial .sobre-full-text h3,.cial .footer,.cial .paymants-bar,.cial .user-opinion,.cial .user-access,.cial .category-carousel,.cial .category-calls,.cial .side-bar-menu-item a,.cial .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.cial .pagination li:not([class*="current"]) a:hover,.cial .pagination li.current a,.cial .pagination > li > a,.cial .pagination > li > span,.cial .paymants-bar .line,.cial .on-scroll-bar .middle-left .button,.cial .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.cial .modal-header,.cial .modal-content,.cial .carrinho-btn-comprar,.cial .carrinho-frete,.cial .pagination li:not([class*="current"]) a:hover,.cial .pagination li.current a,.cial .pagination > li > a,.cial .pagination > li > span,.cial .paymants-bar,.cial .related-carousel-item-wrapper,.cial .offers-carousel-item-wrapper,.cial .side-bar-menu-item a,.cial .slider-theme .rsBullet span,.cial .dropdown-menu,.cial .on-scroll-bar .main-menu,.cial .on-scroll-bar .search-txt input,.cial .header-no-address .search-form,.cial .header-address .search-form,.cial .logged-menu li a,.cial .logged-menu,.cial .cart-bar .cart .icon .number,.cial .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.cial .side-bar-menu-title,.cial .side-bar,.cial .navbar-default .navbar-nav>.open>a,.cial .navbar-default .navbar-nav>.open>a:focus,.cial .navbar-default .navbar-nav>li>a,.cial .navbar-default .navbar-nav>li>a:hover,.cial .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.cial .footer,.cial .category-carousel,.cial .category-calls,.cial .header-no-address,.cial .header-address,.cial
+{background-color:#FAFAFA !important;}
+.cial .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.cial .user-opinion,.cial .user-access .content,.cial .user-access,.cial .logged-menu li a:hover,.cial .cart-bar,.cial .striped-table tbody tr:nth-child(odd)
+{background-color:#F0F0F0 !important;}
+.cial .panel-default>.panel-heading,.cial .carrinho-pay-btn-continuar,.cial .carrinho-valor-total,.cial .product-color-size,.cial .inner-wrapper-title,.cial .side-bar-menu-item a:hover,.cial .main-menu,.cial .on-scroll-bar .main-menu li.curr a,.cial .on-scroll-bar .main-menu li a:hover,.cial .header-address .address:hover,.cial .back-button .btn.btn-default:hover
+{background-color:#EEE !important;}
+.cial .dropdown-menu .divider,.cial .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.cial .pagination li:not([class*="current"]) a:hover,.cial .full-banner .details .actions .btn:hover,.cial .full-banner .details .actions .btn,.cial .navbar-default .navbar-nav>li>a:hover,.cial .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.cial .on-scroll-bar .main-menu .form .btn.btn-primary,.cial .on-scroll-bar .middle-left .button:hover,.cial .main-menu .social .icon:hover i,.cial .header-buttons .btn-image:hover,.cial .header-no-address .search-enviar button:hover,.cial .header-address .search-enviar button:hover,.cial .cart-bar .logged i,.cial .cart-bar .logged,.cial .cart-bar .login,.cial .cart-bar .login-menu .button input,.cial .cart-bar .login-menu .button input:hover,.cial .back-button .btn.btn-default,.cial .back-button .btn.btn-default:hover,.cial .striped-table tbody tr:hover,.cial .striped-table tbody tr:nth-child(odd),.cial .btn.btn-primary,.cial .btn.btn-primary:hover,.cial .btn.btn-default,.cial .btn.btn-default:hover {transition:all 300ms !important;}
+.cial .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.cial .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.cial .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.cial .logged-menu li a:hover {text-decoration:none;}
+.cial .on-scroll-bar #search-form-float.focus,
+.cial .header-no-address #search-form.focus,
+.cial .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.cial .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.cial .on-scroll-bar .search-form {border:none;}
+.cial .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.cial .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.cial .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.cial .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.cial .slider-theme .rsBullet span {border:none;}
+.cial .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.cial .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.cial .side-bar-menu-item a:hover {text-decoration:none;}
+.cial .showcase-item-wrapper {border:none;}
+.cial .offers-carousel-item-wrapper {border:none;}
+.cial .paymants-bar {border-bottom:none;}
+.cial .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.cial .footer {border-bottom:none;}
+.cial .footer-google-maps,
+.cial .footer-credits {border-bottom:none;}
+.cial .pagination > li > a,
+.cial .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.cial .pagination li.current a {box-shadow:none;}
+.cial .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.cial .product-color-size-color {border-left-color: #EEE;}
+.cial .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.cial .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}
+
+/*Especifico*/
+.cial .cart-bar.row {
+	background-color: transparent !important;
+}
+
+.cial .user-opinion .icon-circle {
+	border-color: #AAA !important;
+}
+
+.cial .user-opinion .icon-circle i {
+	color: #AAA !important;
+}
+
+.cial .btn.btn-primary,
+.cial .btn.btn-default {
+	background-color: #555 !important;
+}
+
+.cial .btn.btn-primary:hover,
+.cial .btn.btn-default:hover {
+	background-color: #222 !important;
+}

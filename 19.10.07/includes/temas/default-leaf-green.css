@@ -1,0 +1,122 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.default-leaf-green .header-buttons .btn-image
+{background-color:#DFF8B5 !important;}
+/*1.1.2 - Claro*/
+.default-leaf-green .user-opinion .icon-circle,.default-leaf-green .on-scroll-bar .main-menu .form .form-control:focus,.default-leaf-green .header-no-address .search-form,.default-leaf-green .header-address .search-form,.default-leaf-green .form-control:focus
+{border-color:#098544 !important;}
+.default-leaf-green .mobile-bar .btn.default-leaf-green .mobile-bar .btn:hover,.default-leaf-green .mobile-bar,.default-leaf-green .paymants-bar .flags .box .divider,.default-leaf-green .showcase-item-add.hvr-bounce-to-right:before,.default-leaf-green .horizontal-bar,.default-leaf-green .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.default-leaf-green .on-scroll-bar .main-menu .form .btn.btn-primary,.default-leaf-green .on-scroll-bar .content,.default-leaf-green .header-no-address .search-enviar button,.default-leaf-green .header-address .search-enviar button,.default-leaf-green .btn.btn-primary,.default-leaf-green .btn.btn-default
+{background-color:#098544 !important;}
+/*1.1.3 - Medio*/
+.default-leaf-green .contato .title,.default-leaf-green .contato-info-title,.default-leaf-green .contato-infos,.default-leaf-green .product-sizes-title,.default-leaf-green .product-colors-sizes-title,.default-leaf-green .product-info-title,.default-leaf-green .article .text a,.default-leaf-green .inner-wrapper-content .text .title span,.default-leaf-green .sobre-full-text h3,.default-leaf-green .footer-list-title,.default-leaf-green .paymants-bar .banks .frame h3,.default-leaf-green .related-carousel-item-details-link,.default-leaf-green .icon-title i,.default-leaf-green .offers-carousel-item-details-link,.default-leaf-green .icon-title i,.default-leaf-green .user-opinion .icon-circle i,.default-leaf-green .side-bar-menu-title,.default-leaf-green .navbar-default .dropdown-header,.default-leaf-green .main-menu .social .icon:hover i,.default-leaf-green .header-buttons .btn-image,.default-leaf-green .cart-bar .cart .icon,.default-leaf-green .cart-bar .cart .text-top,.default-leaf-green .cart-bar .logged i,.default-leaf-green .cart-bar .logged .text-top,.default-leaf-green .cart-bar .logout-link,.default-leaf-green .cart-bar .sign .text-bot,.default-leaf-green .cart-bar .login:hover *,.default-leaf-green .cart-bar .login,.default-leaf-green a
+{color:#06733A !important;}
+.default-leaf-green .cart-bar .logged:hover,.default-leaf-green .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.default-leaf-green .on-scroll-bar .main-menu .form .btn.btn-primary,.default-leaf-green .cart-bar .login-menu .button input:hover,.default-leaf-green .btn.btn-primary:hover,.default-leaf-green .btn.btn-primary,.default-leaf-green .btn.btn-default:hover,.default-leaf-green .btn.btn-default,.default-leaf-green .cart-bar .login:hover
+{border-color:#06733A !important;}
+.default-leaf-green .main-menu li.curr a,.default-leaf-green .main-menu li a:hover,.default-leaf-green .on-scroll-bar .cart .icon .number,.default-leaf-green .header-buttons .btn-image:hover,.default-leaf-green .cart-bar .login-menu .button input:hover,.default-leaf-green .cart-bar .login-menu .button input,.default-leaf-green .btn.btn-primary:hover,.default-leaf-green .btn.btn-default:hover
+{background-color:#06733A !important;}
+/*1.1.4 - Escuro*/
+.default-leaf-green .on-scroll-bar .middle-left .button:hover i,.default-leaf-green .cart-bar .logged:hover i,.default-leaf-green .cart-bar .logged:hover
+{color:#1B5135 !important;}
+.default-leaf-green .on-scroll-bar .middle-left .button:hover,.default-leaf-green .cart-bar .cart:hover
+{border-color:#1B5135 !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.default-leaf-green .header-address .address-ico i,.default-leaf-green .header-address .address-link
+{color:#5D8716 !important;}
+.default-leaf-green .slider-theme .rsBullet.rsNavSelected span,.default-leaf-green .full-banner .details .actions .btn
+{background-color:#5D8716 !important;}
+/*1.2.2 - Escuro*/
+.default-leaf-green .full-banner .details .actions .btn
+{border-color:#1B5135 !important;}
+.default-leaf-green .full-banner .details .actions .btn:hover
+{background-color:#1B5135 !important;}
+
+/*1.3 - Padrões*/
+.default-leaf-green .mobile-bar .btn.default-leaf-green .mobile-bar .btn:hover,.default-leaf-green .mobile-bar a,.default-leaf-green .carrinho-pay-btn-continuar:hover *,.default-leaf-green .carrinho-btn-comprar:hover *,.default-leaf-green .paymants-bar .flags .box .divider span,.default-leaf-green .full-banner .details .actions .btn,.default-leaf-green .navbar-default .navbar-nav>li>a,.default-leaf-green .main-menu li.curr a,.default-leaf-green .main-menu li a:hover,.default-leaf-green .on-scroll-bar .middle-left .button i,.default-leaf-green .on-scroll-bar .cart .icon .number,.default-leaf-green .on-scroll-bar .cart:hover *,.default-leaf-green .on-scroll-bar .cart,.default-leaf-green .header-buttons .btn-image:hover,.default-leaf-green .header-no-address .search-enviar button,.default-leaf-green .header-address .search-enviar button,.default-leaf-green .cart-bar .login-menu .button input:hover,.default-leaf-green .cart-bar .login-menu .button input,.default-leaf-green .btn.btn-primary,.default-leaf-green .btn.btn-default
+{color:#FFF !important;}
+.default-leaf-green .article .text h3 small,.default-leaf-green .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.default-leaf-green .footer-list li a,.default-leaf-green .paymants-bar .pagseguro h3,.default-leaf-green .paymants-bar .pagseguro-link p,.default-leaf-green .showcase-item-title h3,.default-leaf-green .border-table tr th
+{color:#111 !important;}
+.default-leaf-green .panel-default>.panel-heading,.default-leaf-green #mobile-user-menu .modal-body .modal-list li a,.default-leaf-green .carrinho-quantidade-input,.default-leaf-green .product-info-por,.default-leaf-green .product-colorpicker .lb,.default-leaf-green .product-info-text,.default-leaf-green .article .text p,.default-leaf-green .related-carousel-item-title h3,.default-leaf-green .offers-carousel-item-title h3,.default-leaf-green .related-carousel-item-price-por,.default-leaf-green .offers-carousel-item-price-por,.default-leaf-green .showcase-item-price-por,.default-leaf-green .logged-menu li a:hover,.default-leaf-green .cart-bar .logged .text-bot
+{color:#222 !important;}
+.default-leaf-green .inner-wrapper-content .text p,.default-leaf-green .icon-title h2,.default-leaf-green .showcase-title,.default-leaf-green .side-bar-menu-item a,.default-leaf-green .side-bar,.default-leaf-green .full-banner .details p,.default-leaf-green .full-banner .details h3,.default-leaf-green .dropdown-menu-large>li>ul>li>a,.default-leaf-green .navbar-default .navbar-nav>.open>a,.default-leaf-green .navbar-default .navbar-nav>.open>a:focus,.default-leaf-green .navbar-default .navbar-nav>li>a:hover,.default-leaf-green .main-menu li a,.default-leaf-green .on-scroll-bar .main-menu li.curr a,.default-leaf-green .on-scroll-bar .main-menu li a:hover,.default-leaf-green .on-scroll-bar .main-menu li a,.default-leaf-green .on-scroll-bar .search-txt input,.default-leaf-green .main-menu .social .icon i,.default-leaf-green .logged-menu li a,.default-leaf-green .cart-bar .cart .icon .number,.default-leaf-green .cart-bar .cart,.default-leaf-green .cart-bar .logged,.default-leaf-green .back-button .btn.btn-default,.default-leaf-green .border-table tr td
+{color:#444 !important;}
+.default-leaf-green .carrinho-pay-btn-continuar *,.default-leaf-green .carrinho-btn-comprar *,.default-leaf-green .carrinho-valor-total h4,.default-leaf-green .carrinho-valor-total div,.default-leaf-green .product-info-de,.default-leaf-green .article .text h4,.default-leaf-green .inner-wrapper-content .text .title small,.default-leaf-green .footer-list li,.default-leaf-green .related-carousel-item-price-de,.default-leaf-green .offers-carousel-item-price-de,.default-leaf-green .showcase-item-price-de,.default-leaf-green .full-banner .details h3 small,.default-leaf-green .full-banner .details .price
+{color:#777 !important;}
+.default-leaf-green .border-table tr td
+{border-color:#000 !important;}
+.default-leaf-green .full-banner .details hr
+{border-color:#777 !important;}
+.default-leaf-green .footer-google-maps,.default-leaf-green .footer-credits,.default-leaf-green .paymants-bar .banks .frame,.default-leaf-green .paymants-bar .flags .box,.default-leaf-green .related-carousel-item-wrapper,.default-leaf-green .showcase-item-img,.default-leaf-green .logged-menu li a,.default-leaf-green .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.default-leaf-green .header-address .address.hvr-ripple-out:before
+{border-color:#FAFAFA !important;}
+.default-leaf-green #mobile-user-menu .modal-body .modal-list li a,.default-leaf-green .panel-default>.panel-heading,.default-leaf-green .modal-footer,.default-leaf-green .modal-header,.default-leaf-green .product-colorpicker .icon,.default-leaf-green .inner-wrapper-content .text .title,.default-leaf-green .sobre-full-text h3,.default-leaf-green .footer,.default-leaf-green .paymants-bar,.default-leaf-green .user-opinion,.default-leaf-green .user-access,.default-leaf-green .category-carousel,.default-leaf-green .category-calls,.default-leaf-green .side-bar-menu-item a,.default-leaf-green .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.default-leaf-green .pagination li:not([class*="current"]) a:hover,.default-leaf-green .pagination li.current a,.default-leaf-green .pagination > li > a,.default-leaf-green .pagination > li > span,.default-leaf-green .paymants-bar .line,.default-leaf-green .on-scroll-bar .middle-left .button,.default-leaf-green .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.default-leaf-green .modal-header,.default-leaf-green .modal-content,.default-leaf-green .carrinho-btn-comprar,.default-leaf-green .carrinho-frete,.default-leaf-green .pagination li:not([class*="current"]) a:hover,.default-leaf-green .pagination li.current a,.default-leaf-green .pagination > li > a,.default-leaf-green .pagination > li > span,.default-leaf-green .paymants-bar,.default-leaf-green .related-carousel-item-wrapper,.default-leaf-green .offers-carousel-item-wrapper,.default-leaf-green .side-bar-menu-item a,.default-leaf-green .slider-theme .rsBullet span,.default-leaf-green .dropdown-menu,.default-leaf-green .on-scroll-bar .main-menu,.default-leaf-green .on-scroll-bar .search-txt input,.default-leaf-green .header-no-address .search-form,.default-leaf-green .header-address .search-form,.default-leaf-green .logged-menu li a,.default-leaf-green .logged-menu,.default-leaf-green .cart-bar .cart .icon .number,.default-leaf-green .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.default-leaf-green .side-bar-menu-title,.default-leaf-green .side-bar,.default-leaf-green .navbar-default .navbar-nav>.open>a,.default-leaf-green .navbar-default .navbar-nav>.open>a:focus,.default-leaf-green .navbar-default .navbar-nav>li>a,.default-leaf-green .navbar-default .navbar-nav>li>a:hover,.default-leaf-green .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.default-leaf-green .footer,.default-leaf-green .category-carousel,.default-leaf-green .category-calls,.default-leaf-green .header-no-address,.default-leaf-green .header-address,.default-leaf-green
+{background-color:#FAFAFA !important;}
+.default-leaf-green .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.default-leaf-green .user-opinion,.default-leaf-green .user-access .content,.default-leaf-green .user-access,.default-leaf-green .logged-menu li a:hover,.default-leaf-green .cart-bar,.default-leaf-green .striped-table tbody tr:nth-child(odd)
+{background-color:#F0F0F0 !important;}
+.default-leaf-green .panel-default>.panel-heading,.default-leaf-green .carrinho-pay-btn-continuar,.default-leaf-green .carrinho-valor-total,.default-leaf-green .product-color-size,.default-leaf-green .inner-wrapper-title,.default-leaf-green .side-bar-menu-item a:hover,.default-leaf-green .main-menu,.default-leaf-green .on-scroll-bar .main-menu li.curr a,.default-leaf-green .on-scroll-bar .main-menu li a:hover,.default-leaf-green .header-address .address:hover,.default-leaf-green .back-button .btn.btn-default:hover
+{background-color:#EEE !important;}
+.default-leaf-green .dropdown-menu .divider,.default-leaf-green .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.default-leaf-green .pagination li:not([class*="current"]) a:hover,.default-leaf-green .full-banner .details .actions .btn:hover,.default-leaf-green .full-banner .details .actions .btn,.default-leaf-green .navbar-default .navbar-nav>li>a:hover,.default-leaf-green .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.default-leaf-green .on-scroll-bar .main-menu .form .btn.btn-primary,.default-leaf-green .on-scroll-bar .middle-left .button:hover,.default-leaf-green .main-menu .social .icon:hover i,.default-leaf-green .header-buttons .btn-image:hover,.default-leaf-green .header-no-address .search-enviar button:hover,.default-leaf-green .header-address .search-enviar button:hover,.default-leaf-green .cart-bar .logged i,.default-leaf-green .cart-bar .logged,.default-leaf-green .cart-bar .login,.default-leaf-green .cart-bar .login-menu .button input,.default-leaf-green .cart-bar .login-menu .button input:hover,.default-leaf-green .back-button .btn.btn-default,.default-leaf-green .back-button .btn.btn-default:hover,.default-leaf-green .striped-table tbody tr:hover,.default-leaf-green .striped-table tbody tr:nth-child(odd),.default-leaf-green .btn.btn-primary,.default-leaf-green .btn.btn-primary:hover,.default-leaf-green .btn.btn-default,.default-leaf-green .btn.btn-default:hover {transition:all 300ms !important;}
+.default-leaf-green .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.default-leaf-green .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.default-leaf-green .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.default-leaf-green .logged-menu li a:hover {text-decoration:none;}
+.default-leaf-green .on-scroll-bar #search-form-float.focus,
+.default-leaf-green .header-no-address #search-form.focus,
+.default-leaf-green .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.default-leaf-green .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.default-leaf-green .on-scroll-bar .search-form {border:none;}
+.default-leaf-green .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.default-leaf-green .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.default-leaf-green .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.default-leaf-green .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.default-leaf-green .slider-theme .rsBullet span {border:none;}
+.default-leaf-green .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.default-leaf-green .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.default-leaf-green .side-bar-menu-item a:hover {text-decoration:none;}
+.default-leaf-green .showcase-item-wrapper {border:none;}
+.default-leaf-green .offers-carousel-item-wrapper {border:none;}
+.default-leaf-green .paymants-bar {border-bottom:none;}
+.default-leaf-green .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.default-leaf-green .footer {border-bottom:none;}
+.default-leaf-green .footer-google-maps,
+.default-leaf-green .footer-credits {border-bottom:none;}
+.default-leaf-green .pagination > li > a,
+.default-leaf-green .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.default-leaf-green .pagination li.current a {box-shadow:none;}
+.default-leaf-green .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.default-leaf-green .product-color-size-color {border-left-color: #EEE;}
+.default-leaf-green .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.default-leaf-green .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}

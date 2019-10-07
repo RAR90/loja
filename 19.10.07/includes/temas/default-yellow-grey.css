@@ -1,0 +1,122 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.default-yellow-grey .header-buttons .btn-image
+{background-color:#FAFAFA !important;}
+/*1.1.2 - Claro*/
+.default-yellow-grey .user-opinion .icon-circle,.default-yellow-grey .on-scroll-bar .main-menu .form .form-control:focus,.default-yellow-grey .header-no-address .search-form,.default-yellow-grey .header-address .search-form,.default-yellow-grey .form-control:focus
+{border-color:#212C5F !important;}
+.default-yellow-grey .mobile-bar .btn.default-yellow-grey .mobile-bar .btn:hover,.default-yellow-grey .mobile-bar,.default-yellow-grey .paymants-bar .flags .box .divider,.default-yellow-grey .showcase-item-add.hvr-bounce-to-right:before,.default-yellow-grey .horizontal-bar,.default-yellow-grey .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.default-yellow-grey .on-scroll-bar .main-menu .form .btn.btn-primary,.default-yellow-grey .on-scroll-bar .content,.default-yellow-grey .header-no-address .search-enviar button,.default-yellow-grey .header-address .search-enviar button,.default-yellow-grey .btn.btn-primary,.default-yellow-grey .btn.btn-default
+{background-color:#212C5F !important;}
+/*1.1.3 - Medio*/
+.default-yellow-grey .contato .title,.default-yellow-grey .contato-info-title,.default-yellow-grey .contato-infos,.default-yellow-grey .product-sizes-title,.default-yellow-grey .product-colors-sizes-title,.default-yellow-grey .product-info-title,.default-yellow-grey .article .text a,.default-yellow-grey .inner-wrapper-content .text .title span,.default-yellow-grey .sobre-full-text h3,.default-yellow-grey .footer-list-title,.default-yellow-grey .paymants-bar .banks .frame h3,.default-yellow-grey .related-carousel-item-details-link,.default-yellow-grey .icon-title i,.default-yellow-grey .offers-carousel-item-details-link,.default-yellow-grey .icon-title i,.default-yellow-grey .user-opinion .icon-circle i,.default-yellow-grey .side-bar-menu-title,.default-yellow-grey .navbar-default .dropdown-header,.default-yellow-grey .main-menu .social .icon:hover i,.default-yellow-grey .header-buttons .btn-image,.default-yellow-grey .cart-bar .cart .icon,.default-yellow-grey .cart-bar .cart .text-top,.default-yellow-grey .cart-bar .logged i,.default-yellow-grey .cart-bar .logged .text-top,.default-yellow-grey .cart-bar .logout-link,.default-yellow-grey .cart-bar .sign .text-bot,.default-yellow-grey .cart-bar .login:hover *,.default-yellow-grey .cart-bar .login,.default-yellow-grey a
+{color:#444 !important;}
+.default-yellow-grey .cart-bar .logged:hover,.default-yellow-grey .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.default-yellow-grey .on-scroll-bar .main-menu .form .btn.btn-primary,.default-yellow-grey .cart-bar .login-menu .button input:hover,.default-yellow-grey .btn.btn-primary:hover,.default-yellow-grey .btn.btn-primary,.default-yellow-grey .btn.btn-default:hover,.default-yellow-grey .btn.btn-default,.default-yellow-grey .cart-bar .login:hover
+{border-color:#D9B700 !important;}
+.default-yellow-grey .main-menu li.curr a,.default-yellow-grey .main-menu li a:hover,.default-yellow-grey .on-scroll-bar .cart .icon .number,.default-yellow-grey .header-buttons .btn-image:hover,.default-yellow-grey .cart-bar .login-menu .button input:hover,.default-yellow-grey .cart-bar .login-menu .button input,.default-yellow-grey .btn.btn-primary:hover,.default-yellow-grey .btn.btn-default:hover
+{background-color:#D9B700 !important;}
+/*1.1.4 - Escuro*/
+.default-yellow-grey .on-scroll-bar .middle-left .button:hover i,.default-yellow-grey .cart-bar .logged:hover i,.default-yellow-grey .cart-bar .logged:hover
+{color:#222 !important;}
+.default-yellow-grey .on-scroll-bar .middle-left .button:hover,.default-yellow-grey .cart-bar .cart:hover
+{border-color:#222 !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.default-yellow-grey .header-address .address-ico i,.default-yellow-grey .header-address .address-link
+{color:#595036 !important;}
+.default-yellow-grey .slider-theme .rsBullet.rsNavSelected span,.default-yellow-grey .full-banner .details .actions .btn
+{background-color:#595036 !important;}
+/*1.2.2 - Escuro*/
+.default-yellow-grey .full-banner .details .actions .btn
+{border-color:#383222 !important;}
+.default-yellow-grey .full-banner .details .actions .btn:hover
+{background-color:#383222 !important;}
+
+/*1.3 - Padrões*/
+.default-yellow-grey .mobile-bar .btn.default-yellow-grey .mobile-bar .btn:hover,.default-yellow-grey .mobile-bar a,.default-yellow-grey .carrinho-pay-btn-continuar:hover *,.default-yellow-grey .carrinho-btn-comprar:hover *,.default-yellow-grey .paymants-bar .flags .box .divider span,.default-yellow-grey .full-banner .details .actions .btn,.default-yellow-grey .navbar-default .navbar-nav>li>a,.default-yellow-grey .main-menu li.curr a,.default-yellow-grey .main-menu li a:hover,.default-yellow-grey .on-scroll-bar .middle-left .button i,.default-yellow-grey .on-scroll-bar .cart .icon .number,.default-yellow-grey .on-scroll-bar .cart:hover *,.default-yellow-grey .on-scroll-bar .cart,.default-yellow-grey .header-buttons .btn-image:hover,.default-yellow-grey .header-no-address .search-enviar button,.default-yellow-grey .header-address .search-enviar button,.default-yellow-grey .cart-bar .login-menu .button input:hover,.default-yellow-grey .cart-bar .login-menu .button input,.default-yellow-grey .btn.btn-primary,.default-yellow-grey .btn.btn-default
+{color:#FFF !important;}
+.default-yellow-grey .article .text h3 small,.default-yellow-grey .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.default-yellow-grey .footer-list li a,.default-yellow-grey .paymants-bar .pagseguro h3,.default-yellow-grey .paymants-bar .pagseguro-link p,.default-yellow-grey .showcase-item-title h3,.default-yellow-grey .border-table tr th
+{color:#111 !important;}
+.default-yellow-grey .panel-default>.panel-heading,.default-yellow-grey #mobile-user-menu .modal-body .modal-list li a,.default-yellow-grey .carrinho-quantidade-input,.default-yellow-grey .product-info-por,.default-yellow-grey .product-colorpicker .lb,.default-yellow-grey .product-info-text,.default-yellow-grey .article .text p,.default-yellow-grey .related-carousel-item-title h3,.default-yellow-grey .offers-carousel-item-title h3,.default-yellow-grey .related-carousel-item-price-por,.default-yellow-grey .offers-carousel-item-price-por,.default-yellow-grey .showcase-item-price-por,.default-yellow-grey .logged-menu li a:hover,.default-yellow-grey .cart-bar .logged .text-bot
+{color:#222 !important;}
+.default-yellow-grey .inner-wrapper-content .text p,.default-yellow-grey .icon-title h2,.default-yellow-grey .showcase-title,.default-yellow-grey .side-bar-menu-item a,.default-yellow-grey .side-bar,.default-yellow-grey .full-banner .details p,.default-yellow-grey .full-banner .details h3,.default-yellow-grey .dropdown-menu-large>li>ul>li>a,.default-yellow-grey .navbar-default .navbar-nav>.open>a,.default-yellow-grey .navbar-default .navbar-nav>.open>a:focus,.default-yellow-grey .navbar-default .navbar-nav>li>a:hover,.default-yellow-grey .main-menu li a,.default-yellow-grey .on-scroll-bar .main-menu li.curr a,.default-yellow-grey .on-scroll-bar .main-menu li a:hover,.default-yellow-grey .on-scroll-bar .main-menu li a,.default-yellow-grey .on-scroll-bar .search-txt input,.default-yellow-grey .main-menu .social .icon i,.default-yellow-grey .logged-menu li a,.default-yellow-grey .cart-bar .cart .icon .number,.default-yellow-grey .cart-bar .cart,.default-yellow-grey .cart-bar .logged,.default-yellow-grey .back-button .btn.btn-default,.default-yellow-grey .border-table tr td
+{color:#444 !important;}
+.default-yellow-grey .carrinho-pay-btn-continuar *,.default-yellow-grey .carrinho-btn-comprar *,.default-yellow-grey .carrinho-valor-total h4,.default-yellow-grey .carrinho-valor-total div,.default-yellow-grey .product-info-de,.default-yellow-grey .article .text h4,.default-yellow-grey .inner-wrapper-content .text .title small,.default-yellow-grey .footer-list li,.default-yellow-grey .related-carousel-item-price-de,.default-yellow-grey .offers-carousel-item-price-de,.default-yellow-grey .showcase-item-price-de,.default-yellow-grey .full-banner .details h3 small,.default-yellow-grey .full-banner .details .price
+{color:#777 !important;}
+.default-yellow-grey .border-table tr td
+{border-color:#000 !important;}
+.default-yellow-grey .full-banner .details hr
+{border-color:#777 !important;}
+.default-yellow-grey .footer-google-maps,.default-yellow-grey .footer-credits,.default-yellow-grey .paymants-bar .banks .frame,.default-yellow-grey .paymants-bar .flags .box,.default-yellow-grey .related-carousel-item-wrapper,.default-yellow-grey .showcase-item-img,.default-yellow-grey .logged-menu li a,.default-yellow-grey .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.default-yellow-grey .header-address .address.hvr-ripple-out:before
+{border-color:#FAF8F0 !important;}
+.default-yellow-grey #mobile-user-menu .modal-body .modal-list li a,.default-yellow-grey .panel-default>.panel-heading,.default-yellow-grey .modal-footer,.default-yellow-grey .modal-header,.default-yellow-grey .product-colorpicker .icon,.default-yellow-grey .inner-wrapper-content .text .title,.default-yellow-grey .sobre-full-text h3,.default-yellow-grey .footer,.default-yellow-grey .paymants-bar,.default-yellow-grey .user-opinion,.default-yellow-grey .user-access,.default-yellow-grey .category-carousel,.default-yellow-grey .category-calls,.default-yellow-grey .side-bar-menu-item a,.default-yellow-grey .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEEBE4 !important;}
+.default-yellow-grey .pagination li:not([class*="current"]) a:hover,.default-yellow-grey .pagination li.current a,.default-yellow-grey .pagination > li > a,.default-yellow-grey .pagination > li > span,.default-yellow-grey .paymants-bar .line,.default-yellow-grey .on-scroll-bar .middle-left .button,.default-yellow-grey .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.default-yellow-grey .modal-header,.default-yellow-grey .modal-content,.default-yellow-grey .carrinho-btn-comprar,.default-yellow-grey .carrinho-frete,.default-yellow-grey .pagination li:not([class*="current"]) a:hover,.default-yellow-grey .pagination li.current a,.default-yellow-grey .pagination > li > a,.default-yellow-grey .pagination > li > span,.default-yellow-grey .paymants-bar,.default-yellow-grey .related-carousel-item-wrapper,.default-yellow-grey .offers-carousel-item-wrapper,.default-yellow-grey .side-bar-menu-item a,.default-yellow-grey .slider-theme .rsBullet span,.default-yellow-grey .dropdown-menu,.default-yellow-grey .on-scroll-bar .main-menu,.default-yellow-grey .on-scroll-bar .search-txt input,.default-yellow-grey .header-no-address .search-form,.default-yellow-grey .header-address .search-form,.default-yellow-grey .logged-menu li a,.default-yellow-grey .logged-menu,.default-yellow-grey .cart-bar .cart .icon .number,.default-yellow-grey .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.default-yellow-grey .side-bar-menu-title,.default-yellow-grey .side-bar,.default-yellow-grey .navbar-default .navbar-nav>.open>a,.default-yellow-grey .navbar-default .navbar-nav>.open>a:focus,.default-yellow-grey .navbar-default .navbar-nav>li>a,.default-yellow-grey .navbar-default .navbar-nav>li>a:hover,.default-yellow-grey .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.default-yellow-grey .footer,.default-yellow-grey .category-carousel,.default-yellow-grey .category-calls,.default-yellow-grey .header-no-address,.default-yellow-grey .header-address,.default-yellow-grey
+{background-color:#FAF8F0 !important;}
+.default-yellow-grey .inner-wrapper-content
+{background-color:#FFF !important;}
+.default-yellow-grey .user-opinion,.default-yellow-grey .user-access .content,.default-yellow-grey .user-access,.default-yellow-grey .logged-menu li a:hover,.default-yellow-grey .cart-bar,.default-yellow-grey .striped-table tbody tr:nth-child(odd)
+{background-color:#EEEBE4 !important;}
+.default-yellow-grey .panel-default>.panel-heading,.default-yellow-grey .carrinho-pay-btn-continuar,.default-yellow-grey .carrinho-valor-total,.default-yellow-grey .product-color-size,.default-yellow-grey .inner-wrapper-title,.default-yellow-grey .side-bar-menu-item a:hover,.default-yellow-grey .main-menu,.default-yellow-grey .on-scroll-bar .main-menu li.curr a,.default-yellow-grey .on-scroll-bar .main-menu li a:hover,.default-yellow-grey .header-address .address:hover,.default-yellow-grey .back-button .btn.btn-default:hover
+{background-color:#EEEBE4 !important;}
+.default-yellow-grey .dropdown-menu .divider,.default-yellow-grey .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.default-yellow-grey .pagination li:not([class*="current"]) a:hover,.default-yellow-grey .full-banner .details .actions .btn:hover,.default-yellow-grey .full-banner .details .actions .btn,.default-yellow-grey .navbar-default .navbar-nav>li>a:hover,.default-yellow-grey .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.default-yellow-grey .on-scroll-bar .main-menu .form .btn.btn-primary,.default-yellow-grey .on-scroll-bar .middle-left .button:hover,.default-yellow-grey .main-menu .social .icon:hover i,.default-yellow-grey .header-buttons .btn-image:hover,.default-yellow-grey .header-no-address .search-enviar button:hover,.default-yellow-grey .header-address .search-enviar button:hover,.default-yellow-grey .cart-bar .logged i,.default-yellow-grey .cart-bar .logged,.default-yellow-grey .cart-bar .login,.default-yellow-grey .cart-bar .login-menu .button input,.default-yellow-grey .cart-bar .login-menu .button input:hover,.default-yellow-grey .back-button .btn.btn-default,.default-yellow-grey .back-button .btn.btn-default:hover,.default-yellow-grey .striped-table tbody tr:hover,.default-yellow-grey .striped-table tbody tr:nth-child(odd),.default-yellow-grey .btn.btn-primary,.default-yellow-grey .btn.btn-primary:hover,.default-yellow-grey .btn.btn-default,.default-yellow-grey .btn.btn-default:hover {transition:all 300ms !important;}
+.default-yellow-grey .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.default-yellow-grey .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.default-yellow-grey .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.default-yellow-grey .logged-menu li a:hover {text-decoration:none;}
+.default-yellow-grey .on-scroll-bar #search-form-float.focus,
+.default-yellow-grey .header-no-address #search-form.focus,
+.default-yellow-grey .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.default-yellow-grey .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.default-yellow-grey .on-scroll-bar .search-form {border:none;}
+.default-yellow-grey .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.default-yellow-grey .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.default-yellow-grey .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.default-yellow-grey .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.default-yellow-grey .slider-theme .rsBullet span {border:none;}
+.default-yellow-grey .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.default-yellow-grey .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.default-yellow-grey .side-bar-menu-item a:hover {text-decoration:none;}
+.default-yellow-grey .showcase-item-wrapper {border:none;}
+.default-yellow-grey .offers-carousel-item-wrapper {border:none;}
+.default-yellow-grey .paymants-bar {border-bottom:none;}
+.default-yellow-grey .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.default-yellow-grey .footer {border-bottom:none;}
+.default-yellow-grey .footer-google-maps,
+.default-yellow-grey .footer-credits {border-bottom:none;}
+.default-yellow-grey .pagination > li > a,
+.default-yellow-grey .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.default-yellow-grey .pagination li.current a {box-shadow:none;}
+.default-yellow-grey .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.default-yellow-grey .product-color-size-color {border-left-color: #EEE;}
+.default-yellow-grey .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.default-yellow-grey .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}

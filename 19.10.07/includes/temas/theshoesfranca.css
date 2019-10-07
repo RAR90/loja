@@ -1,0 +1,130 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.theshoesfranca .header-buttons .btn-image
+{background-color:#EEE !important;}
+/*1.1.2 - Claro*/
+.theshoesfranca .user-opinion .icon-circle,.theshoesfranca .on-scroll-bar .main-menu .form .form-control:focus,.theshoesfranca .header-no-address .search-form,.theshoesfranca .header-address .search-form,.theshoesfranca .form-control:focus
+{border-color:#333331 !important;}
+.theshoesfranca .mobile-bar .btn.theshoesfranca .mobile-bar .btn:hover,.theshoesfranca .mobile-bar,.theshoesfranca .paymants-bar .flags .box .divider,.theshoesfranca .showcase-item-add.hvr-bounce-to-right:before,.theshoesfranca .horizontal-bar,.theshoesfranca .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.theshoesfranca .on-scroll-bar .main-menu .form .btn.btn-primary,.theshoesfranca .on-scroll-bar .content,.theshoesfranca .header-no-address .search-enviar button,.theshoesfranca .header-address .search-enviar button,.theshoesfranca .btn.btn-primary,.theshoesfranca .btn.btn-default
+{background-color:#333331 !important;}
+/*1.1.3 - Medio*/
+.theshoesfranca .contato .title,.theshoesfranca .contato-info-title,.theshoesfranca .contato-infos,.theshoesfranca .product-sizes-title,.theshoesfranca .product-colors-sizes-title,.theshoesfranca .product-info-title,.theshoesfranca .article .text a,.theshoesfranca .inner-wrapper-content .text .title span,.theshoesfranca .sobre-full-text h3,.theshoesfranca .footer-list-title,.theshoesfranca .paymants-bar .banks .frame h3,.theshoesfranca .related-carousel-item-details-link,.theshoesfranca .icon-title i,.theshoesfranca .offers-carousel-item-details-link,.theshoesfranca .icon-title i,.theshoesfranca .user-opinion .icon-circle i,.theshoesfranca .side-bar-menu-title,.theshoesfranca .navbar-default .dropdown-header,.theshoesfranca .main-menu .social .icon:hover i,.theshoesfranca .header-buttons .btn-image,.theshoesfranca .cart-bar .cart .icon,.theshoesfranca .cart-bar .cart .text-top,.theshoesfranca .cart-bar .logged i,.theshoesfranca .cart-bar .logged .text-top,.theshoesfranca .cart-bar .logout-link,.theshoesfranca .cart-bar .sign .text-bot,.theshoesfranca .cart-bar .login:hover *,.theshoesfranca .cart-bar .login,.theshoesfranca a
+{color:#222221 !important;}
+.default-green .cart-bar .logged:hover,.theshoesfranca .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.theshoesfranca .on-scroll-bar .main-menu .form .btn.btn-primary,.theshoesfranca .cart-bar .login-menu .button input:hover,.theshoesfranca .btn.btn-primary:hover,.theshoesfranca .btn.btn-primary,.theshoesfranca .btn.btn-default:hover,.theshoesfranca .btn.btn-default,.theshoesfranca .cart-bar .login:hover
+{border-color:#222221 !important;}
+.theshoesfranca .main-menu li.curr a,.theshoesfranca .main-menu li a:hover,.theshoesfranca .on-scroll-bar .cart .icon .number,.theshoesfranca .header-buttons .btn-image:hover,.theshoesfranca .cart-bar .login-menu .button input:hover,.theshoesfranca .cart-bar .login-menu .button input,.theshoesfranca .btn.btn-primary:hover,.theshoesfranca .btn.btn-default:hover
+{background-color:#222221 !important;}
+/*1.1.4 - Escuro*/
+.theshoesfranca .on-scroll-bar .middle-left .button:hover i,.theshoesfranca .cart-bar .logged:hover i,.theshoesfranca .cart-bar .logged:hover
+{color:#000 !important;}
+.theshoesfranca .on-scroll-bar .middle-left .button:hover,.theshoesfranca .cart-bar .cart:hover
+{border-color:#000 !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.theshoesfranca .header-address .address-ico i,.theshoesfranca .header-address .address-link
+{color:#333331 !important;}
+.theshoesfranca .slider-theme .rsBullet.rsNavSelected span,.theshoesfranca .full-banner .details .actions .btn
+{background-color:#333331 !important;}
+/*1.2.2 - Escuro*/
+.theshoesfranca .full-banner .details .actions .btn
+{border-color:#222221 !important;}
+.theshoesfranca .full-banner .details .actions .btn:hover
+{background-color:#222221 !important;}
+
+/*1.3 - Padrões*/
+.theshoesfranca .mobile-bar .btn.theshoesfranca .mobile-bar .btn:hover,.theshoesfranca .mobile-bar a,.theshoesfranca .carrinho-pay-btn-continuar:hover *,.theshoesfranca .carrinho-btn-comprar:hover *,.theshoesfranca .paymants-bar .flags .box .divider span,.theshoesfranca .full-banner .details .actions .btn,.theshoesfranca .navbar-default .navbar-nav>li>a,.theshoesfranca .main-menu li.curr a,.theshoesfranca .main-menu li a:hover,.theshoesfranca .on-scroll-bar .middle-left .button i,.theshoesfranca .on-scroll-bar .cart .icon .number,.theshoesfranca .on-scroll-bar .cart:hover *,.theshoesfranca .on-scroll-bar .cart,.theshoesfranca .header-buttons .btn-image:hover,.theshoesfranca .header-no-address .search-enviar button,.theshoesfranca .header-address .search-enviar button,.theshoesfranca .cart-bar .login-menu .button input:hover,.theshoesfranca .cart-bar .login-menu .button input,.theshoesfranca .btn.btn-primary,.theshoesfranca .btn.btn-default
+{color:#FFF !important;}
+.theshoesfranca .article .text h3 small,.theshoesfranca .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.theshoesfranca .footer-list li a,.theshoesfranca .paymants-bar .pagseguro h3,.theshoesfranca .paymants-bar .pagseguro-link p,.theshoesfranca .showcase-item-title h3,.theshoesfranca .border-table tr th
+{color:#111 !important;}
+.theshoesfranca .panel-default>.panel-heading,.theshoesfranca #mobile-user-menu .modal-body .modal-list li a,.theshoesfranca .carrinho-quantidade-input,.theshoesfranca .product-info-por,.theshoesfranca .product-colorpicker .lb,.theshoesfranca .product-info-text,.theshoesfranca .article .text p,.theshoesfranca .related-carousel-item-title h3,.theshoesfranca .offers-carousel-item-title h3,.theshoesfranca .related-carousel-item-price-por,.theshoesfranca .offers-carousel-item-price-por,.theshoesfranca .showcase-item-price-por,.theshoesfranca .logged-menu li a:hover,.theshoesfranca .cart-bar .logged .text-bot
+{color:#222 !important;}
+.theshoesfranca .inner-wrapper-content .text p,.theshoesfranca .icon-title h2,.theshoesfranca .showcase-title,.theshoesfranca .side-bar-menu-item a,.theshoesfranca .side-bar,.theshoesfranca .full-banner .details p,.theshoesfranca .full-banner .details h3,.theshoesfranca .dropdown-menu-large>li>ul>li>a,.theshoesfranca .navbar-default .navbar-nav>.open>a,.theshoesfranca .navbar-default .navbar-nav>.open>a:focus,.theshoesfranca .navbar-default .navbar-nav>li>a:hover,.theshoesfranca .main-menu li a,.theshoesfranca .on-scroll-bar .main-menu li.curr a,.theshoesfranca .on-scroll-bar .main-menu li a:hover,.theshoesfranca .on-scroll-bar .main-menu li a,.theshoesfranca .on-scroll-bar .search-txt input,.theshoesfranca .main-menu .social .icon i,.theshoesfranca .logged-menu li a,.theshoesfranca .cart-bar .cart .icon .number,.theshoesfranca .cart-bar .cart,.theshoesfranca .cart-bar .logged,.theshoesfranca .back-button .btn.btn-default,.theshoesfranca .border-table tr td
+{color:#444 !important;}
+.theshoesfranca .carrinho-pay-btn-continuar *,.theshoesfranca .carrinho-btn-comprar *,.theshoesfranca .carrinho-valor-total h4,.theshoesfranca .carrinho-valor-total div,.theshoesfranca .product-info-de,.theshoesfranca .article .text h4,.theshoesfranca .inner-wrapper-content .text .title small,.theshoesfranca .footer-list li,.theshoesfranca .related-carousel-item-price-de,.theshoesfranca .offers-carousel-item-price-de,.theshoesfranca .showcase-item-price-de,.theshoesfranca .full-banner .details h3 small,.theshoesfranca .full-banner .details .price
+{color:#777 !important;}
+.theshoesfranca .border-table tr td
+{border-color:#000 !important;}
+.theshoesfranca .full-banner .details hr
+{border-color:#777 !important;}
+.theshoesfranca .footer-google-maps,.theshoesfranca .footer-credits,.theshoesfranca .paymants-bar .banks .frame,.theshoesfranca .paymants-bar .flags .box,.theshoesfranca .related-carousel-item-wrapper,.theshoesfranca .showcase-item-img,.theshoesfranca .logged-menu li a,.theshoesfranca .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.theshoesfranca .header-address .address.hvr-ripple-out:before
+{border-color:#FAFAFA !important;}
+.theshoesfranca #mobile-user-menu .modal-body .modal-list li a,.theshoesfranca .panel-default>.panel-heading,.theshoesfranca .modal-footer,.theshoesfranca .modal-header,.theshoesfranca .product-colorpicker .icon,.theshoesfranca .inner-wrapper-content .text .title,.theshoesfranca .sobre-full-text h3,.theshoesfranca .footer,.theshoesfranca .paymants-bar,.theshoesfranca .user-opinion,.theshoesfranca .user-access,.theshoesfranca .category-carousel,.theshoesfranca .category-calls,.theshoesfranca .side-bar-menu-item a,.theshoesfranca .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.theshoesfranca .pagination li:not([class*="current"]) a:hover,.theshoesfranca .pagination li.current a,.theshoesfranca .pagination > li > a,.theshoesfranca .pagination > li > span,.theshoesfranca .paymants-bar .line,.theshoesfranca .on-scroll-bar .middle-left .button,.theshoesfranca .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.theshoesfranca .modal-header,.theshoesfranca .modal-content,.theshoesfranca .carrinho-btn-comprar,.theshoesfranca .carrinho-frete,.theshoesfranca .pagination li:not([class*="current"]) a:hover,.theshoesfranca .pagination li.current a,.theshoesfranca .pagination > li > a,.theshoesfranca .pagination > li > span,.theshoesfranca .paymants-bar,.theshoesfranca .related-carousel-item-wrapper,.theshoesfranca .offers-carousel-item-wrapper,.theshoesfranca .side-bar-menu-item a,.theshoesfranca .slider-theme .rsBullet span,.theshoesfranca .dropdown-menu,.theshoesfranca .on-scroll-bar .main-menu,.theshoesfranca .on-scroll-bar .search-txt input,.theshoesfranca .header-no-address .search-form,.theshoesfranca .header-address .search-form,.theshoesfranca .logged-menu li a,.theshoesfranca .logged-menu,.theshoesfranca .cart-bar .cart .icon .number,.theshoesfranca .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.theshoesfranca .side-bar-menu-title,.theshoesfranca .side-bar,.theshoesfranca .navbar-default .navbar-nav>.open>a,.theshoesfranca .navbar-default .navbar-nav>.open>a:focus,.theshoesfranca .navbar-default .navbar-nav>li>a,.theshoesfranca .navbar-default .navbar-nav>li>a:hover,.theshoesfranca .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.theshoesfranca .footer,.theshoesfranca .category-carousel,.theshoesfranca .category-calls,.theshoesfranca .header-no-address,.theshoesfranca .header-address,.theshoesfranca
+{background-color:#FAFAFA !important;}
+.theshoesfranca .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.theshoesfranca .user-opinion,.theshoesfranca .user-access .content,.theshoesfranca .user-access,.theshoesfranca .logged-menu li a:hover,.theshoesfranca .cart-bar,.theshoesfranca .striped-table tbody tr:nth-child(odd)
+{background-color:#F0F0F0 !important;}
+.theshoesfranca .panel-default>.panel-heading,.theshoesfranca .carrinho-pay-btn-continuar,.theshoesfranca .carrinho-valor-total,.theshoesfranca .product-color-size,.theshoesfranca .inner-wrapper-title,.theshoesfranca .side-bar-menu-item a:hover,.theshoesfranca .main-menu,.theshoesfranca .on-scroll-bar .main-menu li.curr a,.theshoesfranca .on-scroll-bar .main-menu li a:hover,.theshoesfranca .header-address .address:hover,.theshoesfranca .back-button .btn.btn-default:hover
+{background-color:#EEE !important;}
+.theshoesfranca .dropdown-menu .divider,.theshoesfranca .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.theshoesfranca .pagination li:not([class*="current"]) a:hover,.theshoesfranca .full-banner .details .actions .btn:hover,.theshoesfranca .full-banner .details .actions .btn,.theshoesfranca .navbar-default .navbar-nav>li>a:hover,.theshoesfranca .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.theshoesfranca .on-scroll-bar .main-menu .form .btn.btn-primary,.theshoesfranca .on-scroll-bar .middle-left .button:hover,.theshoesfranca .main-menu .social .icon:hover i,.theshoesfranca .header-buttons .btn-image:hover,.theshoesfranca .header-no-address .search-enviar button:hover,.theshoesfranca .header-address .search-enviar button:hover,.theshoesfranca .cart-bar .logged i,.theshoesfranca .cart-bar .logged,.theshoesfranca .cart-bar .login,.theshoesfranca .cart-bar .login-menu .button input,.theshoesfranca .cart-bar .login-menu .button input:hover,.theshoesfranca .back-button .btn.btn-default,.theshoesfranca .back-button .btn.btn-default:hover,.theshoesfranca .striped-table tbody tr:hover,.theshoesfranca .striped-table tbody tr:nth-child(odd),.theshoesfranca .btn.btn-primary,.theshoesfranca .btn.btn-primary:hover,.theshoesfranca .btn.btn-default,.theshoesfranca .btn.btn-default:hover {transition:all 300ms !important;}
+.theshoesfranca .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.theshoesfranca .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.theshoesfranca .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.theshoesfranca .logged-menu li a:hover {text-decoration:none;}
+.theshoesfranca .on-scroll-bar #search-form-float.focus,
+.theshoesfranca .header-no-address #search-form.focus,
+.theshoesfranca .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.theshoesfranca .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.theshoesfranca .on-scroll-bar .search-form {border:none;}
+.theshoesfranca .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.theshoesfranca .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.theshoesfranca .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.theshoesfranca .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.theshoesfranca .slider-theme .rsBullet span {border:none;}
+.theshoesfranca .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.theshoesfranca .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.theshoesfranca .side-bar-menu-item a:hover {text-decoration:none;}
+.theshoesfranca .showcase-item-wrapper {border:none;}
+.theshoesfranca .offers-carousel-item-wrapper {border:none;}
+.theshoesfranca .paymants-bar {border-bottom:none;}
+.theshoesfranca .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.theshoesfranca .footer {border-bottom:none;}
+.theshoesfranca .footer-google-maps,
+.theshoesfranca .footer-credits {border-bottom:none;}
+.theshoesfranca .pagination > li > a,
+.theshoesfranca .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.theshoesfranca .pagination li.current a {box-shadow:none;}
+.theshoesfranca .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.theshoesfranca .product-color-size-color {border-left-color: #EEE;}
+.theshoesfranca .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.theshoesfranca .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}
+.theshoesfranca a.btn-default:hover{color:#FFF!important;}
+
+.navbar-nav>.open>a,
+.theshoesfranca .navbar-default .navbar-nav>.open>a:focus,
+.theshoesfranca .navbar-default .navbar-nav>li>a:hover {
+    color:#FFF!important;
+    text-decoration: underline;
+}

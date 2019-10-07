@@ -1,0 +1,123 @@
+/*
+* 1 - Cores
+*   1.1 - Primárias
+*       1.1.1 - Claríssimo
+*       1.1.2 - Claro
+*       1.1.3 - Medio
+*       1.1.4 - Escuro
+*   1.2 - Auxiliares
+        1.2.1 - Medio
+        1.2.2 - Escuro
+    1.3 - Padrões
+* 2 - Configurações Padrão
+*/
+
+/*1 - Cores*/
+
+/*1.1 - Primárias*/
+
+/*1.1.1 - Claríssimo*/
+.bothanica .header-buttons .btn-image
+{background-color:#E6F3CF !important;}
+/*1.1.2 - Claro*/
+.bothanica .user-opinion .icon-circle,.bothanica .on-scroll-bar .main-menu .form .form-control:focus,.bothanica .header-no-address .search-form,.bothanica .header-address .search-form,.bothanica .form-control:focus
+{border-color:#66C333 !important;}
+.bothanica .mobile-bar .btn.bothanica .mobile-bar .btn:hover,.bothanica .mobile-bar,.bothanica .paymants-bar .flags .box .divider,.bothanica .showcase-item-add.hvr-bounce-to-right:before,.bothanica .horizontal-bar,.bothanica .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.bothanica .on-scroll-bar .main-menu .form .btn.btn-primary,.bothanica .on-scroll-bar .content,.bothanica .header-no-address .search-enviar button,.bothanica .header-address .search-enviar button,.bothanica .btn.btn-primary,.bothanica .btn.btn-default
+{background-color:#66C333 !important;}
+/*1.1.3 - Medio*/
+.bothanica .contato .title,.bothanica .contato-info-title,.bothanica .contato-infos,.bothanica .product-sizes-title,.bothanica .product-colors-sizes-title,.bothanica .product-info-title,.bothanica .article .text a,.bothanica .inner-wrapper-content .text .title span,.bothanica .sobre-full-text h3,.bothanica .footer-list-title,.bothanica .paymants-bar .banks .frame h3,.bothanica .related-carousel-item-details-link,.bothanica .icon-title i,.bothanica .offers-carousel-item-details-link,.bothanica .icon-title i,.bothanica .user-opinion .icon-circle i,.bothanica .side-bar-menu-title,.bothanica .navbar-default .dropdown-header,.bothanica .main-menu .social .icon:hover i,.bothanica .header-buttons .btn-image,.bothanica .cart-bar .cart .icon,.bothanica .cart-bar .cart .text-top,.bothanica .cart-bar .logged i,.bothanica .cart-bar .logged .text-top,.bothanica .cart-bar .logout-link,.bothanica .cart-bar .sign .text-bot,.bothanica .cart-bar .login:hover *,.bothanica .cart-bar .login,.bothanica a
+{color:#0F4D33 !important;}
+.default-green .cart-bar .logged:hover,.bothanica .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.bothanica .on-scroll-bar .main-menu .form .btn.btn-primary,.bothanica .cart-bar .login-menu .button input:hover,.bothanica .btn.btn-primary:hover,.bothanica .btn.btn-primary,.bothanica .btn.btn-default:hover,.bothanica .btn.btn-default,.bothanica .cart-bar .login:hover
+{border-color:#0F4D33 !important;}
+.bothanica .main-menu li.curr a,.bothanica .main-menu li a:hover,.bothanica .on-scroll-bar .cart .icon .number,.bothanica .header-buttons .btn-image:hover,.bothanica .cart-bar .login-menu .button input:hover,.bothanica .cart-bar .login-menu .button input,.bothanica .btn.btn-primary:hover,.bothanica .btn.btn-default:hover
+{background-color:#0F4D33 !important;}
+/*1.1.4 - Escuro*/
+.bothanica .on-scroll-bar .middle-left .button:hover i,.bothanica .cart-bar .logged:hover i,.bothanica .cart-bar .logged:hover
+{color:#003829 !important;}
+.bothanica .on-scroll-bar .middle-left .button:hover,.bothanica .cart-bar .cart:hover
+{border-color:#003829 !important;}
+
+/*1.2 - Auxiliares*/
+/*1.2.1 - Medio*/
+.bothanica .header-address .address-ico i,.bothanica .header-address .address-link
+{color:#66C333 !important;}
+.bothanica .slider-theme .rsBullet.rsNavSelected span,.bothanica .full-banner .details .actions .btn
+{background-color:#66C333 !important;}
+/*1.2.2 - Escuro*/
+.bothanica .full-banner .details .actions .btn
+{border-color:#417D20 !important;}
+.bothanica .full-banner .details .actions .btn:hover
+{background-color:#417D20 !important;}
+
+/*1.3 - Padrões*/
+.bothanica .mobile-bar .btn.bothanica .mobile-bar .btn:hover,.bothanica .mobile-bar a,.bothanica .carrinho-pay-btn-continuar:hover *,.bothanica .carrinho-btn-comprar:hover *,.bothanica .paymants-bar .flags .box .divider span,.bothanica .full-banner .details .actions .btn,.bothanica .navbar-default .navbar-nav>li>a,.bothanica .main-menu li.curr a,.bothanica .main-menu li a:hover,.bothanica .on-scroll-bar .middle-left .button i,.bothanica .on-scroll-bar .cart .icon .number,.bothanica .on-scroll-bar .cart:hover *,.bothanica .on-scroll-bar .cart,.bothanica .header-buttons .btn-image:hover,.bothanica .header-no-address .search-enviar button,.bothanica .header-address .search-enviar button,.bothanica .cart-bar .login-menu .button input:hover,.bothanica .cart-bar .login-menu .button input,.bothanica .btn.btn-primary,.bothanica .btn.btn-default
+{color:#FFF !important;}
+.bothanica .article .text h3 small,.bothanica .article .text h3,.pagination li.current a,.pagination > li > a,.pagination > li > span,.bothanica .footer-list li a,.bothanica .paymants-bar .pagseguro h3,.bothanica .paymants-bar .pagseguro-link p,.bothanica .showcase-item-title h3,.bothanica .border-table tr th
+{color:#111 !important;}
+.bothanica .panel-default>.panel-heading,.bothanica #mobile-user-menu .modal-body .modal-list li a,.bothanica .carrinho-quantidade-input,.bothanica .product-info-por,.bothanica .product-colorpicker .lb,.bothanica .product-info-text,.bothanica .article .text p,.bothanica .related-carousel-item-title h3,.bothanica .offers-carousel-item-title h3,.bothanica .related-carousel-item-price-por,.bothanica .offers-carousel-item-price-por,.bothanica .showcase-item-price-por,.bothanica .logged-menu li a:hover,.bothanica .cart-bar .logged .text-bot
+{color:#222 !important;}
+.bothanica .inner-wrapper-content .text p,.bothanica .icon-title h2,.bothanica .showcase-title,.bothanica .side-bar-menu-item a,.bothanica .side-bar,.bothanica .full-banner .details p,.bothanica .full-banner .details h3,.bothanica .dropdown-menu-large>li>ul>li>a,.bothanica .navbar-default .navbar-nav>.open>a,.bothanica .navbar-default .navbar-nav>.open>a:focus,.bothanica .navbar-default .navbar-nav>li>a:hover,.bothanica .main-menu li a,.bothanica .on-scroll-bar .main-menu li.curr a,.bothanica .on-scroll-bar .main-menu li a:hover,.bothanica .on-scroll-bar .main-menu li a,.bothanica .on-scroll-bar .search-txt input,.bothanica .main-menu .social .icon i,.bothanica .logged-menu li a,.bothanica .cart-bar .cart .icon .number,.bothanica .cart-bar .cart,.bothanica .cart-bar .logged,.bothanica .back-button .btn.btn-default,.bothanica .border-table tr td
+{color:#444 !important;}
+.bothanica .carrinho-pay-btn-continuar *,.bothanica .carrinho-btn-comprar *,.bothanica .carrinho-valor-total h4,.bothanica .carrinho-valor-total div,.bothanica .product-info-de,.bothanica .article .text h4,.bothanica .inner-wrapper-content .text .title small,.bothanica .footer-list li,.bothanica .related-carousel-item-price-de,.bothanica .offers-carousel-item-price-de,.bothanica .showcase-item-price-de,.bothanica .full-banner .details h3 small,.bothanica .full-banner .details .price
+{color:#777 !important;}
+.bothanica .border-table tr td
+{border-color:#000 !important;}
+.bothanica .full-banner .details hr
+{border-color:#777 !important;}
+.bothanica .footer-google-maps,.bothanica .footer-credits,.bothanica .paymants-bar .banks .frame,.bothanica .paymants-bar .flags .box,.bothanica .related-carousel-item-wrapper,.bothanica .showcase-item-img,.bothanica .logged-menu li a,.bothanica .back-button .btn.btn-default
+{border-color:#DDD !important;}
+.bothanica .header-address .address.hvr-ripple-out:before
+{border-color:#FAFAFA !important;}
+.bothanica #mobile-user-menu .modal-body .modal-list li a,.bothanica .panel-default>.panel-heading,.bothanica .modal-footer,.bothanica .modal-header,.bothanica .product-colorpicker .icon,.bothanica .inner-wrapper-content .text .title,.bothanica .sobre-full-text h3,.bothanica .footer,.bothanica .paymants-bar,.bothanica .user-opinion,.bothanica .user-access,.bothanica .category-carousel,.bothanica .category-calls,.bothanica .side-bar-menu-item a,.bothanica .header-address .address.hvr-ripple-out:hover:before
+{border-color:#EEE !important;}
+.bothanica .pagination li:not([class*="current"]) a:hover,.bothanica .pagination li.current a,.bothanica .pagination > li > a,.bothanica .pagination > li > span,.bothanica .paymants-bar .line,.bothanica .on-scroll-bar .middle-left .button,.bothanica .on-scroll-bar .cart:hover
+{border-color:#FFF !important;}
+.bothanica .modal-header,.bothanica .modal-content,.bothanica .carrinho-btn-comprar,.bothanica .carrinho-frete,.bothanica .pagination li:not([class*="current"]) a:hover,.bothanica .pagination li.current a,.bothanica .pagination > li > a,.bothanica .pagination > li > span,.bothanica .paymants-bar,.bothanica .related-carousel-item-wrapper,.bothanica .offers-carousel-item-wrapper,.bothanica .side-bar-menu-item a,.bothanica .slider-theme .rsBullet span,.bothanica .dropdown-menu,.bothanica .on-scroll-bar .main-menu,.bothanica .on-scroll-bar .search-txt input,.bothanica .header-no-address .search-form,.bothanica .header-address .search-form,.bothanica .logged-menu li a,.bothanica .logged-menu,.bothanica .cart-bar .cart .icon .number,.bothanica .back-button .btn.btn-default
+{background-color:#FFF !important;}
+.bothanica .side-bar-menu-title,.bothanica .side-bar,.bothanica .navbar-default .navbar-nav>.open>a,.bothanica .navbar-default .navbar-nav>.open>a:focus,.bothanica .navbar-default .navbar-nav>li>a,.bothanica .navbar-default .navbar-nav>li>a:hover,.bothanica .on-scroll-bar .middle-left .button
+{background-color:transparent !important;}
+.bothanica .footer,.bothanica .category-carousel,.bothanica .category-calls,.bothanica .header-no-address,.bothanica .header-address,.bothanica
+{background-color:#FAFAFA !important;}
+.bothanica .inner-wrapper-content
+{background-color:#FEFEFE !important;}
+.bothanica .user-opinion,.bothanica .user-access .content,.bothanica .user-access,.bothanica .logged-menu li a:hover,.bothanica .cart-bar,.bothanica .striped-table tbody tr:nth-child(odd)
+{background-color:#F0F0F0 !important;}
+.bothanica .panel-default>.panel-heading,.bothanica .carrinho-pay-btn-continuar,.bothanica .carrinho-valor-total,.bothanica .product-color-size,.bothanica .inner-wrapper-title,.bothanica .side-bar-menu-item a:hover,.bothanica .main-menu,.bothanica .on-scroll-bar .main-menu li.curr a,.bothanica .on-scroll-bar .main-menu li a:hover,.bothanica .header-address .address:hover,.bothanica .back-button .btn.btn-default:hover
+{background-color:#EEE !important;}
+.bothanica .dropdown-menu .divider,.bothanica .striped-table tbody tr:hover
+{background-color:#DDD !important;}
+
+/*2 - Configurações Padrão*/
+.bothanica .pagination li:not([class*="current"]) a:hover,.bothanica .full-banner .details .actions .btn:hover,.bothanica .full-banner .details .actions .btn,.bothanica .navbar-default .navbar-nav>li>a:hover,.bothanica .on-scroll-bar .main-menu .form .btn.btn-primary:hover,.bothanica .on-scroll-bar .main-menu .form .btn.btn-primary,.bothanica .on-scroll-bar .middle-left .button:hover,.bothanica .main-menu .social .icon:hover i,.bothanica .header-buttons .btn-image:hover,.bothanica .header-no-address .search-enviar button:hover,.bothanica .header-address .search-enviar button:hover,.bothanica .cart-bar .logged i,.bothanica .cart-bar .logged,.bothanica .cart-bar .login,.bothanica .cart-bar .login-menu .button input,.bothanica .cart-bar .login-menu .button input:hover,.bothanica .back-button .btn.btn-default,.bothanica .back-button .btn.btn-default:hover,.bothanica .striped-table tbody tr:hover,.bothanica .striped-table tbody tr:nth-child(odd),.bothanica .btn.btn-primary,.bothanica .btn.btn-primary:hover,.bothanica .btn.btn-default,.bothanica .btn.btn-default:hover {transition:all 300ms !important;}
+.bothanica .cart-bar {box-shadow:0 0 3px 0px rgba(0,0,0,0.2);}
+.bothanica .cart-bar .logout-link {border-bottom: 1px solid rgba(0,0,0,0)!important;}
+.bothanica .logged-menu {box-shadow:0 2px 2px 0px rgba(0,0,0,0.2);}
+.bothanica .logged-menu li a:hover {text-decoration:none;}
+.bothanica .on-scroll-bar #search-form-float.focus,
+.bothanica .header-no-address #search-form.focus,
+.bothanica .header-address #search-form.focus {transition:all 150ms;box-shadow:2px 2px 4px 0px rgba(0,0,0,0.2);}
+.bothanica .on-scroll-bar .content {box-shadow:-1px 1px 10px 0px rgba(0,0,0,0.15);}
+.bothanica .on-scroll-bar .search-form {border:none;}
+.bothanica .on-scroll-bar .search-enviar button{transition:all 300ms;color:#444;transition:all 300ms;background:rgba(226,226,226,1);background:-moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(245,245,245,1)));background:-webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);background:linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(245,245,245,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.bothanica .on-scroll-bar .search-enviar button:hover{background:rgba(226,226,226,.8);background:-moz-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,.8)), color-stop(50%, rgba(219,219,219,.8)), color-stop(51%, rgba(209,209,209,.8)), color-stop(100%, rgba(245,245,245,.8)));background:-webkit-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-o-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:-ms-linear-gradient(top, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);background:linear-gradient(to bottom, rgba(226,226,226,.8) 0%, rgba(219,219,219,.8) 50%, rgba(209,209,209,.8) 51%, rgba(245,245,245,.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#f5f5f5', GradientType=0 );}
+.bothanica .on-scroll-bar .main-menu {box-shadow:0 1px 3px 0px rgba(0,0,0,0.1);}
+.bothanica .full-banner .overlay {background-color:rgba(250,250,250,.75);}
+.bothanica .slider-theme .rsBullet span {border:none;}
+.bothanica .slider-theme .rsBullet.rsNavSelected span {border:none;}
+.bothanica .side-bar-menu-title {border-bottom:none;padding-left:0;}
+.bothanica .side-bar-menu-item a:hover {text-decoration:none;}
+.bothanica .showcase-item-wrapper {border:none;}
+.bothanica .offers-carousel-item-wrapper {border:none;}
+.bothanica .paymants-bar {border-bottom:none;}
+.bothanica .paymants-bar .pagseguro-link a {color:#3eaa56;}
+.bothanica .footer {border-bottom:none;}
+.bothanica .footer-google-maps,
+.bothanica .footer-credits {border-bottom:none;}
+.bothanica .pagination > li > a,
+.bothanica .pagination > li > span {box-shadow:1px 1px 4px 0 rgba(0,0,0,0.2);}
+.bothanica .pagination li.current a {box-shadow:none;}
+.bothanica .pagination li:not([class*="current"]) a:hover {box-shadow:0 0 10px 0 rgba(0,0,0,0.3);}
+.bothanica .product-color-size-color {border-left-color: #EEE;}
+.bothanica .product-gallery{border-top-color:#CCC;border-left-color:#CCC;border-bottom-color:#CCC;}
+.bothanica .product-gallery .image{border-right-color:#CCC;border-bottom-color:#CCC;background-color:#EEE;}
+.bothanica a.btn-default:hover{color:#FFF!important;}
